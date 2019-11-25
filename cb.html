@@ -6,6 +6,7 @@
     <style>
         body {
              background-color: #000000;
+             color: #cccccc;
         }
     </style>
     <link rel="icon" type="image/png" href="https://vertical73.github.io/cb-icon.png">
@@ -17,15 +18,28 @@
             var anchor = document.createElement("a");
             anchor.href = cbUrl;
             anchor.target = "_blank";
-            var img = document.createElement("img");
+            var img = new Image();
             img.src = imgUrl;
             
-            var span = document.createElement("span");
-            span.id = model;
-            span.class = "model";
-            anchor.appendChild(img);
-            span.appendChild(anchor);
-            document.body.appendChild(span);
+            var xhr = new XMLHttpRequest();
+            xhr.open('HEAD', imgUrl, false);
+            var imgSize = 0;
+            xhr.onreadystatechange = function() {
+                if ( xhr.readyState == 4 ) {
+                    imgSize = xhr.getResponseHeader('Content-Length');
+                    console.log(model + " img size: " + imgSize);
+                    if (imgSize != 21971 && imgSize != 7442) {
+                        var div = document.createElement("div");
+                        div.id = model;
+                        div.class = "model";
+                        div.style = "display: inline;";
+                        anchor.appendChild(img);
+                        div.appendChild(anchor);
+                        document.body.appendChild(div);
+                    }
+                }
+            }
+            xhr.send();
         }
     </script>
 </head>
@@ -41,7 +55,7 @@
     -->
 
     <script>
-        var models = ["evasasha","lovely_monic","mikimakey","cogitademe","dreamana","wild_schoolgirl"];
+        var models = ["evasasha","lovely_monic","mikimakey","cogitademe","dreamana","wild_schoolgirl","daddyzsecret"];
         for (n in models) {
             writeModelNode(models[n]);
         }
