@@ -22,13 +22,13 @@
             xhr.onreadystatechange = function() {
                 if ( xhr.readyState == 4 ) {
                     imgSize = xhr.getResponseHeader('Content-Length');
-                    console.log(imgUrl + "\t" + imgSize);
                     if (imgSize != 21971 && imgSize != 7442) {
                         var anchor = document.createElement("a");
                         anchor.href = cbUrl;
                         anchor.target = "_blank";
                         var img = new Image();
                         img.src = imgUrl;
+                        console.log(imgUrl + "\t" + imgSize + "\t*");
 
                         var div = document.createElement("div");
                         div.id = model;
@@ -37,6 +37,8 @@
                         anchor.appendChild(img);
                         div.appendChild(anchor);
                         document.body.appendChild(div);
+                    } else {
+                        console.log(imgUrl + "\t" + imgSize);
                     }
                 }
             }
