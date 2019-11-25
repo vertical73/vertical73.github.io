@@ -28,7 +28,7 @@
                         anchor.target = "_blank";
                         var img = new Image();
                         img.src = imgUrl;
-                        console.log(imgUrl + "\t" + imgSize + "\t*");
+                        console.log(imgUrl + "\t" + imgSize + "\t*\t" + model);
 
                         var div = document.createElement("div");
                         div.id = model;
@@ -38,7 +38,7 @@
                         div.appendChild(anchor);
                         document.body.appendChild(div);
                     } else {
-                        console.log(imgUrl + "\t" + imgSize);
+                        console.log(imgUrl + "\t" + imgSize + "\t-\t" + model);
                     }
                 }
             }
