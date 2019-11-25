@@ -22,7 +22,8 @@
             xhr.onreadystatechange = function() {
                 if ( xhr.readyState == 4 ) {
                     imgSize = xhr.getResponseHeader('Content-Length');
-                    if (imgSize != 21971 && imgSize != 7442) {
+                    var cacheStatus = xhr.getResponseHeader('cf-cache-status');
+                    if ((imgSize != 21971 && imgSize != 7442) || (cacheStatus === 'HIT')) {
                         var anchor = document.createElement("a");
                         anchor.href = cbUrl;
                         anchor.target = "_blank";
