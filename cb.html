@@ -11,7 +11,7 @@
     <link rel="icon" type="image/png" href="https://vertical73.github.io/cb-icon.png">
     <link rel="shortcut icon" type="image/png" href="https://vertical73.github.io/cb-icon.png">
     <script>
-        function writeModelNode(model, id) {
+        function writeModelNode(model) {
             var cbUrl = "https://m.chaturbate.com/" + model + "/";
             var imgUrl =  "https://roomimg.stream.highwebmedia.com/ri/" + model + ".jpg";
             var anchor = document.createElement("a");
@@ -20,9 +20,12 @@
             var img = document.createElement("img");
             img.src = imgUrl;
             
-            var element = document.getElementById(id);
+            var span = document.createElement("span");
+            span.id = model;
+            span.class = "model";
             anchor.appendChild(img);
-            element.appendChild(anchor);
+            span.appendChild(anchor);
+            document.body.appendChild(span);
         }
     </script>
 </head>
@@ -36,35 +39,11 @@
     <span><a href="https://m.chaturbate.com/molly_doolly/" target="_blank"><img src="https://roomimg.stream.highwebmedia.com/ri/molly_doolly.jpg"></a></span>
     <span><a href="https://m.chaturbate.com/dreamana/" target="_blank"><img src="https://roomimg.stream.highwebmedia.com/ri/dreamana.jpg"></a></span>
     -->
-    <span id="m0"></span>
-    <span id="m1"></span>
-    <span id="m2"></span>
-    <span id="m3"></span>
-    <span id="m4"></span>
-    <span id="m5"></span>
-    <span id="m6"></span>
-    <span id="m7"></span>
-    <span id="m8"></span>
-    <span id="m9"></span>
-    <span id="m10"></span>
-    <span id="m11"></span>
-    <span id="m12"></span>
-    <span id="m13"></span>
-    <span id="m14"></span>
-    <span id="m15"></span>
-    <span id="m16"></span>
-    <span id="m17"></span>
-    <span id="m18"></span>
-    <span id="m19"></span>
-    <span id="m20"></span>
-    <span id="m21"></span>
-    <span id="m22"></span>
-    <span id="m23"></span>
-    
+
     <script>
         var models = ["evasasha","lovely_monic","mikimakey","cogitademe","dreamana","wild_schoolgirl"];
         for (n in models) {
-            writeModelNode(models[n], "m" + n);
+            writeModelNode(models[n]);
         }
     </script>
 
