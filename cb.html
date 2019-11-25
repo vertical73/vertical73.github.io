@@ -11,11 +11,18 @@
     <link rel="icon" type="image/png" href="https://vertical73.github.io/cb-icon.png">
     <link rel="shortcut icon" type="image/png" href="https://vertical73.github.io/cb-icon.png">
     <script>
-        function writeModel(m, i) {
-            document.getElementById(i).innerHTML = 
-                '<a href="https://m.chaturbate.com/' + m + '/" target="_blank">'
-                + '<img src="https://roomimg.stream.highwebmedia.com/ri/' + m + '.jpg">'
-                + '</a>'
+        function writeModelNode(model, id) {
+            var cbUrl = "https://m.chaturbate.com/" + model + "/";
+            var imgUrl =  "https://roomimg.stream.highwebmedia.com/ri/" + model + ".jpg";
+            var anchor = document.createElement("a");
+            anchor.href = cbUrl;
+            anchor.target = "_blank";
+            var img = document.createElement("img");
+            img.src = imgUrl;
+            
+            var element = document.getElementById(id);
+            anchor.appendChild(img);
+            element.appendChild(anchor);
         }
     </script>
 </head>
@@ -57,7 +64,7 @@
     <script>
         var models = ["evasasha","lovely_monic","mikimakey","cogitademe","dreamana","wild_schoolgirl"];
         for (n in models) {
-            writeModel(models[n], "m" + n);
+            writeModelNode(models[n], "m" + n);
         }
     </script>
 
