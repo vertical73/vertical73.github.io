@@ -22,11 +22,12 @@
             img.src = imgUrl;
             
             var xhr = new XMLHttpRequest();
-            xhr.open('HEAD', imgUrl, true);
+            xhr.open('HEAD', imgUrl, false);
             var imgSize = 0;
             xhr.onreadystatechange = function() {
                 if ( xhr.readyState == 4 ) {
                     imgSize = xhr.getResponseHeader('Content-Length');
+                    console.log(model + " img size: " + imgSize);
                     if (imgSize != 21971 && imgSize != 7442) {
                         var div = document.createElement("div");
                         div.id = model;
@@ -38,7 +39,7 @@
                     }
                 }
             }
-            xhr.send(null);
+            xhr.send();
         }
     </script>
 </head>
