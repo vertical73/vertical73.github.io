@@ -7,6 +7,6 @@ var models = [
     "dreamana",
     "wild_schoolgirl",
     "andrewandsuzie",
-    “sophieee77”
+    "sophieee77"
 ];
 
