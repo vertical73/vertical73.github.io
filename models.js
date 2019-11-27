@@ -5,7 +5,6 @@ var models = [
     "mikimakey",
     "cogitademe",
     "dreamana",
-    "wild_schoolgirl",
-    "laracroftt"
+    "wild_schoolgirl"
 ];
 
