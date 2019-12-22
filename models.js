@@ -7,6 +7,7 @@ var models = [
     "cogitademe",
     "wild_schoolgirl",
     "diffgirls",
-    "star_gazing"
+    "star_gazing",
+    "heyhorny_cb"
 ];
 
