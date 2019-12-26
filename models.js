@@ -10,6 +10,7 @@ var models = [
     "your_devil_girl",
     "heyhorny_cb",
     "shine_girl18",
-    "star_gazing"
+    "star_gazing",
+    "firefox_"
 ];
 
