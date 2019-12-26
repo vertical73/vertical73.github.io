@@ -9,6 +9,7 @@ var models = [
     "diffgirls",
     "your_devil_girl",
     "heyhorny_cb",
+    "shine_girl18",
     "star_gazing"
 ];
 
