@@ -29,6 +29,7 @@
     <link rel="icon" type="image/png" href="https://vertical73.github.io/cb-icon.png">
     <link rel="shortcut icon" type="image/png" href="https://vertical73.github.io/cb-icon.png">
     <script>
+        var _onlineCount = 0;
         function writeModelNode(model) {
             var cbUrl = "https://m.chaturbate.com/" + model + "/";
             var imgUrl =  "https://roomimg.stream.highwebmedia.com/ri/" + model + ".jpg";
@@ -55,12 +56,22 @@
                         anchor.appendChild(img);
                         div.appendChild(anchor);
                         document.body.appendChild(div);
+                        
+                        _onlineCount++;
                     } else {
                         console.log(imgUrl + "\t-\t" + imgSize + "\t-\t" + model);
                     }
                 }
             }
             xhr.send();
+        }
+
+        function writeFinNode() {
+            console.log("writing fin node");
+            var div = document.createElement("div");
+            div.className = "fin";
+            div.textContent = "~~~~~";
+            document.body.appendChild(div);
         }
     </script>
 </head>
@@ -77,12 +88,18 @@
 
     <script src="./models.js"></script>
     <script>
+        var i = 0;
         for (n in models) {
-            writeModelNode(models[n]);
+            i += writeModelNode(models[n]);
+        }
+        if (_onlineCount < 1) {
+            writeFinNode();
+        } else {
+            console.log(_onlineCount + " models online");
         }
     </script>
 
-    <div class="fin">~~~~~</div>
+    <!-- <div class="fin">~~~</div> -->
 
 </body>
 
