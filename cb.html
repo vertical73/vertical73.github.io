@@ -36,9 +36,24 @@
             
             var xhr = new XMLHttpRequest();
             xhr.open('HEAD', imgUrl, false);
+            var cacheStatus;
             var imgSize = 0;
             xhr.onreadystatechange = function() {
                 if ( xhr.readyState == 4 ) {
+
+                    /*
+                    var headers = xhr.getAllResponseHeaders();
+                    var headersArr = headers.trim().split(/[\r\n]+/);
+                    var headerMap = {};
+                    headersArr.forEach(function (line) {
+                        var parts = line.split(': ');
+                        var header = parts.shift();
+                        var value = parts.join(': ');
+                        headerMap[header] = value;
+                        console.log(header + ": " + value);
+                    });
+                    */
+
                     imgSize = xhr.getResponseHeader('Content-Length');
                     if ((imgSize != 21971 && imgSize != 7442)) {
                         var anchor = document.createElement("a");
