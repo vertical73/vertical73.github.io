@@ -11,17 +11,17 @@
         }
         /*###Desktops, big landscape tablets and laptops(Large, Extra large)####*/
         @media screen and (min-width: 1024px){
-        /*Style*/
+            /*Style*/
         }
         
         /*###Tablet(medium)###*/
         @media screen and (min-width : 768px) and (max-width : 1023px){
-        /*Style*/
+            /*Style*/
         }
         
         /*### Smartphones (portrait and landscape)(small)### */
         @media screen and (min-width : 0px) and (max-width : 767px){
-        /*Style*/
+            /*Style*/
         }
 
        .fin { color: #999; font-size: 36pt; width: 100%; align: center; }
@@ -40,8 +40,7 @@
             xhr.onreadystatechange = function() {
                 if ( xhr.readyState == 4 ) {
                     imgSize = xhr.getResponseHeader('Content-Length');
-                    var cacheStatus = xhr.getResponseHeader('cf-cache-status');
-                    if ((imgSize != 21971 && imgSize != 7442) || (cacheStatus === 'HIT')) {
+                    if ((imgSize != 21971 && imgSize != 7442)) {
                         var anchor = document.createElement("a");
                         anchor.href = cbUrl;
                         anchor.target = "_blank";
