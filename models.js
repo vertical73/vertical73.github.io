@@ -2,7 +2,7 @@ var models = [
     "evasasha",
     "liisppb",
     "mikimakey",
-    "lovely_monic",
+    "sweet_tinker_bell",
     "molly_doolly",
     "cogitademe",
     "wild_schoolgirl",
