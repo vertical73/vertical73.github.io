@@ -12,6 +12,6 @@ var models = [
     "shine_girl18",
     "star_gazing",
     "agatha137",
-    "smithaya"
+    "_ayya"
 ];
 
