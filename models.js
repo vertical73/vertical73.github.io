@@ -12,10 +12,10 @@ var models = [
     "shine_girl18",
     "agatha137",
     "_ayya",
-    "mvladlena"
+    "mvladlena",
     "dreamana",
     "your_devil_girl",
     "star_gazing",
-    "diffgirls",
+    "diffgirls"
 ];
 
