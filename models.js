@@ -15,6 +15,7 @@ var models = [
     "dreamana",
     "your_devil_girl",
     "star_gazing",
-    "diffgirls"
+    "diffgirls",
+    "krissone"
 ];
 
