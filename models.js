@@ -13,8 +13,6 @@ var models = [
     "_ayya",
     "mvladlena",
     "dreamana",
-    "your_devil_girl",
-    "star_gazing",
     "diffgirls",
     "krissone",
     "aliceee333"
