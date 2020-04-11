@@ -13,9 +13,6 @@ var models = [
     "heyhorny_cb",
     "molly_doolly",
     "wild_schoolgirl",
-    "diffgirls",
-    "krissone",
-    "badi_lii",
     "jess_anders__"
 ];
 
