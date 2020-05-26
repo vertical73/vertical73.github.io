@@ -13,6 +13,7 @@ var models = [
     "molly_doolly",
     "wild_schoolgirl",
     "jess_anders__",
-    "sweet_tinker_bell"
+    "sweet_tinker_bell",
+    "kleasure"
 ];
 
