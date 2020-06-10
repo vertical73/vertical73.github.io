@@ -10,7 +10,6 @@ var models = [
     "_ayya",
     "mvladlena",
     "heyhorny_cb",
-    "molly_doolly",
     "wild_schoolgirl",
     "jess_anders__",
     "sweet_tinker_bell",
