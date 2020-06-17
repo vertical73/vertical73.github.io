@@ -2,7 +2,7 @@
 
 <head>
     <title>cb</title>
-    <meta http-equiv="refresh" content="10" >
+    <meta http-equiv="refresh" content="5" >
     <meta name="viewport" content="width=device-width,height=device-height,initial-scale=1.0"/>
     <style>
         body {
@@ -34,6 +34,7 @@
         function writeModelNode(model) {
             var cbUrl = "https://m.chaturbate.com/" + model + "/";
             var imgUrl =  "https://roomimg.stream.highwebmedia.com/ri/" + model + ".jpg";
+            var activeUrl =  "https://cbjpeg.stream.highwebmedia.com/minifap/" + model + ".jpg?f=1";
             
             var xhr = new XMLHttpRequest();
             xhr.open('HEAD', imgUrl, false);
@@ -61,8 +62,8 @@
                         anchor.href = cbUrl;
                         anchor.target = "_blank";
                         var img = new Image();
-                        img.src = imgUrl;
-                        console.log(imgUrl + "\t*\t" + imgSize + "\t*\t" + model);
+                        img.src = activeUrl;
+                        console.log(activeUrl + "\t*\t" + imgSize + "\t*\t" + model);
 
                         var div = document.createElement("div");
                         div.id = model;
