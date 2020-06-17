@@ -34,7 +34,7 @@
         function writeModelNode(model) {
             var cbUrl = "https://m.chaturbate.com/" + model + "/";
             var imgUrl =  "https://roomimg.stream.highwebmedia.com/ri/" + model + ".jpg";
-            var activeUrl =  "https://cbjpeg.stream.highwebmedia.com/minifap/" + model + ".jpg?f=1";
+            var activeUrl =  "https://cbjpeg.stream.highwebmedia.com/minifap/" + model + ".jpg?f=" + Math.random();
             
             var xhr = new XMLHttpRequest();
             xhr.open('HEAD', imgUrl, false);
