@@ -2,7 +2,7 @@
 
 <head>
     <title>cb</title>
-    <meta http-equiv="refresh" content="5" >
+    <meta http-equiv="refresh" content="60" >
     <meta name="viewport" content="width=device-width,height=device-height,initial-scale=1.0"/>
     <style>
         body {
@@ -31,26 +31,27 @@
     <link rel="shortcut icon" type="image/png" href="https://vertical73.github.io/cb-icon.png">
     <script>
         var _onlineCount = 0;
+        var _modelImages = new Map();
         function writeModelNode(model) {
-            var cbUrl = "https://m.chaturbate.com/" + model + "/";
-            var imgUrl =  "https://roomimg.stream.highwebmedia.com/ri/" + model + ".jpg";
-            var activeUrl =  "https://cbjpeg.stream.highwebmedia.com/minifap/" + model + ".jpg?f=" + Math.random();
+            let cbUrl = "https://m.chaturbate.com/" + model + "/";
+            let imgUrl =  "https://roomimg.stream.highwebmedia.com/ri/" + model + ".jpg";
+            let activeUrl =  "https://cbjpeg.stream.highwebmedia.com/minifap/" + model + ".jpg?f=" + Math.random();
             
-            var xhr = new XMLHttpRequest();
+            let xhr = new XMLHttpRequest();
             xhr.open('HEAD', imgUrl, false);
-            var cacheStatus;
-            var imgSize = 0;
+            let cacheStatus;
+            let imgSize = 0;
             xhr.onreadystatechange = function() {
                 if ( xhr.readyState == 4 ) {
 
                     /*
-                    var headers = xhr.getAllResponseHeaders();
-                    var headersArr = headers.trim().split(/[\r\n]+/);
-                    var headerMap = {};
+                    let headers = xhr.getAllResponseHeaders();
+                    let headersArr = headers.trim().split(/[\r\n]+/);
+                    let headerMap = {};
                     headersArr.forEach(function (line) {
-                        var parts = line.split(': ');
-                        var header = parts.shift();
-                        var value = parts.join(': ');
+                        let parts = line.split(': ');
+                        let header = parts.shift();
+                        let value = parts.join(': ');
                         headerMap[header] = value;
                         console.log(header + ": " + value);
                     });
@@ -58,14 +59,15 @@
 
                     imgSize = xhr.getResponseHeader('Content-Length');
                     if ((imgSize != 21971 && imgSize != 7442)) {
-                        var anchor = document.createElement("a");
+                        let anchor = document.createElement("a");
                         anchor.href = cbUrl;
                         anchor.target = "_blank";
-                        var img = new Image();
+                        let img = new Image();
                         img.src = activeUrl;
                         console.log(activeUrl + "\t*\t" + imgSize + "\t*\t" + model);
+                        _modelImages.set(model, img);
 
-                        var div = document.createElement("div");
+                        let div = document.createElement("div");
                         div.id = model;
                         div.class = "model";
                         div.style = "display: inline;";
@@ -84,11 +86,20 @@
 
         function writeFinNode() {
             console.log("writing fin node");
-            var div = document.createElement("div");
+            let div = document.createElement("div");
             div.className = "fin";
             div.textContent = "~~~~~";
             document.body.appendChild(div);
         }
+
+        function refreshing() {
+            let n = Date.now();
+            document.title = "cb / " + n;
+            for (let [k,v] of _modelImages) {
+                v.src = "https://cbjpeg.stream.highwebmedia.com/minifap/" + k + ".jpg?" + n;
+            }
+        }
+        var refresher = setInterval(refreshing, 275);
     </script>
 </head>
 
