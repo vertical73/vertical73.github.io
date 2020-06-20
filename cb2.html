@@ -70,7 +70,6 @@
             let info = _modelInfo.get(model);
             let imgSize = info.imgSize;
             let imgSizeHist = info.imgSizeHist;
-            console.log(model + ": " + imgSizeHist);
             if (imgSize == 0 || imgSize == 7442 || imgSize == 21971) {
                 return true;
             }
@@ -83,7 +82,7 @@
                         unique.push(imgSizeHist[i]);
                     }
                 }
-                console.log(model + " / " + unique + " (" + unique.length + ")");
+                console.log(model + " / " + unique + " (" + unique.length + ") / " + imgSizeHist);
                 return unique.length < 3;
             }
 
@@ -208,7 +207,7 @@
         }
 
         var refresher = setInterval(refreshing, 275);
-        var information = setInterval(updatingInfo, 5000);        
+        var information = setInterval(updatingInfo, 6000);        
         var updater = setInterval(updating, 10000);
     </script>
 </body>
