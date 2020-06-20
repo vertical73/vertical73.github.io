@@ -1,0 +1,198 @@
+<html>
+
+<head>
+    <title>cb</title>
+    <!-- ><meta http-equiv="refresh" content="60" > -->
+    <meta name="viewport" content="width=device-width,height=device-height,initial-scale=1.0"/>
+    <style>
+        body {
+             background-color: #000000;
+             color: #cccccc;
+             margin: 0px 0px 0px 0px;
+        }
+        /*###Desktops, big landscape tablets and laptops(Large, Extra large)####*/
+        @media screen and (min-width: 1024px){
+            /*Style*/
+        }
+        
+        /*###Tablet(medium)###*/
+        @media screen and (min-width : 768px) and (max-width : 1023px){
+            /*Style*/
+        }
+        
+        /*### Smartphones (portrait and landscape)(small)### */
+        @media screen and (min-width : 0px) and (max-width : 767px){
+            /*Style*/
+        }
+
+       .fin { color: #999; font-size: 36pt; width: 100%; align: center; }
+    </style>
+    <link rel="icon" type="image/png" href="https://vertical73.github.io/cb-icon.png">
+    <link rel="shortcut icon" type="image/png" href="https://vertical73.github.io/cb-icon.png">
+
+    <script src="./models.js"></script>
+    <script>
+        var _onlineCount = 0;
+        var _modelInfo = new Map();    
+        var _modelBoxes = new Map();
+        var _modelImages = new Map();
+    </script>
+    <script>
+        function updateModelInfo(model) {
+            let imgUrl =  "https://roomimg.stream.highwebmedia.com/ri/" + model + ".jpg";
+            let activeUrl =  "https://cbjpeg.stream.highwebmedia.com/minifap/" + model + ".jpg?f=" + Math.random();
+            let xhr = new XMLHttpRequest();
+            xhr.open('HEAD', imgUrl, false);
+            let imgSize = 0;
+            xhr.onreadystatechange = function() {
+                if ( xhr.readyState == 4 ) {
+                    imgSize = xhr.getResponseHeader('Content-Length');
+                    if (imgSize > 0 && imgSize != 21971 && imgSize != 7442) {
+                        let currentInfo = _modelInfo.get(model);
+                        if (imgSize != currentInfo.imgSize) {
+                            let newInfo = {
+                                model: model,
+                                imgSize: imgSize,
+                                updated: Date.now()
+                            };
+                            _modelInfo.set(model, newInfo);
+                        }
+                    }
+                }
+            }
+            xhr.send();
+        }
+    
+        function updateModelsInfo() {
+            // TODO
+        }
+        
+        function updateModelBox(model) {
+            let box = _modelBoxes.get(model);
+            let info = _modelInfo.get(model);
+            if (info === undefined) {
+                box.style.display = "none";
+            } else {
+                let imgSize = info.imgSize;
+                let updated = info.updated;
+                if (imgSize === 21971 || imgSize === 7442) {
+                    box.style.display = "none";
+                } else {
+                    console.log(model + " last updated: " + (Date.now() - info.updated )/1000 + " ago; size: " + info.imgSize);
+                    if (updated < (Date.now() - 30000)) {
+                        box.style.display = "none";
+                    } else {
+                        let anchor = box.firstElementChild;
+                        let imgUrl =  "https://roomimg.stream.highwebmedia.com/ri/" + model + ".jpg";
+                        let activeUrl =  "https://cbjpeg.stream.highwebmedia.com/minifap/" + model + ".jpg?f=" + Math.random();
+                        if (anchor === undefined) {
+                            let img = new Image();
+                            img.src = activeUrl;
+                            anchor.appendChild(img);
+                            box.appendChild(anchor);
+                        } else {
+                            let img = anchor.firstElementChild;
+                            img.src = activeUrl;
+                        }
+                    }
+                }
+            }
+        }
+        
+        function updatingInfo() {
+            for (n in models) {
+                updateModelInfo(models[n]);
+            }
+        }
+        
+        function updating() {
+            for (n in models) {
+                updateModelBox(models[n]);
+            }
+        }
+    </script>
+    <script>
+        function writeModelNode(model) {
+            let cbUrl = "https://m.chaturbate.com/" + model + "/";
+            let imgUrl =  "https://roomimg.stream.highwebmedia.com/ri/" + model + ".jpg";
+            let activeUrl =  "https://cbjpeg.stream.highwebmedia.com/minifap/" + model + ".jpg?f=" + Math.random();
+            
+            let xhr = new XMLHttpRequest();
+            xhr.open('HEAD', imgUrl, false);
+            let cacheStatus;
+            let imgSize = 0;
+
+            let modelBox = document.createElement("div");
+            _modelBoxes.set(model, modelBox);
+            modelBox.id = "channel:" + model;
+            modelBox.class = "model";
+            modelBox.style.display = "none";
+
+            xhr.onreadystatechange = function() {
+                if ( xhr.readyState == 4 ) {
+                    imgSize = xhr.getResponseHeader('Content-Length');
+                    if ((imgSize != 21971 && imgSize != 7442)) {
+                        let anchor = document.createElement("a");
+                        anchor.href = cbUrl;
+                        anchor.target = "_blank";
+                        let img = new Image();
+                        img.src = activeUrl;
+                        _modelImages.set(model, img);
+                        let info = {
+                            model: model,
+                            imgSize: imgSize,
+                            updated: Date.now()
+                        };
+                        _modelInfo.set(model, info);
+
+                        modelBox.style.display = "inline";
+                        anchor.appendChild(img);
+                        modelBox.appendChild(anchor);
+                        
+                        _onlineCount++;
+                    } else {
+                        console.log(imgUrl + "\t-\t" + imgSize + "\t-\t" + model);
+                    }
+
+                    document.body.appendChild(modelBox);
+                }
+            }
+            xhr.send();
+        }
+
+        function writeFinNode() {
+            console.log("writing fin node");
+            let div = document.createElement("div");
+            div.className = "fin";
+            div.textContent = "~~~~~";
+            document.body.appendChild(div);
+        }
+
+        function refreshing() {
+            let n = Date.now();
+            document.title = "cb / " + n;
+            for (let [k,v] of _modelImages) {
+                v.src = "https://cbjpeg.stream.highwebmedia.com/minifap/" + k + ".jpg?" + n;
+            }
+        }
+    </script>
+</head>
+
+<body>
+    <script>
+        for (n in models) {
+            writeModelNode(models[n]);
+        }
+        if (_onlineCount < 1) {
+            writeFinNode();
+        } else {
+            console.log(_onlineCount + " models online");
+        }
+
+        var refresher = setInterval(refreshing, 275);
+        var information = setInterval(updatingInfo, 5000);        
+        var updater = setInterval(updating, 10000);
+    </script>
+</body>
+
+</html>
