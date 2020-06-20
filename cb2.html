@@ -53,7 +53,7 @@
                     if (imgSizeHist.length < 5) {
                         imgSizeHist.push(imgSize);
                     } else {
-                        let p = (Date.now() % 5);
+                        let p = Math.floor(Math.random() * 5);
                         imgSizeHist[p] = imgSize;
                     }
                     
@@ -80,10 +80,11 @@
                     if (unique.includes(imgSizeHist[i])) {
                         continue;
                     } else {
-                        unique.pop(imgSizeHist[i]);
+                        unique.push(imgSizeHist[i]);
                     }
                 }
-                return unique.length > 2;
+                console.log(model + " / " + unique + " (" + unique.length + ")");
+                return unique.length < 3;
             }
 
             return false;
