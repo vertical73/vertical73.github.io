@@ -15,6 +15,7 @@ var models = [
     "kleasure",
     "badi_lii",
     "agatha137",
-    "mscoolcheese"
+    "mscoolcheese",
+    "krissone"
 ];
 
