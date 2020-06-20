@@ -47,6 +47,7 @@
             xhr.onreadystatechange = function() {
                 if ( xhr.readyState == 4 ) {
                     imgSize = xhr.getResponseHeader('Content-Length');
+                    console.log("[" + Date.now() + "] " + model + "; " + imgSize);
                     if (imgSize > 0 && imgSize != 21971 && imgSize != 7442) {
                         let currentInfo = _modelInfo.get(model);
                         if (imgSize != currentInfo.imgSize) {
@@ -63,10 +64,6 @@
             xhr.send();
         }
     
-        function updateModelsInfo() {
-            // TODO
-        }
-        
         function updateModelBox(model) {
             let box = _modelBoxes.get(model);
             let info = _modelInfo.get(model);
@@ -151,8 +148,6 @@
                         modelBox.appendChild(anchor);
                         
                         _onlineCount++;
-                    } else {
-                        console.log(imgUrl + "\t-\t" + imgSize + "\t-\t" + model);
                     }
 
                     document.body.appendChild(modelBox);
