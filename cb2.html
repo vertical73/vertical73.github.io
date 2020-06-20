@@ -82,8 +82,10 @@
                         unique.push(imgSizeHist[i]);
                     }
                 }
-                console.log(model + " / " + unique + " (" + unique.length + ") / " + imgSizeHist);
+                console.log(model + ": [" + unique + "] (" + unique.length + "); [" + imgSizeHist + "]");
                 return unique.length < 3;
+            } else {
+                console.log(model + ": [" + imgSizeHist + "]");
             }
 
             return false;
