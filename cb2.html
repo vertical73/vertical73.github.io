@@ -85,6 +85,7 @@
                         let anchor = box.firstElementChild;
                         let imgUrl =  "https://roomimg.stream.highwebmedia.com/ri/" + model + ".jpg";
                         let activeUrl =  "https://cbjpeg.stream.highwebmedia.com/minifap/" + model + ".jpg?f=" + Math.random();
+                        box.style.display = "inline";
                         if (anchor === undefined) {
                             let img = new Image();
                             img.src = activeUrl;
