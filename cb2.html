@@ -40,8 +40,7 @@
     <script>
         function updateModelInfo(model) {
             let imgUrl =  "https://roomimg.stream.highwebmedia.com/ri/" + model + ".jpg";
-            let activeUrl =  "https://cbjpeg.stream.highwebmedia.com/minifap/" + model + ".jpg?f=" + Math.random();
-            imgUrl = activeUrl;
+//             let activeUrl =  "https://cbjpeg.stream.highwebmedia.com/minifap/" + model + ".jpg?f=" + Math.random();
             let xhr = new XMLHttpRequest();
             xhr.open('HEAD', imgUrl, false);
             let imgSize = 0;
