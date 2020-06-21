@@ -101,7 +101,7 @@
                 let imgUrl =  "https://roomimg.stream.highwebmedia.com/ri/" + model + ".jpg";
                 let activeUrl =  "https://cbjpeg.stream.highwebmedia.com/minifap/" + model + ".jpg?f=" + Math.random();
                 let anchor = box.firstElementChild;
-                if (anchor === undefined) {
+                if (anchor === undefined || anchor === null) {
                     anchor = document.createElement("a");
                     let cbUrl = "https://m.chaturbate.com/" + model + "/";
                     anchor.href = cbUrl;
@@ -113,7 +113,7 @@
                     box.appendChild(anchor);
                 } else {
                     let img = anchor.firstElementChild;
-                    if (img === undefined) {
+                    if (img === undefined || img === null) {
                         img = new Image();
                         _modelImages.set(model, img);
                         anchor.appendChild(img);
