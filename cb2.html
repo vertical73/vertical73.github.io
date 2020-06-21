@@ -56,8 +56,9 @@
                         imgSizeHist[p] = imgSize;
                     }
                     
-                    info.updated = Date.now();
+                    info.imgSize = imgSize;
                     info.imgSizeHist = imgSizeHist;
+                    info.updated = Date.now();
                     
                     _modelInfo.set(model, info);
                 }
@@ -140,10 +141,10 @@
             let imgSize = 0;
 
             let modelBox = document.createElement("div");
-            _modelBoxes.set(model, modelBox);
             modelBox.id = "channel:" + model;
             modelBox.class = "model";
             modelBox.style.display = "none";
+            _modelBoxes.set(model, modelBox);
 
             xhr.onreadystatechange = function() {
                 if ( xhr.readyState == 4 ) {
@@ -208,7 +209,7 @@
         }
 
         var refresher = setInterval(refreshing, 275);
-        var information = setInterval(updatingInfo, 6000);        
+        var information = setInterval(updatingInfo, 6000);
         var updater = setInterval(updating, 10000);
     </script>
 </body>
