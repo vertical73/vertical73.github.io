@@ -24,14 +24,13 @@
             /*Style*/
         }
 
-       .fin { color: #999; font-size: 36pt; width: 100%; align: center; }
+       #fin { color: #999; font-size: 36pt; width: 100%; align: center; }
     </style>
     <link rel="icon" type="image/png" href="https://vertical73.github.io/cb-icon.png">
     <link rel="shortcut icon" type="image/png" href="https://vertical73.github.io/cb-icon.png">
 
     <script src="./models.js"></script>
     <script>
-        var _onlineCount = 0;
         var _modelInfo = new Map();    
         var _modelBoxes = new Map();
         var _modelImages = new Map();
@@ -97,23 +96,30 @@
             if (isOffline(model)) {
                 box.style.display = "none";
             } else {
+                box.style.display = "inline";
+
                 let imgUrl =  "https://roomimg.stream.highwebmedia.com/ri/" + model + ".jpg";
                 let activeUrl =  "https://cbjpeg.stream.highwebmedia.com/minifap/" + model + ".jpg?f=" + Math.random();
                 let anchor = box.firstElementChild;
                 if (anchor === undefined) {
+                    anchor = document.createElement("a");
+                    let cbUrl = "https://m.chaturbate.com/" + model + "/";
+                    anchor.href = cbUrl;
+                    anchor.target = "_blank";
                     let img = new Image();
-                    img.src = activeUrl;
+                    _modelImages.set(model, img);
+
                     anchor.appendChild(img);
                     box.appendChild(anchor);
                 } else {
                     let img = anchor.firstElementChild;
                     if (img === undefined) {
                         img = new Image();
+                        _modelImages.set(model, img);
                         anchor.appendChild(img);
                     }
                     img.src = activeUrl;
                 }
-                box.style.display = "inline";
             }
         }
         
@@ -169,22 +175,12 @@
                         modelBox.style.display = "inline";
                         anchor.appendChild(img);
                         modelBox.appendChild(anchor);
-                        
-                        _onlineCount++;
                     }
 
                     document.body.appendChild(modelBox);
                 }
             }
             xhr.send();
-        }
-
-        function writeFinNode() {
-            console.log("writing fin node");
-            let div = document.createElement("div");
-            div.className = "fin";
-            div.textContent = "~~~~~";
-            document.body.appendChild(div);
         }
 
         function refreshing() {
@@ -201,11 +197,6 @@
     <script>
         for (n in models) {
             writeModelNode(models[n]);
-        }
-        if (_onlineCount < 1) {
-            writeFinNode();
-        } else {
-            console.log(_onlineCount + " models online");
         }
 
         var refresher = setInterval(refreshing, 275);
