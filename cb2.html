@@ -24,7 +24,7 @@
             /*Style*/
         }
 
-       #fin { color: #999; font-size: 36pt; width: 100%; align: center; }
+       #fin { color: #999; font-family: monospace; width: 100%; align: center; }
     </style>
     <link rel="icon" type="image/png" href="https://vertical73.github.io/cb-icon.png">
     <link rel="shortcut icon" type="image/png" href="https://vertical73.github.io/cb-icon.png">
@@ -218,6 +218,9 @@
         function setFin(mode) {
             let finBox = document.getElementById("fin");
             finBox.style.display = mode;
+            if (mode === "block") {
+                finBox.innerHTML = Date.now();
+            }
         }
     </script>
 </head>
@@ -232,9 +235,9 @@
         var information = setInterval(updatingInfo, 6000);
         var updater = setInterval(updating, 10000);
     </script>
-    <div id="fin" style="display: block;">~~~~~</div>
+    <div id="fin" style="display: block;"><script>document.write(Date.now())</script></div>
     <script>
-        var footer = setInterval(checkOfflineCount, 500);
+        var footer = setInterval(checkOfflineCount, 2000);
     </script>
 </body>
 
