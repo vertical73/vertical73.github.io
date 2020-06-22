@@ -34,6 +34,7 @@
         var _modelInfo = new Map();    
         var _modelBoxes = new Map();
         var _modelImages = new Map();
+        var _iterations = 0;
         var _offlineCount = 0;
     </script>
     <script>
@@ -131,6 +132,7 @@
             for (n in models) {
                 updateModelInfo(models[n]);
             }
+            _iterations++;
         }
         
         function updating() {
@@ -184,6 +186,8 @@
                         modelBox.style.display = "inline";
                         anchor.appendChild(img);
                         modelBox.appendChild(anchor);
+                        
+                        setFin("none");
                     }
 
                     document.body.appendChild(modelBox);
@@ -201,12 +205,19 @@
         }
         
         function checkOfflineCount() {
-            let finBox = document.getElementById("fin");
-            if (_modelBoxes.size == _offlineCount) {
-                finBox.style.display = "inline";
-            } else {
-                finBox.style.display = "none";
+            if (_iterations > 1) {
+                let finBox = document.getElementById("fin");
+                if (_modelBoxes.size == _offlineCount) {
+                    setFin("block");
+                } else {
+                    setFin("none");
+                }
             }
+        }
+        
+        function setFin(mode) {
+            let finBox = document.getElementById("fin");
+            finBox.style.display = mode;
         }
     </script>
 </head>
@@ -221,7 +232,7 @@
         var information = setInterval(updatingInfo, 6000);
         var updater = setInterval(updating, 10000);
     </script>
-    <div id="fin" style="display: none;">~~~~~</div>
+    <div id="fin" style="display: block;">~~~~~</div>
     <script>
         var footer = setInterval(checkOfflineCount, 500);
     </script>
