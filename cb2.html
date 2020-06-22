@@ -207,7 +207,7 @@
         
         function checkOfflineCount() {
             if (_iterations > 1) {
-                let finBox = document.getElementById("fin");
+                let timestampBox = document.getElementById("timestamp");
                 if (_modelBoxes.size == _offlineCount) {
                     setTimestamp("block");
                 } else {
@@ -228,7 +228,7 @@
             }
             timestampBox.style.display = mode;
             if (mode === "block") {
-                finBox.innerHTML = dateTime();
+                timestampBox.innerHTML = dateTime();
             }
         }
     </script>
