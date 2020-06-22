@@ -222,6 +222,9 @@
 
         function setFin(mode) {
             let finBox = document.getElementById("fin");
+            if (finBox === undefined || finBox === null) {
+                return;
+            }
             finBox.style.display = mode;
             if (mode === "block") {
                 finBox.innerHTML = dateTime();
