@@ -34,6 +34,7 @@
         var _modelInfo = new Map();    
         var _modelBoxes = new Map();
         var _modelImages = new Map();
+        var _offlineCount = 0;
     </script>
     <script>
         function updateModelInfo(model) {
@@ -92,8 +93,9 @@
     
         function updateModelBox(model) {
             let box = _modelBoxes.get(model);
+            let offline = isOffline(model);
             
-            if (isOffline(model)) {
+            if (offline) {
                 box.style.display = "none";
             } else {
                 box.style.display = "inline";
@@ -121,6 +123,8 @@
                     img.src = activeUrl;
                 }
             }
+            
+            return offline;
         }
         
         function updatingInfo() {
@@ -130,9 +134,14 @@
         }
         
         function updating() {
+            let offlineCount = 0;
             for (n in models) {
-                updateModelBox(models[n]);
+                let isOffline = updateModelBox(models[n]);
+                if (isOffline) {
+                    offlineCount++;
+                }
             }
+            _offlineCount = offlineCount;
         }
     </script>
     <script>
@@ -190,6 +199,15 @@
                 v.src = "https://cbjpeg.stream.highwebmedia.com/minifap/" + k + ".jpg?" + n;
             }
         }
+        
+        function checkOfflineCount() {
+            let finBox = document.getElementById("fin");
+            if (_modelBoxes.size == _offlineCount) {
+                finBox.style.display = "inline";
+            } else {
+                finBox.style.display = "none";
+            }
+        }
     </script>
 </head>
 
@@ -202,6 +220,10 @@
         var refresher = setInterval(refreshing, 275);
         var information = setInterval(updatingInfo, 6000);
         var updater = setInterval(updating, 10000);
+    </script>
+    <div id="fin" style="display: none;">~~~~~</div>
+    <script>
+        var footer = setInterval(checkOfflineCount, 500);
     </script>
 </body>
 
