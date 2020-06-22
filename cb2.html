@@ -215,11 +215,16 @@
             }
         }
         
+        function dateTime() {
+            let now = new Date();
+            return now.toISOString();
+        }
+
         function setFin(mode) {
             let finBox = document.getElementById("fin");
             finBox.style.display = mode;
             if (mode === "block") {
-                finBox.innerHTML = Date.now();
+                finBox.innerHTML = dateTime();
             }
         }
     </script>
@@ -235,9 +240,9 @@
         var information = setInterval(updatingInfo, 6000);
         var updater = setInterval(updating, 10000);
     </script>
-    <div id="fin" style="display: block;"><script>document.write(Date.now())</script></div>
+    <div id="fin" style="display: block;"><script>document.write(dateTime())</script></div>
     <script>
-        var footer = setInterval(checkOfflineCount, 2000);
+        var footer = setInterval(checkOfflineCount, 1000);
     </script>
 </body>
 
