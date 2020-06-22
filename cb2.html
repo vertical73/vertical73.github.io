@@ -24,7 +24,8 @@
             /*Style*/
         }
 
-       #fin { color: #999; font-family: monospace; width: 100%; align: center; }
+       #timestamp { color: #999; font-family: monospace; position: relative; z-index: 0; }
+       #models { position: relative; z-index: 101; }
     </style>
     <link rel="icon" type="image/png" href="https://vertical73.github.io/cb-icon.png">
     <link rel="shortcut icon" type="image/png" href="https://vertical73.github.io/cb-icon.png">
@@ -187,7 +188,7 @@
                         anchor.appendChild(img);
                         modelBox.appendChild(anchor);
                         
-                        setFin("none");
+                        setTimestamp("none");
                     }
 
                     document.body.appendChild(modelBox);
@@ -208,9 +209,9 @@
             if (_iterations > 1) {
                 let finBox = document.getElementById("fin");
                 if (_modelBoxes.size == _offlineCount) {
-                    setFin("block");
+                    setTimestamp("block");
                 } else {
-                    setFin("none");
+                    setTimestamp("none");
                 }
             }
         }
@@ -220,12 +221,12 @@
             return now.toISOString();
         }
 
-        function setFin(mode) {
-            let finBox = document.getElementById("fin");
-            if (finBox === undefined || finBox === null) {
+        function setTimestamp(mode) {
+            let timestampBox = document.getElementById("timestamp");
+            if (timestampBox === undefined || timestampBox === null) {
                 return;
             }
-            finBox.style.display = mode;
+            timestampBox.style.display = mode;
             if (mode === "block") {
                 finBox.innerHTML = dateTime();
             }
@@ -234,16 +235,18 @@
 </head>
 
 <body>
-    <script>
-        for (n in models) {
-            writeModelNode(models[n]);
-        }
+    <div id="timestamp" style="display: block;"><script>document.write(dateTime())</script></div>
+    <div id="channels">
+        <script>
+            for (n in models) {
+                writeModelNode(models[n]);
+            }
 
-        var refresher = setInterval(refreshing, 275);
-        var information = setInterval(updatingInfo, 6000);
-        var updater = setInterval(updating, 10000);
-    </script>
-    <div id="fin" style="display: block;"><script>document.write(dateTime())</script></div>
+            var refresher = setInterval(refreshing, 275);
+            var information = setInterval(updatingInfo, 6000);
+            var updater = setInterval(updating, 10000);
+        </script>
+    </div>
     <script>
         var footer = setInterval(checkOfflineCount, 1000);
     </script>
