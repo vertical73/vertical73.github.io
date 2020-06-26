@@ -199,7 +199,6 @@
 
         function refreshing() {
             let n = Date.now();
-            document.title = "cb / " + n;
             for (let [k,v] of _modelImages) {
                 v.src = "https://cbjpeg.stream.highwebmedia.com/minifap/" + k + ".jpg?" + n;
             }
