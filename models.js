@@ -16,6 +16,7 @@ var models = [
     "badi_lii",
     "agatha137",
     "mscoolcheese",
-    "krissone"
+    "krissone",
+    "firefox_"
 ];
 
