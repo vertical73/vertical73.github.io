@@ -32,7 +32,8 @@
 
     <script src="./models.js"></script>
     <script>
-        var _modelInfo = new Map();    
+        var _modelInfo = new Map();
+        var _modelInfoNextUpdate = new Map();
         var _modelBoxes = new Map();
         var _modelImages = new Map();
         var _iterations = 0;
@@ -40,6 +41,13 @@
     </script>
     <script>
         function updateModelInfo(model) {
+            if (_modelInfoNextUpdate.has(model)) {
+                let targetDate = _modelInfoNextUpdate.get(model);
+                if (targetDate > Date.now()) {
+                    return;
+                }
+            }
+
             let imgUrl =  "https://roomimg.stream.highwebmedia.com/ri/" + model + ".jpg";
 //             let activeUrl =  "https://cbjpeg.stream.highwebmedia.com/minifap/" + model + ".jpg?f=" + Math.random();
             let xhr = new XMLHttpRequest();
@@ -139,9 +147,17 @@
         function updating() {
             let offlineCount = 0;
             for (n in models) {
-                let isOffline = updateModelBox(models[n]);
+                let model = models[n];
+                let isOffline = updateModelBox(model);
                 if (isOffline) {
                     offlineCount++;
+                    if (_modelInfoNextUpdate.has(model)) {
+                        let targetDate = _modelInfoNextUpdate.get(model);
+                        if (targetDate > Date.now()) {
+                            continue;
+                        }
+                    }
+                    _modelInfoNextUpdate.set(model, (Date.now() + 30000));
                 }
             }
             _offlineCount = offlineCount;
