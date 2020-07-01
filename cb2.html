@@ -63,10 +63,10 @@
                     let info = _modelInfo.get(model);
                     
                     let imgSizeHist = info.imgSizeHist;
-                    if (imgSizeHist.length < 18) {
+                    if (imgSizeHist.length < 24) {
                         imgSizeHist.push(imgSize);
                     } else {
-                        let p = Math.floor(Math.random() * 18);
+                        let p = Math.floor(Math.random() * 24);
                         imgSizeHist[p] = imgSize;
                     }
                     
@@ -87,7 +87,7 @@
             if (imgSize == 0 || imgSize == 7442 || imgSize == 21971) {
                 return true;
             }
-            if (imgSizeHist.length >= 18) {
+            if (imgSizeHist.length >= 24) {
                 let unique = [imgSizeHist[0]];
                 for (let i = 1; i < imgSizeHist.length; i++) {
                     if (unique.includes(imgSizeHist[i])) {
