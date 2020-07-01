@@ -40,6 +40,10 @@
         var _offlineCount = 0;
     </script>
     <script>
+        function getRandomInt(max) {
+            return Math.floor(Math.random() * Math.floor(max));
+        }
+
         function updateModelInfo(model) {
             if (_modelInfoNextUpdate.has(model)) {
                 let targetDate = _modelInfoNextUpdate.get(model);
@@ -157,7 +161,7 @@
                             continue;
                         }
                     }
-                    _modelInfoNextUpdate.set(model, (Date.now() + 30000));
+                    _modelInfoNextUpdate.set(model, (Date.now() + 30000 + getRandomInt(30000)));
                 }
             }
             _offlineCount = offlineCount;
