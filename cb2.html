@@ -51,10 +51,10 @@
                     let info = _modelInfo.get(model);
                     
                     let imgSizeHist = info.imgSizeHist;
-                    if (imgSizeHist.length < 10) {
+                    if (imgSizeHist.length < 16) {
                         imgSizeHist.push(imgSize);
                     } else {
-                        let p = Math.floor(Math.random() * 10);
+                        let p = Math.floor(Math.random() * 16);
                         imgSizeHist[p] = imgSize;
                     }
                     
@@ -75,7 +75,7 @@
             if (imgSize == 0 || imgSize == 7442 || imgSize == 21971) {
                 return true;
             }
-            if (imgSizeHist.length >= 10) {
+            if (imgSizeHist.length >= 16) {
                 let unique = [imgSizeHist[0]];
                 for (let i = 1; i < imgSizeHist.length; i++) {
                     if (unique.includes(imgSizeHist[i])) {
@@ -242,8 +242,8 @@
             }
 
             var refresher = setInterval(refreshing, 250);
-            var information = setInterval(updatingInfo, 6000);
-            var updater = setInterval(updating, 10000);
+            var information = setInterval(updatingInfo, 3000);
+            var updater = setInterval(updating, 9000);
         </script>
     </div>
     <script>
