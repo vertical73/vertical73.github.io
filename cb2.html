@@ -151,7 +151,6 @@
             for (n in models) {
                 updateModelInfo(models[n]);
             }
-            _iterations++;
         }
         
         function updating() {
@@ -171,6 +170,7 @@
                 }
             }
             _offlineCount = offlineCount;
+            _iterations++;
         }
     </script>
     <script>
@@ -214,6 +214,7 @@
                         anchor.appendChild(img);
                         modelBox.appendChild(anchor);
                         
+                        console.log("Timestamp off: " + model + " [" + imgSize + "]");
                         setTimestamp("none");
                     }
 
