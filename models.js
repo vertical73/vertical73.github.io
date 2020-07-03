@@ -14,9 +14,9 @@ var models = [
     "sweet_tinker_bell",
     "kleasure",
     "badi_lii",
-    "_ayya",
     "krissone",
     "tiffanyhouston_",
+    "_ayya",
     "mscoolcheese",
     "firefox_"
 ];
