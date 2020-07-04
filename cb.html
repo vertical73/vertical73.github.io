@@ -24,7 +24,13 @@
             /*Style*/
         }
 
-       #timestamp { color: #999; font-family: monospace; position: absolute; z-index: 0; }
+        #timestamp {
+            color: #999; 
+            font-family: monospace; 
+            font-size: 16pt; 
+            position: absolute; 
+            z-index: 0; 
+        }
        #channels { position: absolute; z-index: 101; }
     </style>
     <link rel="icon" type="image/png" href="https://vertical73.github.io/cb-icon.png">
@@ -32,14 +38,26 @@
 
     <script src="./models.js"></script>
     <script>
-        var _modelInfo = new Map();    
+        var _modelInfo = new Map();
+        var _modelInfoNextUpdate = new Map();
         var _modelBoxes = new Map();
         var _modelImages = new Map();
         var _iterations = 0;
         var _offlineCount = 0;
     </script>
     <script>
+        function getRandomInt(max) {
+            return Math.floor(Math.random() * Math.floor(max));
+        }
+
         function updateModelInfo(model) {
+            if (_modelInfoNextUpdate.has(model)) {
+                let targetDate = _modelInfoNextUpdate.get(model);
+                if (targetDate > Date.now()) {
+                    return;
+                }
+            }
+
             let imgUrl =  "https://roomimg.stream.highwebmedia.com/ri/" + model + ".jpg";
 //             let activeUrl =  "https://cbjpeg.stream.highwebmedia.com/minifap/" + model + ".jpg?f=" + Math.random();
             let xhr = new XMLHttpRequest();
@@ -51,10 +69,10 @@
                     let info = _modelInfo.get(model);
                     
                     let imgSizeHist = info.imgSizeHist;
-                    if (imgSizeHist.length < 16) {
+                    if (imgSizeHist.length < 24) {
                         imgSizeHist.push(imgSize);
                     } else {
-                        let p = Math.floor(Math.random() * 16);
+                        let p = Math.floor(Math.random() * 24);
                         imgSizeHist[p] = imgSize;
                     }
                     
@@ -75,7 +93,7 @@
             if (imgSize == 0 || imgSize == 7442 || imgSize == 21971) {
                 return true;
             }
-            if (imgSizeHist.length >= 16) {
+            if (imgSizeHist.length >= 24) {
                 let unique = [imgSizeHist[0]];
                 for (let i = 1; i < imgSizeHist.length; i++) {
                     if (unique.includes(imgSizeHist[i])) {
@@ -133,18 +151,26 @@
             for (n in models) {
                 updateModelInfo(models[n]);
             }
-            _iterations++;
         }
         
         function updating() {
             let offlineCount = 0;
             for (n in models) {
-                let isOffline = updateModelBox(models[n]);
+                let model = models[n];
+                let isOffline = updateModelBox(model);
                 if (isOffline) {
                     offlineCount++;
+                    if (_modelInfoNextUpdate.has(model)) {
+                        let targetDate = _modelInfoNextUpdate.get(model);
+                        if (targetDate > Date.now()) {
+                            continue;
+                        }
+                    }
+                    _modelInfoNextUpdate.set(model, (Date.now() + 30000 + getRandomInt(30000)));
                 }
             }
             _offlineCount = offlineCount;
+            _iterations++;
         }
     </script>
     <script>
@@ -188,6 +214,7 @@
                         anchor.appendChild(img);
                         modelBox.appendChild(anchor);
                         
+                        console.log("Timestamp off: " + model + " [" + imgSize + "]");
                         setTimestamp("none");
                     }
 
