@@ -1,6 +1,5 @@
 var models = [
     "evasasha",
-    "mikimakey",
     "cogitademe",
     "liisppb",
     "natalina19",
