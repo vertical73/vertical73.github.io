@@ -269,7 +269,12 @@
 </head>
 
 <body>
-    <div id="timestamp" style="display: block;"><script>document.write(dateTime())</script></div>
+    <div id="timestamp" style="display: block;">
+        <script>
+            document.write(dateTime());
+            var tempus = setInterval(fugit, 1000);
+        </script>
+    </div>
     <div id="channels">
         <script>
             for (n in models) {
@@ -279,7 +284,6 @@
             var refresher = setInterval(refreshing, 250);
             var information = setInterval(updatingInfo, 3000);
             var updater = setInterval(updating, 9000);
-            var tempus = setInterval(fugit, 1000);
         </script>
     </div>
     <script>
