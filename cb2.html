@@ -263,7 +263,9 @@
             if (timestampBox === undefined || timestampBox === null) {
                 return;
             }
-            timestampBox.innerHTML = dateTime();
+            if (timestampBox.style.display == "block") {
+                timestampBox.innerHTML = dateTime();
+            }
         }
     </script>
 </head>
@@ -272,7 +274,7 @@
     <div id="timestamp" style="display: block;">
         <script>
             document.write(dateTime());
-            var tempus = setInterval(fugit, 128);
+            var tempus = setInterval(fugit, 2048);
         </script>
     </div>
     <div id="channels">
