@@ -259,11 +259,10 @@
                 return;
             }
             timestampBox.style.display = mode;
+            clearInterval(_tempus);
             if (mode === "block") {
                 timestampBox.innerHTML = dateTime();
                 _tempus = tempusFugit();
-            } else {
-                clearInterval(_tempus);
             }
         }
 
@@ -283,6 +282,7 @@
     <div id="timestamp" style="display: block;">
         <script>
             document.write(dateTime());
+            _tempus = tempusFugit();
         </script>
     </div>
     <div id="channels">
