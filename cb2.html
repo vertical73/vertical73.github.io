@@ -38,18 +38,24 @@
 
     <script src="./models.js"></script>
     <script>
+        function getRandomInt(max) {
+            return Math.floor(Math.random() * Math.floor(max));
+        }
+
+        function tempusFugit() {
+            return setInterval(fugit, 1024);
+        }
+    </script>
+    <script>
         var _modelInfo = new Map();
         var _modelInfoNextUpdate = new Map();
         var _modelBoxes = new Map();
         var _modelImages = new Map();
         var _iterations = 0;
         var _offlineCount = 0;
+        var _tempus;
     </script>
     <script>
-        function getRandomInt(max) {
-            return Math.floor(Math.random() * Math.floor(max));
-        }
-
         function updateModelInfo(model) {
             if (_modelInfoNextUpdate.has(model)) {
                 let targetDate = _modelInfoNextUpdate.get(model);
@@ -255,6 +261,9 @@
             timestampBox.style.display = mode;
             if (mode === "block") {
                 timestampBox.innerHTML = dateTime();
+                _tempus = tempusFugit();
+            } else {
+                clearInterval(_tempus);
             }
         }
 
@@ -274,7 +283,6 @@
     <div id="timestamp" style="display: block;">
         <script>
             document.write(dateTime());
-            var tempus = setInterval(fugit, 1024);
         </script>
     </div>
     <div id="channels">
