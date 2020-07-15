@@ -41,6 +41,17 @@
         function getRandomInt(max) {
             return Math.floor(Math.random() * Math.floor(max));
         }
+    </script>
+    <script>
+        function fugit() {
+            let timestampBox = document.getElementById("timestamp");
+            if (timestampBox === undefined || timestampBox === null) {
+                return;
+            }
+            if (timestampBox.style.display == "block") {
+                timestampBox.innerHTML = dateTime();
+            }
+        }
 
         function tempusFugit() {
             return setInterval(fugit, 1024);
@@ -263,16 +274,6 @@
             if (mode === "block") {
 //                 timestampBox.innerHTML = dateTime();
                 _tempus = tempusFugit();
-            }
-        }
-
-        function fugit() {
-            let timestampBox = document.getElementById("timestamp");
-            if (timestampBox === undefined || timestampBox === null) {
-                return;
-            }
-            if (timestampBox.style.display == "block") {
-                timestampBox.innerHTML = dateTime();
             }
         }
     </script>
