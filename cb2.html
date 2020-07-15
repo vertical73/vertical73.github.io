@@ -268,11 +268,15 @@
             if (timestampBox === undefined || timestampBox === null) {
                 return;
             }
-            timestampBox.style.display = mode;
-            clearInterval(_tempus);
-            if (mode === "block") {
-//                 timestampBox.innerHTML = dateTime();
-                _tempus = tempusFugit();
+            let currentMode = timestampBox.style.display;
+            if (currentMode !== mode) {
+                timestampBox.style.display = mode;
+                clearInterval(_tempus);
+                console.log("Clearing tempus " + _tempus)
+                if (mode === "block") {
+                    _tempus = tempusFugit();
+                    console.log("Setting tempus " + _tempus);
+                }
             }
         }
     </script>
