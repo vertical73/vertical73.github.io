@@ -38,6 +38,26 @@
 
     <script src="./models.js"></script>
     <script>
+        function getRandomInt(max) {
+            return Math.floor(Math.random() * Math.floor(max));
+        }
+    </script>
+    <script>
+        var _tempus;
+        function fugit() {
+            let timestampBox = document.getElementById("timestamp");
+            if (timestampBox === undefined || timestampBox === null) {
+                return;
+            }
+            if (timestampBox.style.display == "block") {
+                timestampBox.innerHTML = dateTime();
+            }
+        }
+        function tempusFugit() {
+            return setInterval(fugit, 1024);
+        }
+    </script>
+    <script>
         var _modelInfo = new Map();
         var _modelInfoNextUpdate = new Map();
         var _modelBoxes = new Map();
@@ -46,10 +66,6 @@
         var _offlineCount = 0;
     </script>
     <script>
-        function getRandomInt(max) {
-            return Math.floor(Math.random() * Math.floor(max));
-        }
-
         function updateModelInfo(model) {
             if (_modelInfoNextUpdate.has(model)) {
                 let targetDate = _modelInfoNextUpdate.get(model);
@@ -252,16 +268,27 @@
             if (timestampBox === undefined || timestampBox === null) {
                 return;
             }
-            timestampBox.style.display = mode;
-            if (mode === "block") {
-                timestampBox.innerHTML = dateTime();
+            let currentMode = timestampBox.style.display;
+            if (currentMode !== mode) {
+                timestampBox.style.display = mode;
+                clearInterval(_tempus);
+                console.log("Clearing tempus " + _tempus)
+                if (mode === "block") {
+                    _tempus = tempusFugit();
+                    console.log("Setting tempus " + _tempus);
+                }
             }
         }
     </script>
 </head>
 
 <body>
-    <div id="timestamp" style="display: block;"><script>document.write(dateTime())</script></div>
+    <div id="timestamp" style="display: block;">
+        <script>
+            document.write(dateTime());
+            _tempus = tempusFugit();
+        </script>
+    </div>
     <div id="channels">
         <script>
             for (n in models) {
@@ -274,7 +301,7 @@
         </script>
     </div>
     <script>
-        var footer = setInterval(checkOfflineCount, 1000);
+        var footer = setInterval(checkOfflineCount, 512);
     </script>
 </body>
 
