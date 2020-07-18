@@ -10,13 +10,14 @@ var models = [
     "aliceee333",
     "heyhorny_cb",
     "wild_schoolgirl",
+    "kleasure",
     "badi_lii",
     "krissone",
     "mvladlena",
     "sweet_tinker_bell",
-    "kleasure",
     "_ayya",
     "mscoolcheese",
-    "firefox_"
+    "firefox_",
+    "brilliantvictoria"
 ];
 
