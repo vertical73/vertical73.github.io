@@ -11,7 +11,6 @@ var models = [
     "wild_schoolgirl",
     "kleasure",
     "aliceee333",
-    "badi_lii",
     "krissone",
     "mvladlena",
     "sweet_tinker_bell",
