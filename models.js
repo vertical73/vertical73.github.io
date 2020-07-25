@@ -18,6 +18,7 @@ var models = [
     "mscoolcheese",
     "firefox_",
     "hollashow",
-    "ellaa91"
+    "ellaa91",
+    "infinite_reality"
 ];
 
