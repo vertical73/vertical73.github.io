@@ -18,7 +18,6 @@ var models = [
     "mscoolcheese",
     "firefox_",
     "hollashow",
-    "ellaa91",
-    "alice_kosmos"
+    "ellaa91"
 ];
 
