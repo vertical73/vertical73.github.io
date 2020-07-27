@@ -19,7 +19,6 @@ var models = [
     "firefox_",
     "hollashow",
     "ellaa91",
-    "alice_kosmos",
-    "perfectview"
+    "alice_kosmos"
 ];
 
