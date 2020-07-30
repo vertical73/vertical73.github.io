@@ -18,6 +18,7 @@ var models = [
     "mscoolcheese",
     "firefox_",
     "ellaa91",
+    "qeensgambit",
     "sensualica"
 ];
 
