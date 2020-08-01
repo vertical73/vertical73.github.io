@@ -31,7 +31,7 @@
             position: absolute; 
             z-index: 0; 
         }
-        .model { position: absolute; z-index: 101; }
+       #channels { position: absolute; z-index: 101; }
     </style>
     <link rel="icon" type="image/png" href="https://vertical73.github.io/cb-icon.png">
     <link rel="shortcut icon" type="image/png" href="https://vertical73.github.io/cb-icon.png">
@@ -289,15 +289,17 @@
             _tempus = tempusFugit();
         </script>
     </div>
-    <script>
-        for (n in models) {
-            writeModelNode(models[n]);
-        }
+    <div id="channels">
+        <script>
+            for (n in models) {
+                writeModelNode(models[n]);
+            }
 
-        var refresher = setInterval(refreshing, 250);
-        var information = setInterval(updatingInfo, 3000);
-        var updater = setInterval(updating, 9000);
-    </script>
+            var refresher = setInterval(refreshing, 250);
+            var information = setInterval(updatingInfo, 3000);
+            var updater = setInterval(updating, 9000);
+        </script>
+    </div>
     <script>
         var footer = setInterval(checkOfflineCount, 512);
     </script>
