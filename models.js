@@ -2,7 +2,6 @@ var models = [
     "evasasha",
     "liisppb",
     "shine_girl18",
-    "agatha137",
     "tiffanyhouston_",
     "heyhorny_cb",
     "wild_schoolgirl",
