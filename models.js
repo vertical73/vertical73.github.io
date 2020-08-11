@@ -15,7 +15,6 @@ var models = [
     "_ayya",
     "firefox_",
     "ellaa91",
-    "angelina_new",
     "qeensgambit",
     "mscoolcheese",
     "sensualica"
