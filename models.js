@@ -15,6 +15,7 @@ var models = [
     "sweet_tinker_bell",
     "_ayya",
     "ellaa91",
+    "anna_sabotage",
     "firefox_",
     "qeensgambit",
     "lolita_nabokova",
