@@ -20,6 +20,7 @@ var models = [
     "qeensgambit",
     "lolita_nabokova",
     "mscoolcheese",
-    "sensualica"
+    "sensualica",
+    "_milkyway"
 ];
 
