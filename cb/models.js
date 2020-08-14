@@ -21,6 +21,7 @@ var models = [
     "lolita_nabokova",
     "mscoolcheese",
     "sensualica",
-    "_milkyway"
+    "_milkyway",
+    "drug_girl"
 ];
 
