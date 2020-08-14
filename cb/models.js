@@ -6,6 +6,7 @@ var models = [
     "heyhorny_cb",
     "wild_schoolgirl",
     "laracroftt",
+    "drug_girl",
     "kleasure",
     "aliceee333",
     "krissone",
@@ -21,7 +22,6 @@ var models = [
     "lolita_nabokova",
     "mscoolcheese",
     "sensualica",
-    "_milkyway",
-    "drug_girl"
+    "_milkyway"
 ];
 
