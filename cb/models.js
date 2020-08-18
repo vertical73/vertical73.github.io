@@ -20,7 +20,6 @@ var models = [
     "firefox_",
     "qeensgambit",
     "lolita_nabokova",
-    "mscoolcheese",
     "sensualica",
     "_milkyway",
     "nataliexxxfabio"
