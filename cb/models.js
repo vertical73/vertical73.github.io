@@ -21,7 +21,7 @@ var models = [
     "qeensgambit",
     "lolita_nabokova",
     "_milkyway",
-    "nataliexxxfabio",
-    "lilly_vanilla"
+    "lilly_vanilla",
+    "_stella_rose_"
 ];
 
