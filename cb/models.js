@@ -24,6 +24,7 @@ var models = [
     "_milkyway",
     "lilly_vanilla",
     "_stella_rose_",
-    "miladenver"
+    "miladenver",
+    "kira0541"
 ];
 
