@@ -7,7 +7,6 @@ var models = [
     "shine_girl18",
     "tiffanyhouston_",
     "heyhorny_cb",
-    "kleasure",
     "krissone",
     "dreamana",
     "wild_schoolgirl",
