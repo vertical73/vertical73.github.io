@@ -22,7 +22,6 @@ var models = [
     "_stella_rose_",
     "miladenver",
     "amazon_girl",
-    "lisatwinkle",
-    "pleasuredive"
+    "lisatwinkle"
 ];
 
