@@ -19,7 +19,6 @@ var models = [
     "lolita_nabokova",
     "_milkyway",
     "lilly_vanilla",
-    "_stella_rose_",
     "miladenver",
     "amazon_girl",
     "lisatwinkle"
