@@ -10,7 +10,6 @@ var models = [
     "krissone",
     "dreamana",
     "wild_schoolgirl",
-    "mvladlena",
     "cogitademe",
     "sweet_tinker_bell",
     "_ayya",
@@ -21,6 +20,8 @@ var models = [
     "lilly_vanilla",
     "miladenver",
     "amazon_girl",
-    "lisatwinkle"
+    "lisatwinkle",
+    "pleasuredive",
+    "perfectview"
 ];
 
