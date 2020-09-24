@@ -22,7 +22,6 @@ var models = [
     "amazon_girl",
     "lisatwinkle",
     "pleasuredive",
-    "perfectview",
-    "amy_karamel"
+    "perfectview"
 ];
 
