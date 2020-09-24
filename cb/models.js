@@ -12,7 +12,6 @@ var models = [
     "wild_schoolgirl",
     "cogitademe",
     "sweet_tinker_bell",
-    "_ayya",
     "anna_sabotage",
     "firefox_",
     "lolita_nabokova",
