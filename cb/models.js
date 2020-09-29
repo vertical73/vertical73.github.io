@@ -13,7 +13,6 @@ var models = [
     "cogitademe",
     "sweet_tinker_bell",
     "anna_sabotage",
-    "firefox_",
     "lolita_nabokova",
     "_milkyway",
     "lilly_vanilla",
@@ -22,6 +21,7 @@ var models = [
     "lisatwinkle",
     "pleasuredive",
     "perfectview",
-    "natalina19"
+    "natalina19",
+    "firefox_"
 ];
 
