@@ -75,7 +75,7 @@
             }
 
             let imgUrl =  "https://roomimg.stream.highwebmedia.com/ri/" + model + ".jpg";
-//             let activeUrl =  "https://cbjpeg.stream.highwebmedia.com/minifap/" + model + ".jpg?f=" + Math.random();
+//             let activeUrl =  "https://cbjpeg.stream.highwebmedia.com/minifwap/" + model + ".jpg?f=" + Math.random();
             let xhr = new XMLHttpRequest();
             xhr.open('HEAD', imgUrl, false);
             let imgSize = 0;
@@ -137,7 +137,7 @@
                 box.style.display = "inline";
 
                 let imgUrl =  "https://roomimg.stream.highwebmedia.com/ri/" + model + ".jpg";
-                let activeUrl =  "https://cbjpeg.stream.highwebmedia.com/minifap/" + model + ".jpg?f=" + Math.random();
+                let activeUrl =  "https://cbjpeg.stream.highwebmedia.com/minifwap/" + model + ".jpg?f=" + Math.random();
                 let anchor = box.firstElementChild;
                 if (anchor === undefined || anchor === null) {
                     anchor = document.createElement("a");
@@ -193,7 +193,7 @@
         function writeModelNode(model) {
             let cbUrl = "https://m.chaturbate.com/" + model + "/";
             let imgUrl =  "https://roomimg.stream.highwebmedia.com/ri/" + model + ".jpg";
-            let activeUrl =  "https://cbjpeg.stream.highwebmedia.com/minifap/" + model + ".jpg?f=" + Math.random();
+            let activeUrl =  "https://cbjpeg.stream.highwebmedia.com/minifwap/" + model + ".jpg?f=" + Math.random();
             
             let xhr = new XMLHttpRequest();
             xhr.open('HEAD', imgUrl, false);
@@ -243,7 +243,7 @@
         function refreshing() {
             let n = Date.now();
             for (let [k,v] of _modelImages) {
-                v.src = "https://cbjpeg.stream.highwebmedia.com/minifap/" + k + ".jpg?" + n;
+                v.src = "https://cbjpeg.stream.highwebmedia.com/minifwap/" + k + ".jpg?" + n;
             }
         }
         
