@@ -3,7 +3,7 @@ var models = [
     "_virtual_lady_",
     "laracroftt",
     "wild_schoolgirl",
-    "natalina19",
+    // "natalina19",
     "drug_girl",
     "liisppb",
     "shine_girl18",
