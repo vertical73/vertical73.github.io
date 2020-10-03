@@ -22,6 +22,7 @@ var models = [
     "lisatwinkle",
     "pleasuredive",
     "perfectview",
-    "firefox_"
+    "firefox_",
+    "7vel"
 ];
 
