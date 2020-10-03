@@ -2,6 +2,8 @@ var models = [
     "evasasha",
     "_virtual_lady_",
     "laracroftt",
+    "wild_schoolgirl",
+    "natalina19",
     "drug_girl",
     "liisppb",
     "shine_girl18",
@@ -9,7 +11,6 @@ var models = [
     "heyhorny_cb",
     "krissone",
     "dreamana",
-    "wild_schoolgirl",
     "cogitademe",
     "sweet_tinker_bell",
     "anna_sabotage",
@@ -21,7 +22,6 @@ var models = [
     "lisatwinkle",
     "pleasuredive",
     "perfectview",
-    "natalina19",
     "firefox_"
 ];
 
