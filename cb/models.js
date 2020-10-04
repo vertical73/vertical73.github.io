@@ -22,7 +22,8 @@ var models = [
     "lisatwinkle",
     "pleasuredive",
     "perfectview",
+    "7vel",
     "firefox_",
-    "7vel"
+    "opera_19"
 ];
 
