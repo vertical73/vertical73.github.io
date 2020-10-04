@@ -24,6 +24,7 @@ var models = [
     "perfectview",
     "7vel",
     "firefox_",
-    "opera_19"
+    "opera_19",
+    "bunny_room"
 ];
 
