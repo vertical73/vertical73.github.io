@@ -24,6 +24,7 @@ var models = [
     "perfectview",
     "7vel",
     "opera_19",
-    "bunny_room"
+    "bunny_room",
+    "amy_karamel"
 ];
 
