@@ -23,7 +23,6 @@ var models = [
     "pleasuredive",
     "perfectview",
     "7vel",
-    "opera_19",
     "bunny_room",
     "amy_karamel"
 ];
