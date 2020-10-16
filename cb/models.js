@@ -22,7 +22,6 @@ var models = [
     "lisatwinkle",
     "pleasuredive",
     "perfectview",
-    "7vel",
     "bunny_room",
     "amy_karamel",
     "fgupno"
