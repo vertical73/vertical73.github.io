@@ -19,7 +19,6 @@ var models = [
     "pleasuredive",
     "perfectview",
     "bunny_room",
-    "amy_karamel",
     "fgupno"
 ];
 
