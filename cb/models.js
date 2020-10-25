@@ -16,7 +16,6 @@ var models = [
     "pleasuredive",
     "perfectview",
     "bunny_room",
-    "fgupno",
-    "mikimakey"
+    "fgupno"
 ];
 
