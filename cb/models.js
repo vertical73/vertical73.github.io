@@ -16,5 +16,7 @@ var models = [
     "bunny_room",
     "fgupno",
     "thepleasureofsex"
+    "nendaranel",
+    "milanaaafit"
 ];
 
