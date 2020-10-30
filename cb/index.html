@@ -106,7 +106,7 @@
             let info = _modelInfo.get(model);
             let imgSize = info.imgSize;
             let imgSizeHist = info.imgSizeHist;
-            if (imgSize == 0 || imgSize == 7442 || imgSize == 21971 || imgSize == 4824) {
+            if (imgSize == 0 || imgSize == 7442 || imgSize == 21971 || imgSize == 4824 || imgSize == 6778) {
                 return true;
             }
             if (imgSizeHist.length >= 24) {
@@ -119,7 +119,7 @@
                     }
                 }
                 console.log(model + ": [" + unique + "] (" + unique.length + "); [" + imgSizeHist + "]; " + imgSize);
-                return unique.length < 4;
+                return unique.length < 3;
             } else {
                 console.log(model + ": [" + imgSizeHist + "]; " + imgSize);
             }
@@ -218,7 +218,7 @@
                     };
                     _modelInfo.set(model, info);
 
-                    if ((imgSize != 21971 && imgSize != 7442 && imgSize != 4824)) {
+                    if ((imgSize != 21971 && imgSize != 7442 && imgSize != 4824 && !imgSize == 6778)) {
                         let anchor = document.createElement("a");
                         anchor.href = cbUrl;
                         anchor.target = "_blank";
