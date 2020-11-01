@@ -11,7 +11,6 @@ var models = [
     "anna_sabotage",
     "_milkyway",
     "lilly_vanilla",
-    "pleasuredive",
     "perfectview",
     "bunny_room",
     "fgupno",
