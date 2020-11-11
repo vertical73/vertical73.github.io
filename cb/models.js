@@ -10,7 +10,6 @@ var models = [
     "cogitademe",
     "laracroftt",
     "krissone",
-    "sweet_tinker_bell",
     "bunny_room",
     "fgupno",
     "thepleasureofsex",
