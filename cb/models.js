@@ -15,6 +15,7 @@ var models = [
     "thepleasureofsex",
     "nendaranel",
     "drug_girl",
+    "kristin_mordor",
     "melissaallens"
 ];
 
