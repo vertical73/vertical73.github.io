@@ -17,6 +17,7 @@ var models = [
     "kristin_mordor",
     "melissaallens",
     "kristii21",
-    "vanila_cream_"
+    "vanila_cream_",
+    "alice_kosmos"
 ];
 
