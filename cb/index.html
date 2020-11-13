@@ -38,6 +38,11 @@
 
     <script src="./models.js"></script>
     <script>
+       let params = new URLSearchParams(window.location.search);
+       let moar = params.getAll('model');
+       models.push(...moar);
+    </script>
+    <script>
         function getRandomInt(max) {
             return Math.floor(Math.random() * Math.floor(max));
         }
