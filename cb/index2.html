@@ -1,0 +1,313 @@
+<html>
+
+<head>
+    <title>cb</title>
+    <meta name="viewport" content="width=device-width,height=device-height,initial-scale=1.0"/>
+    <style>
+        body {
+             background-color: #000000;
+             color: #cccccc;
+             margin: 0px 0px 0px 0px;
+        }
+        /*###Desktops, big landscape tablets and laptops(Large, Extra large)####*/
+        @media screen and (min-width: 1024px){
+            /*Style*/
+        }
+        
+        /*###Tablet(medium)###*/
+        @media screen and (min-width : 748px) and (max-width : 1023px){
+            /*Style*/
+        }
+        
+        /*### Smartphones (portrait and landscape)(small)### */
+        @media screen and (min-width : 0px) and (max-width : 960){
+            /*Style*/
+        }
+
+        #timestamp {
+            color: #999; 
+            font-family: monospace; 
+            font-size: 16pt; 
+            position: absolute; 
+            z-index: 0; 
+        }
+       #channels { position: absolute; z-index: 101; }
+    </style>
+    <link rel="icon" type="image/png" href="cb-icon.png">
+    <link rel="shortcut icon" type="image/png" href="cb-icon.png">
+
+    <script src="./models.js"></script>
+    <script>
+       let params = new URLSearchParams(window.location.search);
+       let moar = params.getAll('model');
+       models.push(...moar);
+    </script>
+    <script>
+        function getRandomInt(max) {
+            return Math.floor(Math.random() * Math.floor(max));
+        }
+    </script>
+    <script>
+        var _tempus;
+        function fugit() {
+            let timestampBox = document.getElementById("timestamp");
+            if (timestampBox === undefined || timestampBox === null) {
+                return;
+            }
+            if (timestampBox.style.display == "block") {
+                timestampBox.innerHTML = dateTime();
+            }
+        }
+        function tempusFugit() {
+            return setInterval(fugit, 1024);
+        }
+    </script>
+    <script>
+        var _modelInfo = new Map();
+        var _modelInfoNextUpdate = new Map();
+        var _modelBoxes = new Map();
+        var _modelImages = new Map();
+        var _iterations = 0;
+        var _offlineCount = 0;
+    </script>
+    <script>
+        function updateModelInfo(model) {
+            if (_modelInfoNextUpdate.has(model)) {
+                let targetDate = _modelInfoNextUpdate.get(model);
+                if (targetDate > Date.now()) {
+                    return;
+                }
+            }
+
+            let imgUrl =  "https://roomimg.stream.highwebmedia.com/ri/" + model + ".jpg";
+//             let activeUrl =  "https://cbjpeg.stream.highwebmedia.com/minifwap/" + model + ".jpg?f=" + Math.random();
+            let xhr = new XMLHttpRequest();
+            xhr.open('HEAD', imgUrl, false);
+            let imgSize = 0;
+            xhr.onreadystatechange = function() {
+                if ( xhr.readyState == 4 ) {
+                    imgSize = xhr.getResponseHeader('Content-Length');
+                    let info = _modelInfo.get(model);
+                    
+                    let imgSizeHist = info.imgSizeHist;
+                    if (imgSizeHist.length < 24) {
+                        imgSizeHist.push(imgSize);
+                    } else {
+                        let p = Math.floor(Math.random() * 24);
+                        imgSizeHist[p] = imgSize;
+                    }
+                    
+                    info.imgSize = imgSize;
+                    info.imgSizeHist = imgSizeHist;
+                    info.updated = Date.now();
+                    
+                    _modelInfo.set(model, info);
+                }
+            }
+            xhr.send();
+        }
+        
+        function isOffline(model) {
+            let info = _modelInfo.get(model);
+            let imgSize = info.imgSize;
+            let imgSizeHist = info.imgSizeHist;
+            if (imgSize == 0 || imgSize == 7442 || imgSize == 21971 || imgSize == 4824 || imgSize == 6778) {
+                return true;
+            }
+            if (imgSizeHist.length >= 24) {
+                let unique = [imgSizeHist[0]];
+                for (let i = 1; i < imgSizeHist.length; i++) {
+                    if (unique.includes(imgSizeHist[i])) {
+                        continue;
+                    } else {
+                        unique.push(imgSizeHist[i]);
+                    }
+                }
+                console.log(model + ": [" + unique + "] (" + unique.length + "); [" + imgSizeHist + "]; " + imgSize);
+                return unique.length < 3;
+            } else {
+                console.log(model + ": [" + imgSizeHist + "]; " + imgSize);
+            }
+
+            return false;
+        }
+    
+        function updateModelBox(model) {
+            let box = _modelBoxes.get(model);
+            let offline = isOffline(model);
+            
+            if (offline) {
+                box.style.display = "none";
+            } else {
+                box.style.display = "inline";
+
+                let imgUrl =  "https://roomimg.stream.highwebmedia.com/ri/" + model + ".jpg";
+                let activeUrl =  "https://cbjpeg.stream.highwebmedia.com/minifwap/" + model + ".jpg?f=" + Math.random();
+                let anchor = box.firstElementChild;
+                if (anchor === undefined || anchor === null) {
+                    anchor = document.createElement("a");
+                    let cbUrl = "https://m.chaturbate.com/" + model + "/";
+                    anchor.href = cbUrl;
+                    anchor.target = "_blank";
+                    let img = new Image();
+                    _modelImages.set(model, img);
+
+                    anchor.appendChild(img);
+                    box.appendChild(anchor);
+                } else {
+                    let img = anchor.firstElementChild;
+                    if (img === undefined || img === null) {
+                        img = new Image();
+                        _modelImages.set(model, img);
+                        anchor.appendChild(img);
+                    }
+                    img.src = activeUrl;
+                }
+            }
+            
+            return offline;
+        }
+        
+        function updatingInfo() {
+            for (n in models) {
+                updateModelInfo(models[n]);
+            }
+        }
+        
+        function updating() {
+            let offlineCount = 0;
+            for (n in models) {
+                let model = models[n];
+                let isOffline = updateModelBox(model);
+                if (isOffline) {
+                    offlineCount++;
+                    if (_modelInfoNextUpdate.has(model)) {
+                        let targetDate = _modelInfoNextUpdate.get(model);
+                        if (targetDate > Date.now()) {
+                            continue;
+                        }
+                    }
+                    _modelInfoNextUpdate.set(model, (Date.now() + 30000 + getRandomInt(30000)));
+                }
+            }
+            _offlineCount = offlineCount;
+            _iterations++;
+        }
+    </script>
+    <script>
+        function writeModelNode(model) {
+            let cbUrl = "https://m.chaturbate.com/" + model + "/";
+            let imgUrl =  "https://roomimg.stream.highwebmedia.com/ri/" + model + ".jpg";
+            let activeUrl =  "https://cbjpeg.stream.highwebmedia.com/minifwap/" + model + ".jpg?f=" + Math.random();
+            
+            let xhr = new XMLHttpRequest();
+            xhr.open('HEAD', imgUrl, false);
+            let cacheStatus;
+            let imgSize = 0;
+
+            let modelBox = document.createElement("div");
+            modelBox.id = "channel:" + model;
+            modelBox.class = "model";
+            modelBox.style.display = "none";
+            _modelBoxes.set(model, modelBox);
+
+            xhr.onreadystatechange = function() {
+                if ( xhr.readyState == 4 ) {
+                    imgSize = xhr.getResponseHeader('Content-Length');
+                    let imgSizeHist = [imgSize];
+                    let info = {
+                        model: model,
+                        updated: Date.now(),
+                        imgSize: imgSize,
+                        imgSizeHist: imgSizeHist
+                    };
+                    _modelInfo.set(model, info);
+
+                    if (imgSize != 21971 && imgSize != 7442 && imgSize != 4824 && imgSize != 6778) {
+                        let anchor = document.createElement("a");
+                        anchor.href = cbUrl;
+                        anchor.target = "_blank";
+                        let img = new Image();
+                        img.src = activeUrl;
+                        _modelImages.set(model, img);
+
+                        modelBox.style.display = "inline";
+                        anchor.appendChild(img);
+                        modelBox.appendChild(anchor);
+                        
+                        console.log("Timestamp off: " + model + " [" + imgSize + "]");
+                        setTimestamp("none");
+                    }
+
+                    document.body.appendChild(modelBox);
+                }
+            }
+            xhr.send();
+        }
+
+        function refreshing() {
+            let n = Date.now();
+            for (let [k,v] of _modelImages) {
+                v.src = "https://cbjpeg.stream.highwebmedia.com/minifwap/" + k + ".jpg?" + n;
+            }
+        }
+        
+        function checkOfflineCount() {
+            if (_iterations > 1) {
+                let timestampBox = document.getElementById("timestamp");
+                if (_modelBoxes.size == _offlineCount) {
+                    setTimestamp("block");
+                } else {
+                    setTimestamp("none");
+                }
+            }
+        }
+        
+        function dateTime() {
+            let now = new Date();
+            return now.toISOString();
+        }
+
+        function setTimestamp(mode) {
+            let timestampBox = document.getElementById("timestamp");
+            if (timestampBox === undefined || timestampBox === null) {
+                return;
+            }
+            let currentMode = timestampBox.style.display;
+            if (currentMode !== mode) {
+                timestampBox.style.display = mode;
+                clearInterval(_tempus);
+                console.log("Clearing tempus " + _tempus)
+                if (mode === "block") {
+                    _tempus = tempusFugit();
+                    console.log("Setting tempus " + _tempus);
+                }
+            }
+        }
+    </script>
+</head>
+
+<body>
+    <div id="timestamp" style="display: block;">
+        <script>
+            document.write(dateTime());
+            _tempus = tempusFugit();
+        </script>
+    </div>
+    <div id="channels">
+        <script>
+            for (n in models) {
+                writeModelNode(models[n]);
+            }
+
+            var refresher = setInterval(refreshing, 250);
+            var information = setInterval(updatingInfo, 3000);
+            var updater = setInterval(updating, 9000);
+        </script>
+    </div>
+    <script>
+        var footer = setInterval(checkOfflineCount, 512);
+    </script>
+</body>
+
+</html>
