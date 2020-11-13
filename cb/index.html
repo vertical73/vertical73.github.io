@@ -39,8 +39,15 @@
     <script src="./models.js"></script>
     <script>
        let params = new URLSearchParams(window.location.search);
-       let moar = params.getAll('model');
-       models.push(...moar);
+       let keys = ['model','m'];
+       for (k of keys) {
+            let moar = params.getAll(k);
+            for (m of moar) {
+                if (!models.includes(m)) {
+                    models.push(m);
+                }
+            }
+        }
     </script>
     <script>
         function getRandomInt(max) {
