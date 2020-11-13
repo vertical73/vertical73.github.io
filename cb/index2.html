@@ -41,8 +41,12 @@
        let params = new URLSearchParams(window.location.search);
        let keys = ['model','m'];
        for (k of keys) {
-           let moar = params.getAll(k);
-           models.push(...moar);
+            let moar = params.getAll(k);
+            for (m of moar) {
+                if (!models.includes(m)) {
+                    models.push(m);
+                }
+            }
         }
     </script>
     <script>
