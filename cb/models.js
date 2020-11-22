@@ -19,6 +19,7 @@ var models = [
     "alice_kosmos",
     "kwaayne",
     "mikimakey",
-    "perfectview"
+    "perfectview",
+    "sweet__sugar"
 ];
 
