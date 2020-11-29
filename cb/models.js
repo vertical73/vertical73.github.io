@@ -15,7 +15,6 @@ var models = [
     "kristin_mordor",
     "kristii21",
     "alice_kosmos",
-    "kwaayne",
     "mikimakey",
     "perfectview",
     "sweet__sugar"
