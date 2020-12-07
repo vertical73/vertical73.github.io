@@ -5,17 +5,16 @@ var models = [
     "anna_sabotage",
     "liisppb",
     "_milkyway",
+    "alice_kosmos",
     "lilly_vanilla",
-    "cogitademe",
     "laracroftt",
     "krissone",
     "fgupno",
     "thepleasureofsex",
     "kristii21",
-    "alice_kosmos",
-    "kwaayne",
     "mikimakey",
     "perfectview",
-    "sweet__sugar"
+    "sweet__sugar",
+    "kleasure"
 ];
 
