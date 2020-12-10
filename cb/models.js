@@ -15,6 +15,7 @@ var models = [
     "mikimakey",
     "perfectview",
     "sweet__sugar",
-    "kleasure"
+    "kleasure",
+    "miley_k18"
 ];
 
