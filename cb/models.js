@@ -11,7 +11,6 @@ var models = [
     "krissone",
     "fgupno",
     "thepleasureofsex",
-    "kristii21",
     "mikimakey",
     "perfectview",
     "sweet__sugar",
