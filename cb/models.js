@@ -15,6 +15,7 @@ var models = [
     "perfectview",
     "kleasure",
     "vanila_cream_",
-    "miley_k18"
+    "miley_k18",
+    "mango_shake"
 ];
 
