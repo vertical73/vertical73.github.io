@@ -13,9 +13,10 @@ var models = [
     "thepleasureofsex",
     "mikimakey",
     "perfectview",
-    "kleasure",
     "vanila_cream_",
     "miley_k18",
-    "amazon_girl"
+    "amazon_girl",
+    "mango_shake",
+    "kleasure"
 ];
 
