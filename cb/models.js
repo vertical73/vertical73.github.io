@@ -17,6 +17,7 @@ var models = [
     "amazon_girl",
     "mango_shake",
     "kleasure",
-    "pinkgold_"
+    "pinkgold_",
+    "aphrodities"
 ];
 
