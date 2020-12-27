@@ -16,6 +16,7 @@ var models = [
     "miley_k18",
     "amazon_girl",
     "mango_shake",
-    "kleasure"
+    "kleasure",
+    "pinkgold_"
 ];
 
