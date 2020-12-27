@@ -7,7 +7,6 @@ var models = [
     "_milkyway",
     "alice_kosmos",
     "lilly_vanilla",
-    "laracroftt",
     "krissone",
     "fgupno",
     "mikimakey",
