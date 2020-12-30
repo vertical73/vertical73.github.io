@@ -18,6 +18,7 @@ var models = [
     "kleasure",
     "pinkgold_",
     "aphrodities",
-    "agatha137"
+    "agatha137",
+    "thepleasureofsex"
 ];
 
