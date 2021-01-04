@@ -20,6 +20,7 @@ var models = [
     "agatha137",
     "laracroftt",
     "thepleasureofsex",
-    "kleasure"
+    "kleasure",
+    "hayleex"
 ];
 
