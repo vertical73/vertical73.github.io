@@ -48,6 +48,11 @@
                 }
             }
         }
+        for (h of params.getAll('h')) {
+            if (models.includes(h)) {
+                models.splice(models.indexOf(h));
+            }
+        }
     </script>
     <script>
         function getRandomInt(max) {
