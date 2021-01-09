@@ -22,5 +22,6 @@ var models = [
     "thepleasureofsex",
     "kleasure",
     "hayleex",
+    "kristin_mordor",
     "_yvie_"
 ];
