@@ -16,7 +16,6 @@ var models = [
     "amazon_girl",
     "mango_shake",
     "pinkgold_",
-    "aphrodities",
     "agatha137",
     "laracroftt",
     "thepleasureofsex",
