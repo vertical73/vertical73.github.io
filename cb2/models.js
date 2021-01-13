@@ -26,5 +26,6 @@ var models = [
     "lola_bunny94",
     "aalliyahh",
     "_yvie_",
-    "yummyxox"
+    "yummyxox",
+    "milanaafit"
 ];
