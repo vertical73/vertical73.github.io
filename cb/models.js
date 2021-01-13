@@ -5,6 +5,7 @@ var models = [
     "_milkyway",
     "alice_kosmos",
     "lilly_vanilla",
-    "agatha137"
+    "agatha137",
+    "lola_bunny94"
 ];
 
