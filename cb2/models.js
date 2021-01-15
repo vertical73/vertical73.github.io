@@ -22,10 +22,10 @@ var models = [
     "miley_k18",
     "amazon_girl",
     "kleasure",
-    "hayleex",
     "marylanex",
+    "milena_manin",
+    "hayleex",
     "aalliyahh",
     "_yvie_",
-    "milanaaafit",
-    "milena_manin"
+    "milanaaafit"
 ];
