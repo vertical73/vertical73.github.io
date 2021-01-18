@@ -3,9 +3,9 @@ var models = [
     "_virtual_lady_",
     "wild_schoolgirl",
     "_milkyway",
+    "agatha137",
     "alice_kosmos",
     "lilly_vanilla",
-    "agatha137",
     "lola_bunny94"
 ];
 
