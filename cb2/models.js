@@ -17,6 +17,7 @@ var models = [
     "mango_shake",
     "thepleasureofsex",
     "pinkgold_",
+    "sweet_tinker_bell",
     "krissone",
     "perfectview",
     "miley_k18",
