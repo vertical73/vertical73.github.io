@@ -6,6 +6,7 @@ var models = [
     "agatha137",
     "alice_kosmos",
     "lilly_vanilla",
-    "lola_bunny94"
+    "lola_bunny94",
+    "purpleariel137"
 ];
 
