@@ -27,7 +27,7 @@ var models = [
     "hayleex",
     "krissone",
     "aalliyahh",
-    "_yvie_",
     "milanaaafit",
-    "tiffanyhouston_"
+    "tiffanyhouston_",
+    "_yvie_"
 ];
