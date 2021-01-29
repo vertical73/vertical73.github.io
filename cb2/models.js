@@ -10,7 +10,6 @@ var models = [
     "lilly_vanilla",
     "lola_bunny94",
     "laracroftt",
-    "kristin_mordor",
     "mikimakey",
     "fgupno",
     "vanila_cream_",
@@ -29,6 +28,7 @@ var models = [
     "aalliyahh",
     "tiffanyhouston_",
     "little__cutie_",
+    "kristin_mordor",
     "jjennys",
     "milanaaafit"
 ];
