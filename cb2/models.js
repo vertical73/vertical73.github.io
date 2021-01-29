@@ -24,11 +24,12 @@ var models = [
     "marylanex",
     "milena_manin",
     "hayleex",
-    "krissone",
     "aalliyahh",
     "tiffanyhouston_",
     "little__cutie_",
     "kristin_mordor",
     "jjennys",
-    "milanaaafit"
+    "krissone",
+    "milanaaafit",
+    "sweet__sugar"
 ];
