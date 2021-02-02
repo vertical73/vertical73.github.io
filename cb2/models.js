@@ -22,6 +22,7 @@ var models = [
     "miley_k18",
     "amazon_girl",
     "kleasure",
+    "sweet__sugar",
     "marylanex",
     "hayleex",
     "aalliyahh",
@@ -30,6 +31,5 @@ var models = [
     "krissone",
     "jjennys",
     "milanaaafit",
-    "sweet__sugar",
     "little__cutie_"
 ];
