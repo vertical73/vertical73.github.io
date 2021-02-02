@@ -23,7 +23,6 @@ var models = [
     "amazon_girl",
     "kleasure",
     "marylanex",
-    "milena_manin",
     "hayleex",
     "aalliyahh",
     "tiffanyhouston_",
