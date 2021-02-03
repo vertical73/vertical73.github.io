@@ -10,7 +10,6 @@ var models = [
     "lilly_vanilla",
     "lola_bunny94",
     "laracroftt",
-    "alice_kosmos",
     "blackmango_mary",
     "fgupno",
     "vanila_cream_",
