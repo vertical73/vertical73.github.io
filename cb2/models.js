@@ -16,6 +16,7 @@ var models = [
     "thepleasureofsex",
     "blackmango_mary",
     "laracroftt",
+    "alexandra_lima",
     "pinkgold_",
     "sweet_tinker_bell",
     "miley_k18",
@@ -29,6 +30,5 @@ var models = [
     "krissone",
     "jjennys",
     "milanaaafit",
-    "sex_factory_",
-    "alexandra_lima"
+    "sex_factory_"
 ];
