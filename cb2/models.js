@@ -26,7 +26,6 @@ var models = [
     "marylanex",
     "hayleex",
     "aalliyahh",
-    "kristin_mordor",
     "krissone",
     "jjennys",
     "milanaaafit",
