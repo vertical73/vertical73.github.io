@@ -29,6 +29,5 @@ var models = [
     "krissone",
     "jjennys",
     "milanaaafit",
-    "sex_factory_",
-    "lilyhotbrunette"
+    "sex_factory_"
 ];
