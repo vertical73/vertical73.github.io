@@ -33,5 +33,6 @@ var models = [
     "alice_kosmos",
     "milena_manin",
     "krissone",
+    "ellaa91",
     "jjennys"
 ];
