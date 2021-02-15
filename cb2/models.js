@@ -31,5 +31,7 @@ var models = [
     "milanaaafit",
     "sex_factory_",
     "annie_sweetyxx",
-    "juicy_khloe"
+    "alice_kosmos",
+    "juicy_khloe",
+    "milena_manin"
 ];
