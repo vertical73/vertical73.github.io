@@ -31,7 +31,6 @@ var models = [
     "annie_sweetyxx",
     "juicy_khloe",
     "alice_kosmos",
-    "nendaranel",
     "milena_manin",
     "krissone",
     "ellaa91",
