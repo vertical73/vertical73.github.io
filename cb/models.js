@@ -7,6 +7,7 @@ var models = [
     "agatha137",
     "lilly_vanilla",
     "lola_bunny94",
-    "annie_sweetyxx"
+    "annie_sweetyxx",
+    "sweet__sugar"
 ];
 
