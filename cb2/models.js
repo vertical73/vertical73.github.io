@@ -5,7 +5,6 @@ var models = [
     "carmen_harty_",
     "kinkyali",
     "anna_sabotage",
-    "liisppb",
     "_milkyway",
     "agatha137",
     "lilly_vanilla",
