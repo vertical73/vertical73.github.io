@@ -35,5 +35,6 @@ var models = [
     "meowlina",
     "stacyspank",
     "cutemoments",
-    "fabia7721"
+    "fabia7721",
+    "sensual_yana"
 ];
