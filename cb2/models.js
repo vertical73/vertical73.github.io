@@ -34,7 +34,6 @@ var models = [
     "krissone",
     "meowlina",
     "stacyspank",
-    "cutemoments",
     "fabia7721",
     "sensual_yana",
     "annbarby",
