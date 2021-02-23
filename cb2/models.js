@@ -2,7 +2,6 @@ var models = [
     "evasasha",
     "_virtual_lady_",
     "wild_schoolgirl",
-    "carmen_harty_",
     "kinkyali",
     "anna_sabotage",
     "_milkyway",
