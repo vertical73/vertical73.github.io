@@ -42,5 +42,6 @@ var models = [
     "berlin_lange",
     "schoolgirl19",
     "ellaa91",
+    "desert2blosom",
     "juicy_khloe"
 ];
