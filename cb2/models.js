@@ -31,18 +31,13 @@ var models = [
     "annbarby",
     "milena_manin",
     "krissone",
-    "aalliyahh",
     "milanaaafit",
     "meowlina",
     "stacyspank",
     "fabia7721",
     "sensual_yana",
-    "hayleex",
-    "aquilaria_",
     "schoolgirl19",
     "ellaa91",
     "desert2blosom",
-    "juicy_khloe",
-    "cutemoments",
-    "red_haired_maiden"
+    "juicy_khloe"
 ];
