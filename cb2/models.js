@@ -39,5 +39,8 @@ var models = [
     "schoolgirl19",
     "ellaa91",
     "desert2blosom",
-    "juicy_khloe"
+    "juicy_khloe",
+    "mcflurry18",
+    "cutemoments",
+    "red_haired_maiden"
 ];
