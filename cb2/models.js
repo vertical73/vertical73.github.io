@@ -38,7 +38,6 @@ var models = [
     "sensual_yana",
     "schoolgirl19",
     "ellaa91",
-    "desert2blosom",
     "juicy_khloe",
     "mcflurry18",
     "cutemoments",
