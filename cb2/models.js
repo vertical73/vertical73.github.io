@@ -35,7 +35,6 @@ var models = [
     "meowlina",
     "stacyspank",
     "fabia7721",
-    "sensual_yana",
     "schoolgirl19",
     "ellaa91",
     "juicy_khloe",
