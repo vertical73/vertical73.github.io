@@ -25,6 +25,5 @@ var models = [
     "meowlina",
     "fabia7721",
     "schoolgirl19",
-    "juicy_khloe",
-    "monikate"
+    "juicy_khloe"
 ];
