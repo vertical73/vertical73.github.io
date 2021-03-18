@@ -29,6 +29,7 @@ var models = [
     "fabia7721",
     "schoolgirl19",
     "snowww_white",
+    "satoria",
     "hayleex",
     "juicy_khloe"
 ];
