@@ -19,7 +19,6 @@ var models = [
     "evelissa",
     "alice_kosmos",
     "evalanis",
-    "vanila_cream_",
     "amazon_girl",
     "sex_factory_",
     "alexandra_lima",
