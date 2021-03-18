@@ -30,6 +30,7 @@ var models = [
     "schoolgirl19",
     "snowww_white",
     "satoria",
+    "sweet_tinker_bell",
     "hayleex",
     "juicy_khloe"
 ];
