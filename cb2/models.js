@@ -27,7 +27,6 @@ var models = [
     "meowlina",
     "fabia7721",
     "schoolgirl19",
-    "snowww_white",
     "satoria",
     "sweet_tinker_bell",
     "immature_babyy",
