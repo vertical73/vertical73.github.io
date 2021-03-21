@@ -24,7 +24,6 @@ var models = [
     "kleasure",
     "schoolgirl19",
     "milena_manin",
-    "evalanis",
     "amazon_girl",
     "meowlina",
     "fabia7721",
