@@ -33,5 +33,6 @@ var models = [
     "wtfuck303",
     "hayleex",
     "juicy_khloe",
-    "soavem"
+    "soavem",
+    "yournaughtymiss"
 ];
