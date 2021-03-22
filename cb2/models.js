@@ -5,6 +5,7 @@ var models = [
     "_woweva__",
     "lilly_vanilla",
     "lola_bunny94",
+    "yournaughtymiss",
     "mango_shake",
     "sweet__sugar",
     "xllodaz",
@@ -33,6 +34,5 @@ var models = [
     "hayleex",
     "juicy_khloe",
     "soavem",
-    "yournaughtymiss",
     "laracroftt"
 ];
