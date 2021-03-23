@@ -30,12 +30,12 @@ var models = [
     "fabia7721",
     "sweet_tinker_bell",
     "wtfuck303",
-    "hayleex",
     "juicy_khloe",
     "soavem",
     "laracroftt",
     "drippyprincess",
     "marie_blue",
     "fortunegold",
-    "satoria"
+    "satoria",
+    "hayleex"
 ];
