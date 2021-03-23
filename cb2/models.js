@@ -36,6 +36,6 @@ var models = [
     "soavem",
     "laracroftt",
     "drippyprincess",
-    "fortunegold",
-    "marie_blue"
+    "marie_blue",
+    "fortunegold"
 ];
