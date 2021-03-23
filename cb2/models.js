@@ -28,7 +28,6 @@ var models = [
     "amazon_girl",
     "meowlina",
     "fabia7721",
-    "satoria",
     "sweet_tinker_bell",
     "wtfuck303",
     "hayleex",
@@ -37,5 +36,6 @@ var models = [
     "laracroftt",
     "drippyprincess",
     "marie_blue",
-    "fortunegold"
+    "fortunegold",
+    "satoria"
 ];
