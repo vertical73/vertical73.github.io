@@ -36,6 +36,7 @@ var models = [
     "terrroristic",
     "drippyprincess",
     "marie_blue",
+    "angels_kiss",
     "girl_cb",
     "fortunegold",
     "samy_summer",
