@@ -21,7 +21,6 @@ var models = [
     "alice_kosmos",
     "sex_factory_",
     "alexandra_lima",
-    "pinkgold_",
     "kleasure",
     "schoolgirl19",
     "milena_manin",
@@ -40,7 +39,6 @@ var models = [
     "angels_kiss",
     "fortunegold",
     "satoria",
-    "shiny_lily",
     "tiffanyhouston_",
     "juicy_khloe",
     "hayleex"
