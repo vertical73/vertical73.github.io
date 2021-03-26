@@ -43,5 +43,6 @@ var models = [
     "fortunegold",
     "satoria",
     "lina_dream_",
+    "baby_misa",
     "hayleex"
 ];
