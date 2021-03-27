@@ -39,7 +39,6 @@ var models = [
     "juicy_khloe",
     "kosherpussy",
     "terrroristic",
-    "shycinderella",
     "satoria",
     "baby_misa",
     "hayleex",
