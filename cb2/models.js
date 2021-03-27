@@ -39,7 +39,7 @@ var models = [
     "juicy_khloe",
     "kosherpussy",
     "terrroristic",
-    "fortunegold",
+    "shycinderella",
     "satoria",
     "baby_misa",
     "hayleex",
