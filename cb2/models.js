@@ -37,7 +37,6 @@ var models = [
     "marie_blue",
     "tiffanyhouston_",
     "juicy_khloe",
-    "kosherpussy",
     "terrroristic",
     "satoria",
     "baby_misa",
