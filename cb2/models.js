@@ -21,6 +21,7 @@ var models = [
     "alice_kosmos",
     "sex_factory_",
     "alexandra_lima",
+    "little_vee",
     "kleasure",
     "schoolgirl19",
     "milena_manin",
@@ -41,6 +42,5 @@ var models = [
     "satoria",
     "baby_misa",
     "hayleex",
-    "wild_schoolgirl",
-    "little_vee"
+    "wild_schoolgirl"
 ];
