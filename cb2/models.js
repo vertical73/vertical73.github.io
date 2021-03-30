@@ -43,5 +43,6 @@ var models = [
     "satoria",
     "baby_misa",
     "hayleex",
-    "wild_schoolgirl"
+    "wild_schoolgirl",
+    "alice_n_wooderland"
 ];
