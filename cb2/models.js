@@ -40,6 +40,7 @@ var models = [
     "satoria",
     "baby_misa",
     "olivia_093",
+    "feelmemore",
     "marie_blue",
     "hayleex",
     "alice_n_wooderland"
