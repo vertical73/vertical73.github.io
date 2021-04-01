@@ -3,7 +3,6 @@ var models = [
     "_milkyway",
     "lola_bunny94",
     "mango_shake",
-    "little_vee",
     "lilly_vanilla",
     "_woweva__",
     "yournaughtymiss",
