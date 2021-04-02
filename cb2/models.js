@@ -33,7 +33,6 @@ var models = [
     "wtfuck303",
     "soavem",
     "tiffanyhouston_",
-    "olivia_093",
     "sunny_abby",
     "lianapixu",
     "wild_schoolgirl",
