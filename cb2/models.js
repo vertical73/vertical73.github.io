@@ -34,6 +34,7 @@ var models = [
     "soavem",
     "tiffanyhouston_",
     "sunny_abby",
+    "lovely_aria",
     "lianapixu",
     "wild_schoolgirl",
     "terrroristic",
