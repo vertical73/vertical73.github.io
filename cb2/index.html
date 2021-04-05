@@ -10,18 +10,24 @@
              margin: 0px 0px 0px 0px;
         }
         /*###Desktops, big landscape tablets and laptops(Large, Extra large)####*/
-        @media screen and (min-width: 1024px){
+        @media screen and (min-width: 1440px){
             /*Style*/
         }
         
         /*###Tablet(medium)###*/
-        @media screen and (min-width : 960x) and (max-width : 1023px){
-            /*Style*/
+        @media screen and (min-width : 1024x) and (max-width : 1439px){
+            img {
+                width: 50vw;
+                height: auto;
+            }
         }
         
         /*### Smartphones (portrait and landscape)(small)### */
-        @media screen and (min-width : 0px) and (max-width : 960){
-            /*Style*/
+        @media screen and (min-width : 0px) and (max-width : 1023px){
+            img {
+                width: 100vw;
+                height: auto;
+            }
         }
 
         #timestamp {
@@ -321,6 +327,13 @@
     <script>
         var footer = setInterval(checkOfflineCount, 512);
     </script>
+    
+    <div>
+    <script>
+        document.write(window.innerWidth + " x " + window.innerHeight);
+    </script>
+    </div>
+    
 </body>
 
 </html>
