@@ -220,7 +220,7 @@
         }
     </script>
     <script>
-        function writeModelNode(model) {
+        function writeModelNode(model, channelsBox) {
             let cbUrl = "https://m.chaturbate.com/" + model + "/";
             let imgUrl =  "https://roomimg.stream.highwebmedia.com/ri/" + model + ".jpg";
             let activeUrl =  "https://cbjpeg.stream.highwebmedia.com/minifwap/" + model + ".jpg?f=" + Math.random();
@@ -235,7 +235,7 @@
             modelBox.className = "model";
             modelBox.style.display = "none";
             _modelBoxes.set(model, modelBox);
-
+            
             xhr.onreadystatechange = function() {
                 if ( xhr.readyState == 4 ) {
                     imgSize = xhr.getResponseHeader('Content-Length');
@@ -265,7 +265,11 @@
                         setTimestamp("none");
                     }
 
-                    document.body.appendChild(modelBox);
+                    if (channelsBox) {
+                        channelsBox.appendChild(modelBox);
+                    } else {
+                        document.body.appendChild(modelBox);
+                    }
                 }
             }
             xhr.send();
@@ -321,16 +325,17 @@
         </script>
     </div>
     <div id="channels">
-        <script>
-            for (n in models) {
-                writeModelNode(models[n]);
-            }
-
-            var refresher = setInterval(refreshing, 250);
-            var information = setInterval(updatingInfo, 3000);
-            var updater = setInterval(updating, 9000);
-        </script>
     </div>
+    <script>
+        let channelsDiv = document.getElementById('channels');
+        for (n in models) {
+            writeModelNode(models[n], channelsDiv);
+        }
+
+        var refresher = setInterval(refreshing, 250);
+        var information = setInterval(updatingInfo, 3000);
+        var updater = setInterval(updating, 9000);
+    </script>
     <script>
         var footer = setInterval(checkOfflineCount, 512);
     </script>
