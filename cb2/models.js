@@ -44,7 +44,8 @@ var models = [
     "feelmemore",
     "angels_kiss",
     "marie_blue",
-    "hayleex",
+    "_mayer",
     "alice_n_wooderland",
-    "_mayer"
+    "hayleex",
+    "liisppb"
 ];
