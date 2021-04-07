@@ -35,7 +35,6 @@ var models = [
     "sunny_abby",
     "lianapixu",
     "wild_schoolgirl",
-    "laracroftt",
     "baby_misa",
     "terrroristic",
     "feelmemore",
