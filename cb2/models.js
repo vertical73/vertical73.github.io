@@ -36,16 +36,9 @@ var models = [
     "lianapixu",
     "wild_schoolgirl",
     "laracroftt",
-    "satoria",
     "baby_misa",
-    "beccarogers",
     "terrroristic",
     "feelmemore",
-    "angels_kiss",
     "marie_blue",
-    "_mayer",
-    "alice_n_wooderland",
-    "hayleex",
-    "liisppb",
-    "kialovely"
+    "_mayer"
 ];
