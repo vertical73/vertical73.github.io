@@ -8,7 +8,6 @@ var models = [
     "yournaughtymiss",
     "lovely_aria",
     "sweet__sugar",
-    "kialovely",
     "xllodaz",
     "catanddickxxx",
     "_virtual_lady_",
