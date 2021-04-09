@@ -19,7 +19,7 @@ var models = [
     "cogitademe",
     "annie_sweetyxx",
     "evelissa",
-    "alice_kosmos",
+//    "alice_kosmos",
     "tiffanyhouston_",
     "alexandra_lima",
     "kleasure",
