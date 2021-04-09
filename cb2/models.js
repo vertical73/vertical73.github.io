@@ -29,7 +29,6 @@ var models = [
     "fabia7721",
     "sweet_tinker_bell",
     "kriss0leoo",
-    "girl_cb",
     "wtfuck303",
     "soavem",
     "sunny_abby",
@@ -40,5 +39,6 @@ var models = [
     "terrroristic",
     "feelmemore",
     "marie_blue",
-    "_mayer"
+    "_mayer",
+    "girl_cb",
 ];
