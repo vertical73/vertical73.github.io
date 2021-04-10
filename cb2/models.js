@@ -39,6 +39,5 @@ var models = [
     "kriss0leoo",
     "marie_blue",
     "lianapixu",
-    "feelmemore",
-    "girl_cb"
+    "feelmemore"
 ];
