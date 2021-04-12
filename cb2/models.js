@@ -37,7 +37,7 @@ var models = [
     "terrroristic",
     "_mayer",
     "kriss0leoo",
-    "marie_blue",
+    "little_vee",
     "lianapixu",
     "feelmemore"
 ];
