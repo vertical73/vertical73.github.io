@@ -39,7 +39,6 @@ var models = [
     "little_vee",
     "mila_cutee",
     "terrroristic",
-    "bengal_kissa",
     "kriss0leoo",
     "lianapixu",
     "feelmemore"
