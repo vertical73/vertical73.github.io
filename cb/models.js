@@ -1,7 +1,7 @@
 var models = [
     "evasasha",
     "mango_shake",
-    "kialovely",
+    "candysfox",
     "lola_bunny94",
     "_woweva__",
     "_milkyway",
