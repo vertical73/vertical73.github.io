@@ -23,7 +23,7 @@ var models = [
     "evelissa",
 //    "alice_kosmos",
     "tiffanyhouston_",
-    "alexandra_lima",
+    "lalalexa",
     "kleasure",
     "soavem",
     "sweet_tinker_bell",
