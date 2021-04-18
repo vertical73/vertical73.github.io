@@ -25,7 +25,6 @@ var models = [
     "tiffanyhouston_",
     "lalalexa",
     "kleasure",
-    "soavem",
     "sweet_tinker_bell",
     "wild_schoolgirl",
     "meru_succubus",
