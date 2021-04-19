@@ -28,7 +28,6 @@ var models = [
     "sweet_tinker_bell",
     "wild_schoolgirl",
     "meru_succubus",
-    "_mayer",
     "baby_misa",
     "little_vee",
     "milena_manin",
