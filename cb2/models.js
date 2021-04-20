@@ -35,5 +35,6 @@ var models = [
     "mila_cutee",
     "kriss0leoo",
     "lianapixu",
-    "feelmemore"
+    "feelmemore",
+    "kialovely"
 ];
