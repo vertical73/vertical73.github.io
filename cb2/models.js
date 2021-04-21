@@ -32,7 +32,6 @@ var models = [
     "milena_manin",
     "fox_alina",
     "wtfuck303",
-    "mila_cutee",
     "kriss0leoo",
     "lianapixu",
     "feelmemore",
