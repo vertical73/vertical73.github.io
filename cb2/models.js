@@ -30,12 +30,9 @@ var models = [
     "feelmemore",
     "meru_succubus",
     "fox_alina",
-    "sunny_abby",
     "kriss0leoo",
     "lianapixu",
-    "marylanex",
     "kialovely",
     "stephaweb",
-    "babydoll_laura",
-    "wtfuck303"
+    "babydoll_laura"
 ];
