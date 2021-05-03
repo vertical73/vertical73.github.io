@@ -21,7 +21,7 @@ var models = [
     "kinkyali",
     "evelissa",
     "agatha137",
-    "alice_kosmos",
+//    "alice_kosmos",
     "tiffanyhouston_",
     "lalalexa",
     "kleasure",
