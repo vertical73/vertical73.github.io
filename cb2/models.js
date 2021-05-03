@@ -31,7 +31,6 @@ var models = [
     "meru_succubus",
     "fox_alina",
     "kriss0leoo",
-    "vallovecb",
     "lianapixu",
     "kialovely",
     "stephaweb",
