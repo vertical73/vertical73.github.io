@@ -32,6 +32,7 @@ var models = [
     "babydoll_laura",
     "meru_succubus",
     "fox_alina",
+    "sweetorannge",
     "kriss0leoo",
     "lianapixu",
     "kialovely"
