@@ -29,10 +29,10 @@ var models = [
     "wild_schoolgirl",
     "feelmemore",
     "fairysusan",
+    "babydoll_laura",
     "meru_succubus",
     "fox_alina",
     "kriss0leoo",
     "lianapixu",
-    "kialovely",
-    "babydoll_laura"
+    "kialovely"
 ];
