@@ -30,6 +30,7 @@ var models = [
     "feelmemore",
     "fairysusan",
     "babydoll_laura",
+    "meru_s",
     "meru_succubus",
     "fox_alina",
     "amy_abotable",
