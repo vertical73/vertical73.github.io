@@ -133,7 +133,7 @@
         }
         
         function isOfflineImage(imgSize) {
-            return (imgSize == 0 || imgSize == 7442 || imgSize == 21971 || imgSize == 4824 || imgSize == 6778 || imgSize < 8000);
+            return (imgSize == 0 || imgSize == 7442 || imgSize == 21971 || imgSize == 4824 || imgSize == 6778 || imgSize == 6734);
         }
         
         function isOffline(model) {
@@ -141,6 +141,7 @@
             let imgSize = info.imgSize;
             let imgSizeHist = info.imgSizeHist;
             if (isOfflineImage(imgSize)) {
+                console.log("offline: " + model + " -> " + imgSize);
                 return true;
             }
             if (imgSizeHist.length >= 24) {
