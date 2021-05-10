@@ -132,11 +132,15 @@
             xhr.send();
         }
         
+        function isOfflineImage(imgSize) {
+            return imgSize == 0 || imgSize == 7442 || imgSize == 21971 || imgSize == 4824 || imgSize == 6778 || imgSize < 8000;
+        }
+        
         function isOffline(model) {
             let info = _modelInfo.get(model);
             let imgSize = info.imgSize;
             let imgSizeHist = info.imgSizeHist;
-            if (imgSize == 0 || imgSize == 7442 || imgSize == 21971 || imgSize == 4824 || imgSize == 6778) {
+            if (isOfflineImage(imgSize)) {
                 return true;
             }
             if (imgSizeHist.length >= 24) {
@@ -220,7 +224,7 @@
         }
     </script>
     <script>
-        function writeModelNode(model) {
+        function writeModelNode(model, channelsBox) {
             let cbUrl = "https://m.chaturbate.com/" + model + "/";
             let imgUrl =  "https://roomimg.stream.highwebmedia.com/ri/" + model + ".jpg";
             let activeUrl =  "https://cbjpeg.stream.highwebmedia.com/minifwap/" + model + ".jpg?f=" + Math.random();
@@ -235,7 +239,7 @@
             modelBox.className = "model";
             modelBox.style.display = "none";
             _modelBoxes.set(model, modelBox);
-
+            
             xhr.onreadystatechange = function() {
                 if ( xhr.readyState == 4 ) {
                     imgSize = xhr.getResponseHeader('Content-Length');
@@ -248,7 +252,7 @@
                     };
                     _modelInfo.set(model, info);
 
-                    if (imgSize != 21971 && imgSize != 7442 && imgSize != 4824 && imgSize != 6778) {
+                    if (!isOfflineImage(imgSize)) {
                         let anchor = document.createElement("a");
                         anchor.href = cbUrl;
                         anchor.target = "_blank";
@@ -265,7 +269,11 @@
                         setTimestamp("none");
                     }
 
-                    document.body.appendChild(modelBox);
+                    if (channelsBox) {
+                        channelsBox.appendChild(modelBox);
+                    } else {
+                        document.body.appendChild(modelBox);
+                    }
                 }
             }
             xhr.send();
@@ -321,16 +329,17 @@
         </script>
     </div>
     <div id="channels">
-        <script>
-            for (n in models) {
-                writeModelNode(models[n]);
-            }
-
-            var refresher = setInterval(refreshing, 250);
-            var information = setInterval(updatingInfo, 3000);
-            var updater = setInterval(updating, 9000);
-        </script>
     </div>
+    <script>
+        let channelsDiv = document.getElementById('channels');
+        for (n in models) {
+            writeModelNode(models[n], channelsDiv);
+        }
+
+        var refresher = setInterval(refreshing, 250);
+        var information = setInterval(updatingInfo, 3000);
+        var updater = setInterval(updating, 9000);
+    </script>
     <script>
         var footer = setInterval(checkOfflineCount, 512);
     </script>
