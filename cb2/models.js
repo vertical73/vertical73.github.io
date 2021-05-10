@@ -34,6 +34,7 @@ var models = [
     "fox_alina",
     "amy_abotable",
     "lillpio",
+    "satoria",
     "eva_cali",
     "kriss0leoo",
     "sweetboobss1",
