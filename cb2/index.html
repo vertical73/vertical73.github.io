@@ -132,11 +132,15 @@
             xhr.send();
         }
         
+        function isOfflineImage(imgSize) {
+            return imgSize == 0 || imgSize == 7442 || imgSize == 21971 || imgSize == 4824 || imgSize == 6778 || imgSize < 8000;
+        }
+        
         function isOffline(model) {
             let info = _modelInfo.get(model);
             let imgSize = info.imgSize;
             let imgSizeHist = info.imgSizeHist;
-            if (imgSize == 0 || imgSize == 7442 || imgSize == 21971 || imgSize == 4824 || imgSize == 6778) {
+            if (isOfflineImage(imgSize)) {
                 return true;
             }
             if (imgSizeHist.length >= 24) {
@@ -248,7 +252,7 @@
                     };
                     _modelInfo.set(model, info);
 
-                    if (imgSize != 21971 && imgSize != 7442 && imgSize != 4824 && imgSize != 6778) {
+                    if (!isOfflineImage(imgSize)) {
                         let anchor = document.createElement("a");
                         anchor.href = cbUrl;
                         anchor.target = "_blank";
