@@ -37,11 +37,7 @@ var models = [
     "eva_cali",
     "sweetboobss1",
     "girl_cb",
-    "kriss0leoo",
-    "amy_abotable",
-    "lianapixu",
     "hayley__lee",
     "emese_",
-    "kristin_kiss",
     "kialovely"
 ];
