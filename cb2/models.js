@@ -42,5 +42,6 @@ var models = [
     "lianapixu",
     "hayley__lee",
     "emese_",
+    "kristin_kiss",
     "kialovely"
 ];
