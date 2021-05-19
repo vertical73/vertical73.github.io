@@ -33,7 +33,6 @@ var models = [
     "lalalexa",
     "kleasure",
     "sweet_tinker_bell",
-    "fairysusan",
     "lillpio",
     "eva_cali",
     "sweetboobss1",
