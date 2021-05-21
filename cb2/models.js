@@ -40,7 +40,6 @@ var models = [
     "july_koss",
     "hell_lo",
     "sweet__sensation",
-    "eva_steels",
     "mila_bunny",
     "kialovely"
 ];
