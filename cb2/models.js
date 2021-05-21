@@ -34,7 +34,6 @@ var models = [
     "kleasure",
     "sweet_tinker_bell",
     "lillpio",
-    "eva_cali",
     "sweetboobss1",
     "girl_cb",
     "july_koss",
