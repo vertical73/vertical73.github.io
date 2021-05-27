@@ -40,6 +40,5 @@ var models = [
     "hell_lo",
     "sweet__sensation",
     "sweet_marshmallow_",
-    "vanil_nikol",
     "hayleex"
 ];
