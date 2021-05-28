@@ -38,6 +38,7 @@ var models = [
     "july_koss",
     "hell_lo",
     "sweet__sensation",
+    "bettybonhill",
     "sweet_marshmallow_",
     "lillpio",
     "hayleex"
