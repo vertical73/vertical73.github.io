@@ -40,7 +40,6 @@ var models = [
     "sweet__sensation",
     "bettybonhill",
     "sweet_marshmallow_",
-    "marry_jein",
     "vivian_clark",
     "pussylovekate",
     "hayleex"
