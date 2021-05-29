@@ -41,5 +41,6 @@ var models = [
     "bettybonhill",
     "sweet_marshmallow_",
     "lillpio",
+    "chili_baby22",
     "hayleex"
 ];
