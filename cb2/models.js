@@ -47,5 +47,7 @@ var models = [
     "vivian_clark",
     "emilia98xxx",
     "pussylovekate",
+    "emese_",
+    "_snoowwhite",
     "hayleex"
 ];
