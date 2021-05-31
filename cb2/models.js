@@ -46,7 +46,6 @@ var models = [
     "marry_jein",
     "vivian_clark",
     "emilia98xxx",
-    "juicy_khloe",
     "pussylovekate",
     "mila_bunnyy",
     "emese_",
