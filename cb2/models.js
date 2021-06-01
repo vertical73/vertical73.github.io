@@ -50,5 +50,6 @@ var models = [
     "emese_",
     "_snoowwhite",
     "marypsiss",
+    "vanil_nikol",
     "hayleex"
 ];
