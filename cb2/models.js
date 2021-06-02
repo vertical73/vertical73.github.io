@@ -52,5 +52,6 @@ var models = [
     "sweet__sensation",
     "grande_niks_",
     "hayle_green",
+    "sophie_moons",
     "hayleex"
 ];
