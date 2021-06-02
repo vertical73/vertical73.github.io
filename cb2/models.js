@@ -33,12 +33,10 @@ var models = [
     "lalalexa",
     "kleasure",
     "sweet_tinker_bell",
-    "sweetboobss1",
     "girl_cb",
     "july_koss",
     "hell_lo",
     "sweet__sensation",
-    "bettybonhill",
     "sweet_marshmallow_",
     "jessica_jonses",
     "sansaraa",
@@ -50,6 +48,8 @@ var models = [
     "emese_",
     "_snoowwhite",
     "marypsiss",
+    "bettybonhill",
     "vanil_nikol",
+    "sweetboobss1",
     "hayleex"
 ];
