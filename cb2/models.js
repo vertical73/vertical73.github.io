@@ -46,7 +46,6 @@ var models = [
     "emese_",
     "_snoowwhite",
     "marypsiss",
-    "grande_niks_",
     "vanil_nikol",
     "bettybonhill",
     "vivian_clark",
