@@ -47,5 +47,6 @@ var models = [
     "sweetboobss1",
     "sweet__sensation",
     "cosmicfairy",
+    "sweetpulse_",
     "sophie_moons"
 ];
