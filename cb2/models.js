@@ -28,7 +28,6 @@ var models = [
     "babydoll_laura",
     "liisppb",
     "evelissa",
-    "little_vee",
     "agatha137",
     "fox_alina",
     "satoria",
