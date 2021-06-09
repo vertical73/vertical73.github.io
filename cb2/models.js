@@ -48,6 +48,8 @@ var models = [
     "lolla_molla",
     "tiny_liana",
     "cosmicfairy",
+    "nicevenice",
+    "xkendallx",
     "sweet__sensation",
     "sophie_moons"
 ];
