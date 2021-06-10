@@ -31,7 +31,6 @@ var models = [
     "agatha137",
     "fox_alina",
     "satoria",
-    "lalalexa",
     "kleasure",
     "sweet_tinker_bell",
     "july_koss",
@@ -44,7 +43,5 @@ var models = [
     "lolla_molla",
     "tiny_liana",
     "cosmicfairy",
-    "xkendallx",
-    "sweet__sensation",
-    "sophie_moons"
+    "xkendallx"
 ];
