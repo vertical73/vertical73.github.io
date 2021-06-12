@@ -44,5 +44,5 @@ var models = [
     "tiny_liana",
     "vallovecb",
     "cosmicfairy",
-    "xkendallx"
+    "annelitt"
 ];
