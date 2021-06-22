@@ -36,7 +36,6 @@ var models = [
     "lolla_molla",
     "hayle_green",
     "agatha137",
-    "merrilyn",
     "bettybonhill",
     "tiny_liana",
     "vallovecb",
@@ -44,6 +43,5 @@ var models = [
     "sweetboobss1",
     "alicewood_",
     "cosmicfairy",
-    "amazon_girl",
-    "fairysusan"
+    "amazon_girl"
 ];
