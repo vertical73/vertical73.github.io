@@ -38,7 +38,6 @@ var models = [
     "agatha137",
     "bettybonhill",
     "tiny_liana",
-    "vallovecb",
     "maryvi",
     "sweetboobss1",
     "alicewood_",
