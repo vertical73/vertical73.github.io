@@ -35,7 +35,6 @@ var models = [
     "agatha137",
     "sweetboobss1",
     "kleasure",
-    "babydoll_laura",
     "bettybonhill",
     "tiny_liana",
     "maryvi",
@@ -46,5 +45,6 @@ var models = [
     "marylanex",
     "funnysimka",
     "rennatha21",
-    "marry_may_"
+    "marry_may_",
+    "babydoll_laura"
 ];
