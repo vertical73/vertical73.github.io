@@ -45,5 +45,6 @@ var models = [
     "marylanex",
     "funnysimka",
     "rennatha21",
+    "little_vee",
     "babydoll_laura"
 ];
