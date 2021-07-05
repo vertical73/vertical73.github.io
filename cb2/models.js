@@ -35,7 +35,6 @@ var models = [
     "agatha137",
     "kleasure",
     "bettybonhill",
-    "tiny_liana",
     "maryvi",
     "alicewood_",
     "amazon_girl",
