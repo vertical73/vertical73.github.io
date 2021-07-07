@@ -27,7 +27,6 @@ var models = [
     "tiffanyhouston_",
     "liisppb",
     "evelissa",
-    "fox_alina",
     "sweet_tinker_bell",
     "july_koss",
     "lolla_molla",
