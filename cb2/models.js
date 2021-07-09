@@ -1,5 +1,6 @@
 var models = [
     "evasasha",
+    "july_koss",
     "_milkyway",
     "mango_shake",
     "lilly_vanilla",
@@ -29,7 +30,6 @@ var models = [
     "liisppb",
     "evelissa",
     "sweet_tinker_bell",
-    "july_koss",
     "lolla_molla",
     "hayle_green",
     "agatha137",
