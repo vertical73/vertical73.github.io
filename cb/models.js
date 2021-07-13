@@ -1,5 +1,6 @@
 var models = [
     "evasasha",
+    "july_koss",
     "mango_shake",
     "feelmemore",
     "candysfox",
