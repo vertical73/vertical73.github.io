@@ -46,5 +46,6 @@ var models = [
     "selfish_ashley",
     "hell_lo",
     "_love_daddys",
+    "juicekatee",
     "miley_k18"
 ];
