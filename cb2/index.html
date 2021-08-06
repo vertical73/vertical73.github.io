@@ -66,6 +66,9 @@
                 models.splice(models.indexOf(h),1);
             }
         }
+        if (params.getAll('shuffle').length > 0) {
+            shuffleModels();
+        }
     </script>
     <script>
         function getRandomInt(max) {

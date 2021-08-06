@@ -49,3 +49,10 @@ var models = [
     "_love_daddys",
     "miley_k18"
 ];
+
+function shuffleModels() {
+    for (let i = models.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [models[i], models[j]] = [models[j], models[i]];
+    }
+}
