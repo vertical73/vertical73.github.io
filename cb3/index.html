@@ -356,6 +356,9 @@
         for (n in models) {
             writeModelNode(models[n], channelsDiv);
         }
+        refreshing();
+        setTimeout(updatingInfo, 8);
+        setTimeout(updating, 128);
 
         var refresher = setInterval(refreshing, 250);
         var information = setInterval(updatingInfo, 3000);
