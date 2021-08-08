@@ -47,6 +47,8 @@ var models = [
     "tonibrock",
     "selfish_ashley",
     "_love_daddys",
+    "amazing_roxana",
+    "ms_seductive",
     "miley_k18"
 ];
 
