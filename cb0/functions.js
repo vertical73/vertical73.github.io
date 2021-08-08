@@ -1,15 +1,26 @@
 
+function channelId(modelName) {
+	return "channel-" + modelName;
+}
+
+function channelImgUrl(modelName) {
+	return "https://roomimg.stream.highwebmedia.com/ri/" + modelName + ".jpg";
+}
+
+function channelActiveUrl(modelName) {
+	return "https://cbjpeg.stream.highwebmedia.com/minifwap/" + modelName + ".jpg?f=" + Math.random();
+}
 
 function refreshChannel(model) {
-	// TODO
+	// todo
 }
 
 function initChannel(model, priority) {
-	// TODO
+	// todo
 }
 
 function updateChannel(model, priority) {
-	// TODO
+	// todo
 }
 
 function isOfflineImage(imgSize) {
