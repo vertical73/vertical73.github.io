@@ -1,9 +1,3 @@
-body {
-	 background-color: #000000;
-	 color: #cccccc;
-	 margin: 0px 0px 0px 0px;
-}
-
 @media screen and (min-width: 1440px){
 }
 
@@ -29,6 +23,20 @@ body {
 		width: 100vw;
 		max-width: 100vw;
 	}
+}
+
+body {
+	 background-color: #000000;
+	 color: #cccccc;
+	 margin: 0px 0px 0px 0px;
+}
+
+#main {
+	display: flex-wrap;
+}
+
+.model {
+	display: inline;
 }
 
 #timestamp {

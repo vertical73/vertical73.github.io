@@ -11,14 +11,36 @@ function channelActiveUrl(modelName) {
 	return "https://cbjpeg.stream.highwebmedia.com/minifwap/" + modelName + ".jpg?f=" + Math.random();
 }
 
+function chaturbateUrl(modelName) {
+	return "https://m.chaturbate.com/" + modelName + "/";
+}
+
 function createChannelBox(model) {
 	const channelBox = document.createElement('div');
 	channelBox.id = channelId(model.name);
 	channelBox.className = "model";
 	channelBox.style.order = model.priority;
+
+	// channelBox.innerHTML = model.name;
+	
 	channelBox.style.display = 'none';
 	
 	return channelBox;
+}
+
+function createAnchor(model) {
+	const anchor = document.createElement('a');
+	anchor.href = chaturbateUrl(model.name);
+	anchor.target = "_blank";
+	
+	return anchor;
+}
+
+function tuneChannel(model) {
+	const img = new Image();
+	img.src = channelActiveUrl(model.name);
+	
+	return img;
 }
 
 function initChannel(model) {
