@@ -21,7 +21,7 @@ function Scoring(beauty, levels, downToFuck, exhibition, shape, tits, ass, legs,
 }
 
 function Pvt(allows, rate, recording) {
-	this.pvt = pvt; // boolean
+	this.allows = allows; // boolean
 	this.rate = rate; // number
 	this.recording = recording; // "yes", "no", "sometimes"
 }
