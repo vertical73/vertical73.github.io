@@ -23,6 +23,7 @@ function scanChannel(modelName, imgBox) {
 				$$__ImgSizeHistory.set(modelName, [imgSize]);
 				if (! isOfflineImage(imgSize)) {
 					$$__Active.set(modelName, imgBox);
+					$$__Offline.delete(modelName);
 					turnOn($$__Channels.get(modelName));
 				} else {
 					$$__Offline.set(modelName, imgBox);
@@ -45,10 +46,8 @@ function check(img, modelName, imgMap) {
 	scanChannel(modelName, img);
 }
 
-function checking() {
-	$$__Active.forEach(check);
-	
-	// todo offline->online checking
+function checking(map) {
+	map.forEach(check);
 }
 
 function renderChannel(model, modelName, models) {
@@ -72,3 +71,8 @@ function renderChannel(model, modelName, models) {
 $$__Models.forEach(renderChannel);
 
 setInterval(refreshing, 250);
+
+setInterval(checking($$__Active), 5000);
+
+setInterval(checking($$__Offline), 30000);
+
