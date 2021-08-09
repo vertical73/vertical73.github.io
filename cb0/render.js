@@ -5,8 +5,8 @@ var $$__Offline = new Map(); // model.name -> img
 
 var $$__ImgSizeHistory = new Map(); // model.name -> [imgSize]
 
-function scanChannel(model, imgBox) {	
-	let imgScan = fetch(channelActiveUrl(model.name))
+function scanChannel(modelName, imgBox) {	
+	let imgScan = fetch(channelActiveUrl(modelName))
 		.then(
 			function(response) {
 				return response.blob();
@@ -19,14 +19,15 @@ function scanChannel(model, imgBox) {
 	
 	return imgScan.then(
 			function(imgSize) {
-				console.log(model.name + " -> " + imgSize);
-				$$__ImgSizeHistory.set(model.name, [imgSize]);
+				console.log(modelName + " -> " + imgSize);
+				$$__ImgSizeHistory.set(modelName, [imgSize]);
 				if (! isOfflineImage(imgSize)) {
-					$$__Active.set(model.name, imgBox);
-					turnOn($$__Channels.get(model.name));
+					$$__Active.set(modelName, imgBox);
+					turnOn($$__Channels.get(modelName));
 				} else {
-					$$__Offline.set(model.name, imgBox);
-					turnOff($$__Channels.get(model.name));
+					$$__Offline.set(modelName, imgBox);
+					$$__Active.delete(modelName);
+					turnOff($$__Channels.get(modelName));
 				}
 			}
 		);
@@ -40,31 +41,32 @@ function refreshing() {
 	$$__Active.forEach(refreshChannel);
 }
 
-function check(value, key, map) {
-	// todo
+function check(img, modelName, imgMap) {
+	scanChannel(modelName, img);
 }
 
 function checking() {
 	$$__Active.forEach(check);
 	
+	// todo offline->online checking
 }
 
-function renderChannel(value, key, map) {
-	console.log("Writing channel box for " + key);
+function renderChannel(model, modelName, models) {
+	console.log("Writing channel box for " + modelName);
 
 	let tvBox = document.getElementById("main");
-	let channelBox = createChannelBox(value);
-	let anchor = createAnchor(value);
-	let img = tuneChannel(value);
+	let channelBox = createChannelBox(model);
+	let anchor = createAnchor(model);
+	let img = tuneChannel(model);
 
 	anchor.appendChild(img);
 	channelBox.appendChild(anchor);
 	tvBox.appendChild(channelBox);
 
-	$$__Channels.set(key, channelBox);
-	$$__Images.set(key, img);
+	$$__Channels.set(modelName, channelBox);
+	$$__Images.set(modelName, img);
 	
-	scanChannel(value, img);
+	scanChannel(modelName, img);
 }
 
 $$__Models.forEach(renderChannel);
