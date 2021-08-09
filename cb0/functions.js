@@ -1,6 +1,6 @@
 
 function channelId(modelName) {
-	return "channel-" + modelName;
+	return "channel$" + modelName;
 }
 
 function channelImgUrl(modelName) {
@@ -11,8 +11,17 @@ function channelActiveUrl(modelName) {
 	return "https://cbjpeg.stream.highwebmedia.com/minifwap/" + modelName + ".jpg?f=" + Math.random();
 }
 
-// priority override optional
-function initChannel(model, tvBox, priorityOverride) {
+function createChannelBox(model) {
+	const channelBox = tvBox.createElement('div');
+	channelBox.id = channelId(model.name);
+	channelBox.className = "model";
+	channelBox.style.order = model.priority;
+	channelBox.style.display = 'none';
+	
+	return channelBox;
+}
+
+function initChannel(model) {
 	// todo
 }
 

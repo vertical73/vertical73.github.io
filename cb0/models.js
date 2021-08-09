@@ -8,17 +8,17 @@ class Model {
 }
 
 class Scoring {
-	constructor(beauty, levels, downToFuck, exhibition, shape, tits, ass, legs, anal, broadcast, availability) {
+	constructor(beauty, levels, dtf, exhibition, shape, mangos, peach, bird, greek, broadcast, availability) {
 		// number, sort descending (higher is better)
 		this.beauty = beauty; // {10..1}
-		this.downToFuck; // {5..0}
+		this.dtf = dtf; // {5..0}
 		this.levels = levels; // {5..0}
 		this.exhibition = exhibition; // {5..0}
 		this.shape = shape; // {5..0}
-		this.tits = tits; // {5..0}
-		this.ass = ass; // {5..0}
-		this.legs = legs; // {5..0}
-		this.anal = anal; // {5..0}
+		this.mangos = mangos; // {5..0}
+		this.peach = peach; // {5..0}
+		this.bird = bird; // {5..0}
+		this.greek = greek; // {5..0}
 		this.broadcast = broadcast; // {5..0}
 		this.availability = availability; // {5..0}
 	}
