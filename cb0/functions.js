@@ -11,15 +11,17 @@ function channelActiveUrl(modelName) {
 	return "https://cbjpeg.stream.highwebmedia.com/minifwap/" + modelName + ".jpg?f=" + Math.random();
 }
 
-function refreshChannel(model) {
+// priority override optional
+function initChannel(model, tvBox, priorityOverride) {
 	// todo
 }
 
-function initChannel(model, priority) {
+function refreshChannel(modelName) {
 	// todo
 }
 
-function updateChannel(model, priority) {
+// priority override optional
+function updateChannel(model, priorityOveride) {
 	// todo
 }
 
