@@ -21,8 +21,6 @@ function createChannelBox(model) {
 	channelBox.className = "model";
 	channelBox.style.order = model.priority;
 
-	// channelBox.innerHTML = model.name;
-	
 	channelBox.style.display = 'none';
 	
 	return channelBox;
@@ -43,8 +41,8 @@ function tuneChannel(model) {
 	return img;
 }
 
-function initChannel(model) {
-	// todo
+function turnOn(channelBox) {
+	channelBox.style.display = 'inline';
 }
 
 function refreshChannel(modelName) {
@@ -57,6 +55,6 @@ function updateChannel(model, priorityOveride) {
 }
 
 function isOfflineImage(imgSize) {
-	return (imgSize == 0 || imgSize == 7442 || imgSize == 21971 || imgSize == 4824 || imgSize == 6778 || imgSize == 6734);
+	return (imgSize == 0 || imgSize == 4456 || imgSize == 7442 || imgSize == 21971 || imgSize == 4824 || imgSize == 6778 || imgSize == 6734);
 }
 
