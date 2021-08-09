@@ -12,7 +12,7 @@ function channelActiveUrl(modelName) {
 }
 
 function createChannelBox(model) {
-	const channelBox = tvBox.createElement('div');
+	const channelBox = document.createElement('div');
 	channelBox.id = channelId(model.name);
 	channelBox.className = "model";
 	channelBox.style.order = model.priority;
