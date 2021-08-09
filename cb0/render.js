@@ -1,7 +1,6 @@
 var $$__Channels = new Map(); // model.name -> channelBox
-var $$__Images = new Map(); // model.name -> img
 var $$__Active = new Map(); // model.name -> img
-var $$__Offline = new Map(); // model.name -> img
+var $$__Offline = new Set(); // model.name
 
 var $$__ImgSizeHistory = new Map(); // model.name -> [imgSize]
 
@@ -26,7 +25,7 @@ function scanChannel(modelName, imgBox) {
 					$$__Offline.delete(modelName);
 					turnOn($$__Channels.get(modelName));
 				} else {
-					$$__Offline.set(modelName, imgBox);
+					$$__Offline.add(modelName);
 					$$__Active.delete(modelName);
 					turnOff($$__Channels.get(modelName));
 				}
@@ -63,7 +62,6 @@ function renderChannel(model, modelName, models) {
 	tvBox.appendChild(channelBox);
 
 	$$__Channels.set(modelName, channelBox);
-	$$__Images.set(modelName, img);
 	
 	scanChannel(modelName, img);
 }
