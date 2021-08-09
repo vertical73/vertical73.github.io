@@ -19,7 +19,7 @@ function scanChannel(modelName, imgBox) {
 	
 	return imgScan.then(
 			function(imgSize) {
-				console.log(modelName + " -> " + imgSize);
+				console.log("[" + Date.now() + "] " + modelName + " -> " + imgSize);
 				$$__ImgSizeHistory.set(modelName, [imgSize]);
 				if (! isOfflineImage(imgSize)) {
 					$$__Active.set(modelName, imgBox);
@@ -72,7 +72,7 @@ $$__Models.forEach(renderChannel);
 
 setInterval(refreshing, 250);
 
-setInterval(checking($$__Active), 5000);
+setInterval(checking, 5000, $$__Active);
 
-setInterval(checking($$__Offline), 30000);
+setInterval(checking, 30000, $$__Offline);
 
