@@ -56,6 +56,9 @@ var $lola_bunny94 = new Model("lola_bunny94", 22); $$__Models.set($lola_bunny94.
 var $marylanex = new Model("marylanex", 22); $$__Models.set($marylanex.name, $marylanex);
 var $tiffanyhouston_ = new Model("tiffanyhouston_", 22); $$__Models.set($tiffanyhouston_.name, $tiffanyhouston_);
 
-let modelsArray = ["evasasha","july_koss","_milkyway","mango_shake","lilly_vanilla","candysfox","yournaughtymiss","annie_sweetyxx","cogitademe","lovely_aria","alice_kosmos","lola_bunny94","juicekatee","anna_sabotage","thepleasureofsex","sweet__sugar","wild_schoolgirl","lolla_molla","hell_lo","hayle_green","_woweva__","catanddickxxx","jessica_jonses","vivian_clark","kinkyali","feelmemore","_virtual_lady_","little_vee","xllodaz","blackmango_mary","tiffanyhouston_","marylanex","liisppb","sweet_tinker_bell","agatha137","evelissa","kleasure","bettybonhill","alicewood_","amazon_girl","melisasweety","funnysimka","qeensgambit","angelinamoore","rennatha21","tonibrock","selfish_ashley","_love_daddys","amazing_roxana","ms_seductive","miley_k18"];
+let tierA = ["evasasha","july_koss","_milkyway","mango_shake","lilly_vanilla","candysfox","yournaughtymiss","annie_sweetyxx","cogitademe","lovely_aria","alice_kosmos","lola_bunny94","juicekatee","anna_sabotage","thepleasureofsex","sweet__sugar","wild_schoolgirl","lolla_molla","hell_lo","hayle_green","_woweva__","catanddickxxx"];
+tierA.forEach(m => addModel(m, 20));
 
-modelsArray.forEach(m => addModel(m, 23));
+let tierB = ["jessica_jonses","vivian_clark","kinkyali","feelmemore","_virtual_lady_","little_vee","xllodaz","blackmango_mary","tiffanyhouston_","marylanex","liisppb","sweet_tinker_bell","agatha137","evelissa","kleasure","bettybonhill","alicewood_","amazon_girl","melisasweety","funnysimka","qeensgambit","angelinamoore","rennatha21","tonibrock","selfish_ashley","_love_daddys","amazing_roxana","ms_seductive","miley_k18"];
+tierB.forEach(m => addModel(m, 30));
+

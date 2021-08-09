@@ -45,8 +45,6 @@ function check(value, key, map) {
 }
 
 function checking() {
-	// todo
-	
 	$$__Active.forEach(check);
 	
 }
