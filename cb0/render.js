@@ -19,8 +19,28 @@ function scanChannel(modelName, imgBox) {
 	return imgScan.then(
 			function(imgSize) {
 				console.log("[" + Date.now() + "] " + modelName + " -> " + imgSize);
-				$$__ImgSizeHistory.set(modelName, [imgSize]);
-				if (! isOfflineImage(imgSize)) {
+				
+				let imgSizeArr;
+				
+				if ($$__ImgSizeHistory.has(modelName)) {
+					imgSizeArr = $$__ImgSizeHistory.get(modelName);
+					if (imgSizeArr.length >= 3) {
+						imgSizeArr.shift();
+					}
+					imgSizeArr.push(imgSize);
+				} else {
+					imgSizeArr = [imgSize];
+				}
+				$$__ImgSizeHistory.set(modelName, imgSizeArr);
+				
+				console.log(modelName + " -> " + imgSizeArr);
+
+				let isStreaming = (
+					(imgSizeArr.length < 3)
+					|| (! imgSizeArr.every(s => (s === imgSize)))
+				);
+
+				if (isStreaming && (! isOfflineImage(imgSize))) {
 					$$__Active.set(modelName, imgBox);
 					$$__Offline.delete(modelName);
 					turnOn($$__Channels.get(modelName));
@@ -33,8 +53,8 @@ function scanChannel(modelName, imgBox) {
 		);
 }
 
-function refreshChannel(value, key, map) {
-	value.src = channelActiveUrl(key);
+function refreshChannel(img, modelName, map) {
+	img.src = channelActiveUrl(modelName);
 }
 
 function refreshing() {
@@ -68,7 +88,7 @@ function renderChannel(model, modelName, models) {
 
 $$__Models.forEach(renderChannel);
 
-setInterval(refreshing, 250);
+setInterval(refreshing, 256);
 
 setInterval(checking, 8192, $$__Active);
 
