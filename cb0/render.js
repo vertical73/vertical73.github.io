@@ -70,7 +70,7 @@ $$__Models.forEach(renderChannel);
 
 setInterval(refreshing, 250);
 
-setInterval(checking, 5000, $$__Active);
+setInterval(checking, 8192, $$__Active);
 
-setInterval(checking, 30000, $$__Offline);
+setInterval(checking, 32768, $$__Offline);
 
