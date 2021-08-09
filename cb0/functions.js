@@ -45,13 +45,8 @@ function turnOn(channelBox) {
 	channelBox.style.display = 'inline';
 }
 
-function refreshChannel(modelName) {
-	// todo
-}
-
-// priority override optional
-function updateChannel(model, priorityOveride) {
-	// todo
+function turnOff(channelBox) {
+	channelBox.style.display = 'none';
 }
 
 function isOfflineImage(imgSize) {

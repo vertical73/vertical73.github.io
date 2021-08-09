@@ -46,4 +46,5 @@ var $alice_kosmos = new Model("alice_kosmos", 22); $$__Models.set($alice_kosmos.
 var $little_vee = new Model("little_vee", 22); $$__Models.set($little_vee.name, $little_vee);
 var $lola_bunny94 = new Model("lola_bunny94", 22); $$__Models.set($lola_bunny94.name, $lola_bunny94);
 var $marylanex = new Model("marylanex", 22); $$__Models.set($marylanex.name, $marylanex);
+var $tiffanyhouston_ = new Model("tiffanyhouston_", 22); $$__Models.set($tiffanyhouston_.name, $tiffanyhouston_);
 

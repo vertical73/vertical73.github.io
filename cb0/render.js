@@ -1,19 +1,39 @@
-var $$__Channels = new Map();
-var $$__Images = new Map();
-var $$__Active = new Map();
+var $$__Channels = new Map(); // model.name -> channelBox
+var $$__Images = new Map(); // model.name -> img
+var $$__Active = new Map(); // model.name -> img
+var $$__Offline = new Map(); // model.name -> img
+
+var $$__ImgSizeHistory = new Map();
 
 function scanChannel(model, imgBox) {
-	return fetch(channelImgUrl(model.name), {method: 'HEAD'})
+	
+	// let imgScan = fetch(channelImgUrl(model.name), {method: 'HEAD'})
+	// 	.then(
+	// 		function(response) {
+	// 			return response.headers.get("content-length");
+	// 		}
+	// 	);
+
+	let imgScan = fetch(channelActiveUrl(model.name))
 		.then(
 			function(response) {
-				return response.headers.get("content-length");
+				return response.blob();
 			}
 		).then(
+			function(blob) {
+				return blob.size;
+			}
+		);
+	
+	return imgScan.then(
 			function(imgSize) {
 				console.log(model.name + " -> " + imgSize);
 				if (! isOfflineImage(imgSize)) {
 					$$__Active.set(model.name, imgBox);
 					turnOn($$__Channels.get(model.name));
+				} else {
+					$$__Offline.set(model.name, imgBox);
+					turnOff($$__Channels.get(model.name));
 				}
 			}
 		);
@@ -25,6 +45,10 @@ function refreshChannel(value, key, map) {
 
 function refreshing() {
 	$$__Active.forEach(refreshChannel);
+}
+
+function checking() {
+	// todo
 }
 
 function renderChannel(value, key, map) {
