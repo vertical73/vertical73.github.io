@@ -33,6 +33,7 @@ body {
 
 #main {
 	display: flex;
+	z-index: 65635;
 	flex-direction: row;
 	flex-wrap: wrap;
 }
@@ -42,10 +43,11 @@ body {
 }
 
 #timestamp {
-	order: 65535;
-	color: #999; 
-	font-family: monospace; 
-	font-size: 16pt; 
-	z-index: 0; 
+	color: #999;
+	font-family: monospace;
+	font-size: 16pt;
+	position: absolute;
+	z-index: -1;
 	display: none;
+	order: 65535;
 }

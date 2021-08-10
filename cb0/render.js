@@ -121,5 +121,5 @@ setInterval(checking, 8192, $$__Active);
 
 setInterval(checking, 32768, $$__Offline);
 
-setTimeout(tempusFugit, 512);
+setTimeout(tempusFugit, 128);
 setInterval(tempusFugit, 1024);
