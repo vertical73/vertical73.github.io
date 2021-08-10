@@ -54,7 +54,7 @@ function createImg(modelName) {
 	return img;
 }
 
-function turnOn(channelBox) {
+function turnOn(modelName, channelBox) {
 	channelBox.style.display = 'inline';
 	document.getElementById(channelImgId(modelName)).src = channelActiveUrl(modelName);
 }
