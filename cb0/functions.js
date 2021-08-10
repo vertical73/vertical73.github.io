@@ -38,9 +38,9 @@ function createChannelBox(model, priorityOverride) {
 	return channelBox;
 }
 
-function createAnchor(model) {
+function createAnchor(modelName) {
 	const anchor = document.createElement('a');
-	anchor.href = chaturbateUrl(model.name);
+	anchor.href = chaturbateUrl(modelName);
 	anchor.target = "_blank";
 	
 	return anchor;

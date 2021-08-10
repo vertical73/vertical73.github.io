@@ -41,6 +41,7 @@ function scanChannel(modelName, imgBox) {
 					if (! $$__Active.has(modelName)) {
 						$$__Active.set(modelName, imgBox);
 						turnOn(modelName, $$__Channels.get(modelName));
+						imgBox.src = channelActiveUrl(modelName);
 					}
 					if ($$__Offline.has(modelName)) {
 						$$__Offline.delete(modelName);
@@ -82,8 +83,8 @@ function renderChannel(model, modelName, models) {
 		channelBox = createChannelBox(model);
 	}
 
-	let anchor = createAnchor(model);
-	let img = createImg(model.name);
+	let anchor = createAnchor(modelName);
+	let img = createImg(modelName);
 
 	anchor.appendChild(img);
 	channelBox.appendChild(anchor);
