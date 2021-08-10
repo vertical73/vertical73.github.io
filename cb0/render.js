@@ -43,7 +43,6 @@ function scanChannel(modelName, imgBox) {
 				if (isStreaming && (! isOfflineImage(imgSize))) {
 					$$__Active.set(modelName, imgBox);
 					$$__Offline.delete(modelName);
-					tuneChannel(modelName);
 					turnOn($$__Channels.get(modelName));
 				} else {
 					$$__Offline.add(modelName);
@@ -58,8 +57,13 @@ function refreshChannel(img, modelName, map) {
 	img.src = channelActiveUrl(modelName);
 }
 
-function refreshing(map) {
-	map.forEach(refreshChannel);
+function getActiveMap() {
+	return $$__Active;
+}
+
+function refreshing() {
+	let activeMap = getActiveMap();
+	activeMap.forEach(refreshChannel);
 }
 
 function check(img, modelName, imgMap) {
@@ -89,7 +93,7 @@ function renderChannel(model, modelName, models) {
 
 $$__Models.forEach(renderChannel);
 
-setInterval(refreshing, 256, $$__Active);
+setInterval(refreshing, 256);
 
 setInterval(checking, 8192, $$__Active);
 
