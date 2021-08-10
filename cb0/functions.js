@@ -34,7 +34,7 @@ function createAnchor(model) {
 	return anchor;
 }
 
-function tuneChannel(modelName) {
+function createImg(modelName) {
 	const img = new Image();
 	img.id = "img$" + modelName;
 	img.src = channelActiveUrl(modelName);

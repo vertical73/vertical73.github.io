@@ -80,7 +80,7 @@ function renderChannel(model, modelName, models) {
 	let tvBox = document.getElementById("main");
 	let channelBox = createChannelBox(model);
 	let anchor = createAnchor(model);
-	let img = tuneChannel(model.name);
+	let img = createImg(model.name);
 
 	anchor.appendChild(img);
 	channelBox.appendChild(anchor);
