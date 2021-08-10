@@ -41,7 +41,9 @@ function scanChannel(modelName, imgBox) {
 					if (! $$__Active.has(modelName)) {
 						$$__Active.set(modelName, imgBox);
 					}
-					$$__Offline.delete(modelName);
+					if ($$__Offline.has(modelName)) {
+						$$__Offline.delete(modelName);
+					}
 					turnOn($$__Channels.get(modelName));
 				} else {
 					$$__Offline.add(modelName);
