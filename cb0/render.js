@@ -95,6 +95,24 @@ function renderChannel(model, modelName, models) {
 	scanChannel(modelName, img);
 }
 
+const $$__Tempus = document.getElementById("timestamp");
+function fugit() {
+	$$__Tempus.innerHTML = Date.now();
+}
+
+function tempusFugit() {
+	if ($$__Active.size == 0) {
+		if ($$__Tempus.style.display != 'inline') {
+			$$__Tempus.style.display = 'inline';
+		}
+		fugit();
+	} else {
+		if ($$__Tempus.style.display != 'none') {
+			$$__Tempus.style.display = 'none';
+		}
+	}
+}
+
 $$__Models.forEach(renderChannel);
 
 setInterval(refreshing, 256);
@@ -103,3 +121,5 @@ setInterval(checking, 8192, $$__Active);
 
 setInterval(checking, 32768, $$__Offline);
 
+setTimeout(tempusFugit, 512);
+setInterval(tempusFugit, 1024);

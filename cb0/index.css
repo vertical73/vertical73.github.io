@@ -38,13 +38,14 @@ body {
 }
 
 .model {
-	display: inline;
+	// display: inline;
 }
 
 #timestamp {
+	order: 65535;
 	color: #999; 
 	font-family: monospace; 
 	font-size: 16pt; 
-	position: absolute; 
 	z-index: 0; 
+	display: none;
 }
