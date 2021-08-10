@@ -55,19 +55,11 @@ function scanChannel(modelName, imgBox) {
 }
 
 function refreshChannel(img, modelName, map) {
-	if ($$__Params.getAll('debug').length > 0) {
-		console.log("Refreshing " + modelName);
-	}
 	img.src = channelActiveUrl(modelName);
 }
 
-function getActiveMap() {
-	return $$__Active;
-}
-
 function refreshing() {
-	let activeMap = getActiveMap();
-	activeMap.forEach(refreshChannel);
+	$$__Active.forEach(refreshChannel);
 }
 
 function check(img, modelName, imgMap) {
