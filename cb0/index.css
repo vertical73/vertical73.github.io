@@ -25,6 +25,10 @@
 	}
 }
 
+.model {
+	// display: inline;
+}
+
 body {
 	 background-color: #000000;
 	 color: #cccccc;
@@ -38,10 +42,6 @@ body {
 	flex-wrap: wrap;
 }
 
-.model {
-	// display: inline;
-}
-
 #timestamp {
 	color: #999;
 	font-family: monospace;
@@ -49,5 +49,11 @@ body {
 	position: absolute;
 	z-index: -1;
 	display: none;
+	order: 65535;
+}
+
+#throbber {
+	z-index: -2;
+	position: absolute;
 	order: 65535;
 }

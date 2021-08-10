@@ -113,6 +113,10 @@ function tempusFugit() {
 	}
 }
 
+function toggleThrobber() {
+	// TODO
+}
+
 $$__Models.forEach(renderChannel);
 
 setInterval(refreshing, 256);
@@ -121,5 +125,4 @@ setInterval(checking, 8192, $$__Active);
 
 setInterval(checking, 32768, $$__Offline);
 
-setTimeout(tempusFugit, 128);
 setInterval(tempusFugit, 1024);
