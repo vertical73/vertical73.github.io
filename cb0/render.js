@@ -113,8 +113,9 @@ function tempusFugit() {
 	}
 }
 
-function toggleThrobber() {
-	// TODO
+const $$__Throbber = document.getElementById("throbber");
+function toggleThrobber(display) {
+	$$__Throbber.style.display = display;
 }
 
 $$__Models.forEach(renderChannel);
@@ -126,3 +127,5 @@ setInterval(checking, 8192, $$__Active);
 setInterval(checking, 32768, $$__Offline);
 
 setInterval(tempusFugit, 1024);
+
+setTimeout(toggleThrobber, 1024, 'none');
