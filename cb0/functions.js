@@ -15,11 +15,19 @@ function chaturbateUrl(modelName) {
 	return "https://m.chaturbate.com/" + modelName + "/";
 }
 
-function createChannelBox(model) {
+function createChannelBox(model, priorityOverride) {
 	const channelBox = document.createElement('div');
 	channelBox.id = channelId(model.name);
 	channelBox.className = "model";
-	channelBox.style.order = model.priority;
+	
+	let priority;
+	if (priorityOverride === undefined) {
+		priority = model.priority;
+	} else {
+		console.log(model.name + " -> " + priorityOverride);
+		priority = priorityOverride;
+	}
+	channelBox.style.order = priority;
 
 	channelBox.style.display = 'none';
 	

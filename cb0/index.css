@@ -32,7 +32,9 @@ body {
 }
 
 #main {
-	display: flex-wrap;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
 }
 
 .model {

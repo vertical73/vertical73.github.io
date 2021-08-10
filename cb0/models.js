@@ -62,18 +62,23 @@ tierA.forEach(m => addModel(m, 20));
 let tierB = ["jessica_jonses","vivian_clark","kinkyali","feelmemore","_virtual_lady_","little_vee","xllodaz","blackmango_mary","tiffanyhouston_","marylanex","liisppb","sweet_tinker_bell","agatha137","evelissa","kleasure","bettybonhill","alicewood_","amazon_girl","melisasweety","funnysimka","qeensgambit","angelinamoore","rennatha21","tonibrock","selfish_ashley","_love_daddys","amazing_roxana","ms_seductive","miley_k18"];
 tierB.forEach(m => addModel(m, 30));
 
-let urlParams = new URLSearchParams(window.location.search);
-let modelKeys = ['model','m'];
-for (k of modelKeys) {
-	let moar = urlParams.getAll(k);
-	for (m of moar) {
-		if (! $$__Models.has(m)) {
-			addModel(m, 110);
+const $$__Params = new URLSearchParams(window.location.search);
+
+function makeAddendums() {
+	let modelKeys = ['model','m'];
+	for (k of modelKeys) {
+		let moar = $$__Params.getAll(k);
+		for (m of moar) {
+			if (! $$__Models.has(m)) {
+				addModel(m, 110);
+			}
 		}
 	}
+	for (h of $$__Params.getAll('h')) {
+		if ($$__Models.has(h)) {
+			$$__Models.delete(h);
+		}
+	}	
 }
-for (h of urlParams.getAll('h')) {
-	if ($$__Models.has(h)) {
-		$$__Models.delete(h);
-	}
-}
+makeAddendums();
+

@@ -77,10 +77,17 @@ function checking(map) {
 }
 
 function renderChannel(model, modelName, models) {
-	console.log("Writing channel box for " + modelName);
-
 	let tvBox = document.getElementById("main");
-	let channelBox = createChannelBox(model);
+
+	let channelBox;
+	if ($$__Params.getAll('shuffle').length > 0) {
+		let shuffledPriority = Math.floor(Math.random() * 100) + model.priority;
+		console.log(modelName + " -> " + shuffledPriority);
+		channelBox = createChannelBox(model, shuffledPriority);
+	} else {
+		channelBox = createChannelBox(model);
+	}
+
 	let anchor = createAnchor(model);
 	let img = createImg(model.name);
 
