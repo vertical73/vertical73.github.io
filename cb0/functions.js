@@ -3,6 +3,10 @@ function channelId(modelName) {
 	return "channel$" + modelName;
 }
 
+function channelImgId(modelName) {
+	return "img$" + modelName;
+}
+
 function channelImgUrl(modelName) {
 	return "https://roomimg.stream.highwebmedia.com/ri/" + modelName + ".jpg";
 }
@@ -44,7 +48,7 @@ function createAnchor(model) {
 
 function createImg(modelName) {
 	const img = new Image();
-	img.id = "img$" + modelName;
+	img.id = channelImgId(modelName);
 	img.src = channelActiveUrl(modelName);
 	
 	return img;
@@ -52,6 +56,7 @@ function createImg(modelName) {
 
 function turnOn(channelBox) {
 	channelBox.style.display = 'inline';
+	document.getElementById(channelImgId(modelName)).src = channelActiveUrl(modelName);
 }
 
 function turnOff(channelBox) {
