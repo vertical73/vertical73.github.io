@@ -38,10 +38,8 @@ function scanChannel(modelName, imgBox) {
 				);
 
 				if (isStreaming && (! isOfflineImage(imgSize))) {
-					if ($$__Active.has(modelName)) {
+					if (! $$__Active.has(modelName)) {
 						$$__Active.set(modelName, imgBox);
-						let imgBox = document.getElementById("img$" + modelName);
-						imgBox.src = channelActiveUrl(modelName);
 					}
 					$$__Offline.delete(modelName);
 					turnOn($$__Channels.get(modelName));
