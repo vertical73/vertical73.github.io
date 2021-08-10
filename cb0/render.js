@@ -1,6 +1,6 @@
 const $$__Channels = new Map(); // model.name -> channelBox
 const $$__Active = new Map(); // model.name -> img
-const $$__Offline = new Set(); // model.name
+const $$__Offline = new Map(); // model.name
 
 var $$__ImgSizeHistory = new Map(); // model.name -> [imgSize]
 
@@ -46,7 +46,7 @@ function scanChannel(modelName, imgBox) {
 						$$__Offline.delete(modelName);
 					}
 				} else {
-					$$__Offline.add(modelName);
+					$$__Offline.set(modelName, imgBox);
 					$$__Active.delete(modelName);
 					turnOff($$__Channels.get(modelName));
 				}
