@@ -7,9 +7,9 @@
 }
 
 .spinner > div {
-  width: 18px;
-  height: 18px;
-  background-color: #333;
+  width: 16px;
+  height: 16px;
+  background-color: #555;
 
   border-radius: 100%;
   display: inline-block;
