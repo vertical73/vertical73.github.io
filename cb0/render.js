@@ -40,11 +40,11 @@ function scanChannel(modelName, imgBox) {
 				if (isStreaming && (! isOfflineImage(imgSize))) {
 					if (! $$__Active.has(modelName)) {
 						$$__Active.set(modelName, imgBox);
+						turnOn(modelName, $$__Channels.get(modelName));
 					}
 					if ($$__Offline.has(modelName)) {
 						$$__Offline.delete(modelName);
 					}
-					turnOn(modelName, $$__Channels.get(modelName));
 				} else {
 					$$__Offline.add(modelName);
 					$$__Active.delete(modelName);
