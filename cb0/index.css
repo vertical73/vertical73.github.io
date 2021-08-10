@@ -55,7 +55,7 @@ body {
 #throbber {
 	margin-top: 8px;
 	margin-bottom: 8px;
-	z-index: -2;
+	z-index: 2;
 	position: absolute;
 	order: 65535;
 }
