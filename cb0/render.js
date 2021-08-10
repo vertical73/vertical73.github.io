@@ -17,11 +17,8 @@ function scanChannel(modelName, imgBox) {
 		);
 	
 	return imgScan.then(
-			function(imgSize) {
-				console.log("[" + Date.now() + "] " + modelName + " -> " + imgSize);
-				
+			function(imgSize) {				
 				let imgSizeArr;
-				
 				if ($$__ImgSizeHistory.has(modelName)) {
 					imgSizeArr = $$__ImgSizeHistory.get(modelName);
 					if (imgSizeArr.length >= 3) {
@@ -33,7 +30,7 @@ function scanChannel(modelName, imgBox) {
 				}
 				$$__ImgSizeHistory.set(modelName, imgSizeArr);
 				
-				console.log(modelName + " -> " + imgSizeArr);
+				console.log("[" + Date.now() + "] " + modelName + " -> " + imgSizeArr);
 
 				let isStreaming = (
 					(imgSizeArr.length < 3)
@@ -41,7 +38,11 @@ function scanChannel(modelName, imgBox) {
 				);
 
 				if (isStreaming && (! isOfflineImage(imgSize))) {
-					$$__Active.set(modelName, imgBox);
+					if ($$__Active.has(modelName)) {
+						$$__Active.set(modelName, imgBox);
+						let imgBox = document.getElementById("img$" + modelName);
+						imgBox.src = channelActiveUrl(modelName);
+					}
 					$$__Offline.delete(modelName);
 					turnOn($$__Channels.get(modelName));
 				} else {
@@ -54,6 +55,7 @@ function scanChannel(modelName, imgBox) {
 }
 
 function refreshChannel(img, modelName, map) {
+	console.log("Refreshing " + modelName);
 	img.src = channelActiveUrl(modelName);
 }
 
