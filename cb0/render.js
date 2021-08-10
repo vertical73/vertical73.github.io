@@ -44,6 +44,7 @@ function scanChannel(modelName, imgBox) {
 					$$__Active.set(modelName, imgBox);
 					$$__Offline.delete(modelName);
 					turnOn($$__Channels.get(modelName));
+					tuneChannel(modelName);
 				} else {
 					$$__Offline.add(modelName);
 					$$__Active.delete(modelName);
@@ -75,7 +76,7 @@ function renderChannel(model, modelName, models) {
 	let tvBox = document.getElementById("main");
 	let channelBox = createChannelBox(model);
 	let anchor = createAnchor(model);
-	let img = tuneChannel(model);
+	let img = tuneChannel(model.name);
 
 	anchor.appendChild(img);
 	channelBox.appendChild(anchor);
