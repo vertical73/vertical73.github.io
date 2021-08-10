@@ -55,7 +55,9 @@ function scanChannel(modelName, imgBox) {
 }
 
 function refreshChannel(img, modelName, map) {
-	console.log("Refreshing " + modelName);
+	if ($$__Params.getAll('debug').length > 0) {
+		console.log("Refreshing " + modelName);
+	}
 	img.src = channelActiveUrl(modelName);
 }
 
