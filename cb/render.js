@@ -1,8 +1,9 @@
 const $$__Channels = new Map(); // model.name -> channelBox
 const $$__Active = new Map(); // model.name -> img
 const $$__Offline = new Map(); // model.name
+const $$__ImgSizeHistory = new Map(); // model.name -> [imgSize]
 
-var $$__ImgSizeHistory = new Map(); // model.name -> [imgSize]
+const $$__imgHistMax = 4;
 
 function scanChannel(modelName, imgBox) {	
 	let imgScan = fetch(channelActiveUrl(modelName))
@@ -21,7 +22,7 @@ function scanChannel(modelName, imgBox) {
 				let imgSizeArr;
 				if ($$__ImgSizeHistory.has(modelName)) {
 					imgSizeArr = $$__ImgSizeHistory.get(modelName);
-					if (imgSizeArr.length >= 3) {
+					if (imgSizeArr.length >= $$__imgHistMax) {
 						imgSizeArr.shift();
 					}
 					imgSizeArr.push(imgSize);
@@ -33,7 +34,7 @@ function scanChannel(modelName, imgBox) {
 				console.log("[" + Date.now() + "] " + modelName + " -> " + imgSizeArr);
 
 				let isStreaming = (
-					(imgSizeArr.length < 3)
+					(imgSizeArr.length < $$__imgHistMax)
 					|| (! imgSizeArr.every(s => (s === imgSize)))
 				);
 
@@ -42,6 +43,7 @@ function scanChannel(modelName, imgBox) {
 						$$__Active.set(modelName, imgBox);
 						turnOn(modelName, $$__Channels.get(modelName));
 						imgBox.src = channelActiveUrl(modelName);
+						pulseThrobber();
 					}
 					if ($$__Offline.has(modelName)) {
 						$$__Offline.delete(modelName);
@@ -50,6 +52,7 @@ function scanChannel(modelName, imgBox) {
 					$$__Offline.set(modelName, imgBox);
 					$$__Active.delete(modelName);
 					turnOff($$__Channels.get(modelName));
+					// pulseThrobber();
 				}
 			}
 		);
@@ -117,15 +120,20 @@ const $$__Throbber = document.getElementById("throbber");
 function toggleThrobber(display) {
 	$$__Throbber.style.display = display;
 }
+function pulseThrobber() {
+	toggleThrobber('block');
+	setTimeout(toggleThrobber, 1024, 'none');
+}
 
 $$__Models.forEach(renderChannel);
 
 setInterval(refreshing, 256);
 
-setInterval(checking, 8192, $$__Active);
+setInterval(checking, 4096, $$__Active);
 
 setInterval(checking, 32768, $$__Offline);
 
 setInterval(tempusFugit, 1024);
 
-setTimeout(toggleThrobber, 1024, 'none');
+// setTimeout(toggleThrobber, 1024, 'none');
+pulseThrobber();
