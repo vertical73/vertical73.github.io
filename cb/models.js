@@ -55,6 +55,7 @@ var $lola_bunny94 = new Model("lola_bunny94", 22); $$__Models.set($lola_bunny94.
 var $anna_sabotage = new Model("anna_sabotage", 22); $$__Models.set($anna_sabotage.name, $anna_sabotage);
 var $alice_kosmos = new Model("alice_kosmos", 22); $$__Models.set($alice_kosmos.name, $alice_kosmos);
 var $tiffanyhouston_ = new Model("tiffanyhouston_", 22); $$__Models.set($tiffanyhouston_.name, $tiffanyhouston_);
+var $juicekatee = new Model("juicekatee", 22); $$__Models.set($juicekatee.name, $juicekatee);
 var $little_vee = new Model("little_vee", 22); $$__Models.set($little_vee.name, $little_vee);
 var $marylanex = new Model("marylanex", 22); $$__Models.set($marylanex.name, $marylanex);
 
