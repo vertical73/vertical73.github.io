@@ -50,14 +50,15 @@ var $annie_sweetyxx = new Model("annie_sweetyxx", 21); $$__Models.set($annie_swe
 var $cogitademe = new Model("cogitademe", 21); $$__Models.set($cogitademe.name, $cogitademe);
 var $yournaughtymiss = new Model("yournaughtymiss", 21); $$__Models.set($yournaughtymiss.name, $yournaughtymiss);
 
-var $candysfox = new Model("candysfox", 22); $$__Models.set($candysfox.name, $candysfox);
-var $lola_bunny94 = new Model("lola_bunny94", 22); $$__Models.set($lola_bunny94.name, $lola_bunny94);
-var $anna_sabotage = new Model("anna_sabotage", 22); $$__Models.set($anna_sabotage.name, $anna_sabotage);
-var $alice_kosmos = new Model("alice_kosmos", 22); $$__Models.set($alice_kosmos.name, $alice_kosmos);
-var $tiffanyhouston_ = new Model("tiffanyhouston_", 22); $$__Models.set($tiffanyhouston_.name, $tiffanyhouston_);
-var $juicekatee = new Model("juicekatee", 22); $$__Models.set($juicekatee.name, $juicekatee);
-var $little_vee = new Model("little_vee", 22); $$__Models.set($little_vee.name, $little_vee);
-var $marylanex = new Model("marylanex", 22); $$__Models.set($marylanex.name, $marylanex);
+// var $candysfox = new Model("candysfox", 22); $$__Models.set($candysfox.name, $candysfox);
+// var $lola_bunny94 = new Model("lola_bunny94", 22); $$__Models.set($lola_bunny94.name, $lola_bunny94);
+// var $anna_sabotage = new Model("anna_sabotage", 22); $$__Models.set($anna_sabotage.name, $anna_sabotage);
+// var $lovely_aria = new Model("lovely_aria", 22); $$__Models.set($lovely_aria.name, $lovely_aria);
+// var $alice_kosmos = new Model("alice_kosmos", 22); $$__Models.set($alice_kosmos.name, $alice_kosmos);
+// var $tiffanyhouston_ = new Model("tiffanyhouston_", 22); $$__Models.set($tiffanyhouston_.name, $tiffanyhouston_);
+// var $juicekatee = new Model("juicekatee", 22); $$__Models.set($juicekatee.name, $juicekatee);
+// var $little_vee = new Model("little_vee", 22); $$__Models.set($little_vee.name, $little_vee);
+// var $marylanex = new Model("marylanex", 22); $$__Models.set($marylanex.name, $marylanex);
 
 let tierA = ["evasasha","july_koss","_milkyway","mango_shake","lilly_vanilla","candysfox","yournaughtymiss","annie_sweetyxx","cogitademe","lovely_aria","alice_kosmos","lola_bunny94","juicekatee","anna_sabotage","thepleasureofsex","sweet__sugar","wild_schoolgirl","lolla_molla","hell_lo","hayle_green","_woweva__","catanddickxxx"];
 let fn__tierA = async () => { tierA.forEach(m => addModel(m, 23)); }
