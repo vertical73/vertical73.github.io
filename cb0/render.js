@@ -42,6 +42,7 @@ function scanChannel(modelName, imgBox) {
 						$$__Active.set(modelName, imgBox);
 						turnOn(modelName, $$__Channels.get(modelName));
 						imgBox.src = channelActiveUrl(modelName);
+						pulseThrobber();
 					}
 					if ($$__Offline.has(modelName)) {
 						$$__Offline.delete(modelName);
@@ -50,6 +51,7 @@ function scanChannel(modelName, imgBox) {
 					$$__Offline.set(modelName, imgBox);
 					$$__Active.delete(modelName);
 					turnOff($$__Channels.get(modelName));
+					// pulseThrobber();
 				}
 			}
 		);
@@ -117,6 +119,10 @@ const $$__Throbber = document.getElementById("throbber");
 function toggleThrobber(display) {
 	$$__Throbber.style.display = display;
 }
+function pulseThrobber() {
+	toggleThrobber('block');
+	setTimeout(toggleThrobber, 1024, 'none');
+}
 
 $$__Models.forEach(renderChannel);
 
@@ -128,4 +134,5 @@ setInterval(checking, 32768, $$__Offline);
 
 setInterval(tempusFugit, 1024);
 
-setTimeout(toggleThrobber, 1024, 'none');
+// setTimeout(toggleThrobber, 1024, 'none');
+pulseThrobber();
