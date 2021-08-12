@@ -46,9 +46,13 @@ $$__Models.set($evasasha.name, $evasasha);
 
 var $july_koss = new Model("july_koss", 21, new Scoring(8, 3, 3, 5, 5, 5, 5, 5, 2, 3, 2), new Pvt(false, 0, "no")); $$__Models.set($july_koss.name, $july_koss)
 var $mango_shake = new Model("mango_shake", 21); $$__Models.set($mango_shake.name, $mango_shake);
-var $annie_sweetyxx = new Model("annie_sweetyxx", 21); $$__Models.set($annie_sweetyxx.name, $annie_sweetyxx);
-var $cogitademe = new Model("cogitademe", 21); $$__Models.set($cogitademe.name, $cogitademe);
-var $yournaughtymiss = new Model("yournaughtymiss", 21); $$__Models.set($yournaughtymiss.name, $yournaughtymiss);
+
+let fn__annie_sweetyxx = async () => { addModel("annie_sweetyxx", 21); }
+fn__annie_sweetyxx();
+let fn__cogitademe = async () => addModel("cogitademe", 21);
+fn__cogitademe();
+let fn__yournaughtymiss = async () => addModel("yournaughtymiss", 21);
+fn__yournaughtymiss();
 
 // var $candysfox = new Model("candysfox", 22); $$__Models.set($candysfox.name, $candysfox);
 // var $lola_bunny94 = new Model("lola_bunny94", 22); $$__Models.set($lola_bunny94.name, $lola_bunny94);
