@@ -75,7 +75,6 @@ function checking(map) {
 }
 
 function renderChannel(model, modelName, models) {
-	let img;
 	if (! $$__Channels.has(modelName)) {
 		let tvBox = document.getElementById("main");
 	
@@ -89,14 +88,13 @@ function renderChannel(model, modelName, models) {
 		}
 	
 		let anchor = createAnchor(modelName);
-		img = createImg(modelName);
+		let img = createImg(modelName);
 	
 		anchor.appendChild(img);
 		channelBox.appendChild(anchor);
 		tvBox.appendChild(channelBox);
 	
 		$$__Channels.set(modelName, channelBox);
-
 		scanChannel(modelName, img);
 	}
 }
