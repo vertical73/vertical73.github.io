@@ -75,27 +75,28 @@ function checking(map) {
 }
 
 function renderChannel(model, modelName, models) {
-	let tvBox = document.getElementById("main");
-
-	let channelBox;
-	if ($$__Params.getAll('shuffle').length > 0) {
-		let shuffledPriority = Math.floor(Math.random() * 100) + model.priority;
-		console.log(modelName + " -> " + shuffledPriority);
-		channelBox = createChannelBox(model, shuffledPriority);
-	} else {
-		channelBox = createChannelBox(model);
-	}
-
-	let anchor = createAnchor(modelName);
-	let img = createImg(modelName);
-
-	anchor.appendChild(img);
-	channelBox.appendChild(anchor);
-	tvBox.appendChild(channelBox);
-
-	$$__Channels.set(modelName, channelBox);
+	if (! $$__Channels.has(modelName)) {
+		let tvBox = document.getElementById("main");
 	
-	scanChannel(modelName, img);
+		let channelBox;
+		if ($$__Params.getAll('shuffle').length > 0) {
+			let shuffledPriority = Math.floor(Math.random() * 100) + model.priority;
+			console.log(modelName + " -> " + shuffledPriority);
+			channelBox = createChannelBox(model, shuffledPriority);
+		} else {
+			channelBox = createChannelBox(model);
+		}
+	
+		let anchor = createAnchor(modelName);
+		let img = createImg(modelName);
+	
+		anchor.appendChild(img);
+		channelBox.appendChild(anchor);
+		tvBox.appendChild(channelBox);
+	
+		$$__Channels.set(modelName, channelBox);
+		scanChannel(modelName, img);
+	}
 }
 
 const $$__Tempus = document.getElementById("timestamp");
@@ -125,7 +126,9 @@ function pulseThrobber() {
 	setTimeout(toggleThrobber, 1024, 'none');
 }
 
-$$__Models.forEach(renderChannel);
+function renderChannels() {
+	$$__Models.forEach(renderChannel);
+}
 
 setInterval(refreshing, 256);
 
@@ -134,6 +137,9 @@ setInterval(checking, 4096, $$__Active);
 setInterval(checking, 32768, $$__Offline);
 
 setInterval(tempusFugit, 1024);
+
+renderChannels();
+setInterval(renderChannels, 1024);
 
 // setTimeout(toggleThrobber, 1024, 'none');
 pulseThrobber();
