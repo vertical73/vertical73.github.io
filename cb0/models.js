@@ -68,7 +68,7 @@ let tierA = ["evasasha","july_koss","_milkyway","mango_shake","lilly_vanilla","c
 let fn__tierA = async () => { tierA.forEach(m => addModel(m, 23)); }
 fn__tierA();
 
-let tierB = ["jessica_jonses","little_vee","tiffanyhouston_","marylanex","sweet_tinker_bell","vivian_clark","blackmango_mary","kinkyali","feelmemore","_virtual_lady_","liisppb","evelissa","melisasweety","selfish_ashley","funnysimka","hayley__lee","lillpio","qeensgambit","agatha137","kleasure","amazing_roxana","tonibrock","heyhorny_cb","miley_k18","d0lly_alice","kimber_r","merrilyn","katrinpolly"];
+let tierB = ["jessica_jonses","little_vee","tiffanyhouston_","marylanex","sweet_tinker_bell","vivian_clark","blackmango_mary","kinkyali","feelmemore","_virtual_lady_","liisppb","evelissa","melisasweety","selfish_ashley","funnysimka","hayley__lee","lillpio","qeensgambit","agatha137","kleasure","amazing_roxana","tonibrock","heyhorny_cb","miley_k18","kimber_r","merrilyn","katrinpolly","d0lly_alice"];
 let fn__tierB = async () => { tierB.forEach(m => addModel(m, 30)); }
 fn__tierB();
 
