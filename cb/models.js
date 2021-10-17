@@ -68,7 +68,7 @@ let tierA = ["evasasha","july_koss","_milkyway","mango_shake","lilly_vanilla","c
 let fn__tierA = async () => { tierA.forEach(m => addModel(m, 23)); }
 fn__tierA();
 
-let tierB = ["jessica_jonses","little_vee","qeensgambit","jia_roberts","vilanelle_1","poliina","tiffanyhouston_","marylanex","sweet_tinker_bell","selfish_ashley","alice_kosmos","eatmystrawberryx","blackmango_mary","kinkyali","feelmemore","_virtual_lady_","amelie_25","daddystrouble","britney_charm","miss_soniya","rennatha21","_ayya","hayle_green","evelissa","funnysimka","amazon_girl","vivian_clark","lillpio","charming__kitty","amazing_roxana","miley_k18","merrilyn","juicekatee","mynaughtynights","melisasweety","cunty_paradise","kattyababy","sophiesticate","kate_loves_you","sweetsnejana","sallysarry","maryvi","agatha137","dreamana","cutemoments","sasha_slim","meru_s","vasillisa","eva_nelson","lizzymoore","touch_me111","sophie_5","grande_niks_"];
+let tierB = ["jessica_jonses","little_vee","qeensgambit","jia_roberts","vilanelle_1","poliina","tiffanyhouston_","marylanex","sweet_tinker_bell","selfish_ashley","alice_kosmos","eatmystrawberryx","blackmango_mary","kinkyali","feelmemore","_virtual_lady_","amelie_25","daddystrouble","britney_charm","miss_soniya","rennatha21","_ayya","hayle_green","evelissa","funnysimka","amazon_girl","vivian_clark","lillpio","charming__kitty","miley_k18","merrilyn","juicekatee","mynaughtynights","melisasweety","cunty_paradise","kattyababy","sophiesticate","kate_loves_you","sweetsnejana","sallysarry","maryvi","agatha137","dreamana","cutemoments","sasha_slim","meru_s","vasillisa","eva_nelson","lizzymoore","touch_me111","sophie_5","grande_niks_"];
 let fn__tierB = async () => { tierB.forEach(m => addModel(m, 30)); }
 fn__tierB();
 
