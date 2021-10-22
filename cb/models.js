@@ -64,11 +64,74 @@ fn__yournaughtymiss();
 // var $little_vee = new Model("little_vee", 22); $$__Models.set($little_vee.name, $little_vee);
 // var $marylanex = new Model("marylanex", 22); $$__Models.set($marylanex.name, $marylanex);
 
-let tierA = ["evasasha","july_koss","_milkyway","mango_shake","lilly_vanilla","cogitademe","hayley__lee","candysfox","lola_bunny94","yournaughtymiss","annie_sweetyxx","wild_schoolgirl","lovely_aria","anna_sabotage","lolla_molla","hell_lo","thepleasureofsex","sweet__sugar","_woweva__","catanddickxxx"];
+let tierA = ["evasasha","july_koss","_milkyway","mango_shake","lilly_vanilla","cogitademe","hayley__lee","candysfox","lola_bunny94","yournaughtymiss","annie_sweetyxx","wild_schoolgirl"];
 let fn__tierA = async () => { tierA.forEach(m => addModel(m, 23)); }
 fn__tierA();
 
-let tierB = ["little_vee","qeensgambit","vilanelle_1","miss_soniya","funnysimka","tiffanyhouston_","selfish_ashley","alice_kosmos","poliina","amelie_25","rennatha21","jia_roberts","sweet_tinker_bell","marylanex","eatmystrawberryx","blackmango_mary","kinkyali","feelmemore","_virtual_lady_","britney_charm","_ayya","hayle_green","evelissa","mynaughtynights","sweetsnejana","melisasweety","cunty_paradise","kattyababy","maryvi","daddystrouble","amazon_girl","vivian_clark","sophiesticate","kate_loves_you","lillpio","miley_k18","merrilyn","juicekatee","sallysarry","touch_me111","agatha137","joobeelee","dreamana","cutemoments","sasha_slim","meru_s","eva_nelson","lizzymoore","ritaorra_","ellaa91","alexandrasm1th","bunnyfunny_","sweet_skiinny","_e_u_p_h_o_r_i_a"];
+let tierB = [
+		"lovely_aria",
+		"anna_sabotage",
+		"lolla_molla",
+		"thepleasureofsex",
+		"sweet__sugar",
+		"_woweva__",
+		"catanddickxxx",
+		"little_vee",
+		"qeensgambit",
+		"vilanelle_1",
+		"miss_soniya",
+		"funnysimka",
+		"tiffanyhouston_",
+		"selfish_ashley",
+		"alice_kosmos",
+		"poliina",
+		"amelie_25",
+		"rennatha21",
+		"jia_roberts",
+		"sweet_tinker_bell",
+		"marylanex",
+		"eatmystrawberryx",
+		"blackmango_mary",
+		"kinkyali",
+		"feelmemore",
+		"_virtual_lady_",
+		"britney_charm",
+		"_ayya",
+		"hayle_green",
+		"evelissa",
+		"mynaughtynights",
+		"sweetsnejana",
+		"melisasweety",
+		"cunty_paradise",
+		"kattyababy",
+		"maryvi",
+		"daddystrouble",
+		"amazon_girl",
+		"hell_lo",
+		"vivian_clark",
+		"sophiesticate",
+		"kate_loves_you",
+		"lillpio",
+		"miley_k18",
+		"merrilyn",
+		"juicekatee",
+		"sallysarry",
+		"touch_me111",
+		"agatha137",
+		"joobeelee",
+		"dreamana",
+		"cutemoments",
+		"sasha_slim",
+		"meru_s",
+		"eva_nelson",
+		"lizzymoore",
+		"ritaorra_",
+		"ellaa91",
+		"alexandrasm1th",
+		"bunnyfunny_",
+		"sweet_skiinny",
+		"_e_u_p_h_o_r_i_a"
+];
 let fn__tierB = async () => { tierB.forEach(m => addModel(m, 30)); }
 fn__tierB();
 
