@@ -1,3 +1,39 @@
+class Model {
+	constructor(name, priority, scoring, pvt) {
+		this.name = name;
+		this.priority = priority; // number, sort ascending (lower is better)
+		this.scoring = scoring; // optional
+		this.pvt = pvt; // optional
+	}
+}
+
+class Scoring {
+	constructor(beauty, levels, dtf, exhibition, shape, mangos, peach, bird, greek, broadcast, availability) {
+		// number, sort descending (higher is better)
+		this.beauty = beauty; // {10..1}
+		this.dtf = dtf; // {5..0}
+		this.levels = levels; // {5..0}
+		this.exhibition = exhibition; // {5..0}
+		this.shape = shape; // {5..0}
+		this.mangos = mangos; // {5..0}
+		this.peach = peach; // {5..0}
+		this.bird = bird; // {5..0}
+		this.greek = greek; // {5..0}
+		this.broadcast = broadcast; // {5..0}
+		this.availability = availability; // {5..0}
+	}
+}
+
+class Pvt { 
+	constructor(allows, rate, recording) {
+		this.allows = allows; // boolean
+		this.rate = rate; // number
+		this.recording = recording; // "yes", "no", "sometimes"
+	}
+}
+
+const $$__Models = new Map();
+const $$__Params = new URLSearchParams(window.location.search);
 
 function channelId(modelName) {
 	return "channel$" + modelName;
@@ -66,3 +102,26 @@ function isOfflineImage(imgSize) {
 	return (imgSize == 0 || imgSize == 4456 || imgSize == 7442 || imgSize == 21971 || imgSize == 4824 || imgSize == 6778 || imgSize == 6734);
 }
 
+function addModel(modelName, priority) {
+	if (! $$__Models.has(modelName)) {
+		let newModel = new Model(modelName, priority); 
+		$$__Models.set(modelName, newModel);
+	}
+}
+
+function makeAddendums() {
+	let modelKeys = ['model','m'];
+	for (k of modelKeys) {
+		let moar = $$__Params.getAll(k);
+		for (m of moar) {
+			if (! $$__Models.has(m)) {
+				addModel(m, 110);
+			}
+		}
+	}
+	for (h of $$__Params.getAll('h')) {
+		if ($$__Models.has(h)) {
+			$$__Models.delete(h);
+		}
+	}	
+}
