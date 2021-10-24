@@ -1,7 +1,12 @@
-var $evasasha = new Model("evasasha", 1, new Scoring(9, 5, 3, 5, 5, 5, 4, 6, 4, 3, 0), new Pvt(true, 90, "yes"));
+// score factors: beauty, dtf, levels, sensitivity, authenticity, exhibition, shape, mangos, peach, bird, greek, broadcast, availability
+
+var $evasasha = new Model("evasasha", 1, new Scoring(9, 5, 3, 5, 5, 5, 5, 5, 4, 6, 4, 3, 0), new Pvt(true, 90, "yes"));
 $$__Models.set($evasasha.name, $evasasha);
 
-var $july_koss = new Model("july_koss", 21, new Scoring(8, 3, 3, 5, 5, 5, 5, 5, 2, 3, 2), new Pvt(false, 0, "no")); $$__Models.set($july_koss.name, $july_koss)
+var $july_koss = new Model("july_koss", 21, new Scoring(8, 3, 5, 5, 3, 5, 5, 5, 5, 5, 2, 3, 2), new Pvt(false, 0, "no")); $$__Models.set($july_koss.name, $july_koss)
+
+var $hayley__lee = new Model("hayley__lee", 21, new Scoring(8, 3, 5, 5, 3, 5, 5, 5, 5, 5, 2, 3, 2), new Pvt(false, 0, "no")); $$__Models.set($july_koss.name, $july_koss)
+
 var $mango_shake = new Model("mango_shake", 21); $$__Models.set($mango_shake.name, $mango_shake);
 
 let fn__annie_sweetyxx = async () => { addModel("annie_sweetyxx", 21); }

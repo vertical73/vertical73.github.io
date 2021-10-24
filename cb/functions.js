@@ -8,11 +8,13 @@ class Model {
 }
 
 class Scoring {
-	constructor(beauty, levels, dtf, exhibition, shape, mangos, peach, bird, greek, broadcast, availability) {
+	constructor(beauty, dtf, levels, sensitivity, authenticity, exhibition, shape, mangos, peach, bird, greek, broadcast, availability) {
 		// number, sort descending (higher is better)
 		this.beauty = beauty; // {10..1}
-		this.dtf = dtf; // {5..0}
 		this.levels = levels; // {5..0}
+		this.sensitivity = sensitivity; // {5..0}
+		this.authenticity = authenticity; // {5..0}
+		this.dtf = dtf; // {5..0}
 		this.exhibition = exhibition; // {5..0}
 		this.shape = shape; // {5..0}
 		this.mangos = mangos; // {5..0}
