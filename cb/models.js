@@ -9,14 +9,6 @@ var $hayley__lee = new Model("hayley__lee", 21, new Scoring(8, 3, 5, 5, 3, 5, 5,
 
 var $mango_shake = new Model("mango_shake", 21); $$__Models.set($mango_shake.name, $mango_shake);
 
-let fn__annie_sweetyxx = async () => { addModel("annie_sweetyxx", 21); }
-fn__annie_sweetyxx();
-let fn__cogitademe = async () => addModel("cogitademe", 21);
-fn__cogitademe();
-let fn__yournaughtymiss = async () => addModel("yournaughtymiss", 21);
-fn__yournaughtymiss();
-
-// var $candysfox = new Model("candysfox", 22); $$__Models.set($candysfox.name, $candysfox);
 // var $lola_bunny94 = new Model("lola_bunny94", 22); $$__Models.set($lola_bunny94.name, $lola_bunny94);
 // var $marylanex = new Model("marylanex", 22); $$__Models.set($marylanex.name, $marylanex);
 
