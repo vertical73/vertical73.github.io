@@ -20,7 +20,7 @@ fn__yournaughtymiss();
 // var $lola_bunny94 = new Model("lola_bunny94", 22); $$__Models.set($lola_bunny94.name, $lola_bunny94);
 // var $marylanex = new Model("marylanex", 22); $$__Models.set($marylanex.name, $marylanex);
 
-let tierA = ["evasasha","july_koss","_milkyway","mango_shake","lilly_vanilla","hayley__lee","candysfox","lola_bunny94","yournaughtymiss","annie_sweetyxx","wild_schoolgirl"];
+let tierA = ["evasasha","july_koss","_milkyway","mango_shake","lilly_vanilla","hayley__lee","lola_bunny94","yournaughtymiss","annie_sweetyxx","wild_schoolgirl"];
 let fn__tierA = async () => { tierA.forEach(m => addModel(m, 23)); }
 fn__tierA();
 
@@ -35,6 +35,7 @@ let tierB = [
 		"qeensgambit",
 		"vilanelle_1",
 		"marylanex",
+		"candysfox",
 		"miss_soniya",
 		"tiffanyhouston_",
 		"alice_kosmos",
