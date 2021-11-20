@@ -29,7 +29,6 @@ let tierB = [
     "lolla_molla",
     "thepleasureofsex",
     "candysfox",
-    "miss_soniya",
     "tiffanyhouston_",
     "alice_kosmos",
     "little_vee",
