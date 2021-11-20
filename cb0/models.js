@@ -29,7 +29,6 @@ let tierB = [
     "lolla_molla",
     "thepleasureofsex",
     "candysfox",
-    "miss_soniya",
     "tiffanyhouston_",
     "alice_kosmos",
     "little_vee",
@@ -67,7 +66,6 @@ let tierB = [
     "selfish_ashley",
     "elizabad",
     "rennatha21",
-    "touch_me111",
     "agatha137",
     "dreamana",
     "cutemoments",
@@ -82,6 +80,8 @@ let tierB = [
     "sophie_5",
     "sallysarry",
     "marti_lovely",
+    "miss_soniya",
+    "touch_me111",
     "sasha_slim",
     "yngkate"
 ];
