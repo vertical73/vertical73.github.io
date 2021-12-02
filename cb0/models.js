@@ -86,6 +86,7 @@ let tierB = [
     "_lizistrata_",
     "brigittehansley",
     "elis_klark",
+    "polly_m",
     "bunnyfunny_",
     "mariella_seen",
     "life_fof_sex",
