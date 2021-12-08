@@ -63,6 +63,12 @@ let tierB = [
     "merrilyn",
     "selfish_ashley",
     "_lizistrata_",
+    "dentalassistantgirl"
+];
+let fn__tierB = async () => { tierB.forEach(m => addModel(m, 30)); }
+fn__tierB();
+
+let tierC = [
     "hatti_moor",
     "elizabad",
     "rennatha21",
@@ -93,8 +99,8 @@ let tierB = [
     "lingerieshop",
     "bellaward"
 ];
-let fn__tierB = async () => { tierB.forEach(m => addModel(m, 30)); }
-fn__tierB();
+let fn__tierC = async () => { tierB.forEach(m => addModel(m, 30)); }
+fn__tierC();
 
 makeAddendums();
 
