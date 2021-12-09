@@ -102,7 +102,7 @@ let tierC = [
     "lingerieshop",
     "bellaward"
 ];
-let fn__tierC = async () => { tierB.forEach(m => addModel(m, 30)); }
+let fn__tierC = async () => { tierC.forEach(m => addModel(m, 30)); }
 fn__tierC();
 
 makeAddendums();
