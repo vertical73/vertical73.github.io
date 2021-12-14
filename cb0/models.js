@@ -87,7 +87,6 @@ let tierC = [
     "sonyaplush",
     "lolly_bella_",
     "yngkate",
-    "sallysarry",
     "miss_soniya",
     "alice_0ne",
     "brigittehansley",
