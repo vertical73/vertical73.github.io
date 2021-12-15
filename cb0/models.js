@@ -51,7 +51,6 @@ let tierB = [
     "daddystrouble",
     "lillpio",
     "hell_lo",
-    "amazon_girl",
     "melisasweety",
     "amelie_25",
     "sandraxevans",
@@ -64,13 +63,14 @@ let tierB = [
     "selfish_ashley",
     "_lizistrata_",
     "dentalassistantgirl",
-    "katrin_sweeft"
+    "katrin_sweeft",
+    "r00xvel",
+    "amazon_girl"
 ];
 let fn__tierB = async () => { tierB.forEach(m => addModel(m, 30)); }
 fn__tierB();
 
 let tierC = [
-    "hatti_moor",
     "elizabad",
     "rennatha21",
     "doll_li",
@@ -90,11 +90,11 @@ let tierC = [
     "miss_soniya",
     "alice_0ne",
     "brigittehansley",
-    "r00xvel",
     "soo_emma",
     "bunyabonito",
     "cutee_anna",
     "jerico_and_kelciemonaci",
+    "hatti_moor",
     "polly_m",
     "touch_me111",
     "sasha_slim",
