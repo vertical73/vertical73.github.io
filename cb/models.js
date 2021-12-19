@@ -55,7 +55,6 @@ let tierB = [
     "selfish_ashley",
     "_lizistrata_",
     "dentalassistantgirl",
-    "katrin_sweeft",
     "r00xvel",
     "amazon_girl"
 ];
