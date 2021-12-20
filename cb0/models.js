@@ -91,7 +91,6 @@ let tierC = [
     "procrastination_",
     "amelie_25",
     "yngkate",
-    "jerico_and_kelciemonaci",
     "sex_factory_",
     "lingerieshop",
     "jeniffer_100",
