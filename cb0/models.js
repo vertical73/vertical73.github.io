@@ -110,6 +110,7 @@ let tierC = [
     "kateslil",
     "jessica_gill",
     "xoanetta",
+    "sugarbae_haze",
     "polly_m",
     "sabrina_dimar"
 ];
