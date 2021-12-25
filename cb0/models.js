@@ -106,6 +106,7 @@ let tierC = [
     "kate__de__echte",
     "alissdi",
     "dumnbbylucifer",
+    "_b_a_n_s_h_e_e_"
     "alexispeach",
     "stussy_montana",
     "elizabad",
