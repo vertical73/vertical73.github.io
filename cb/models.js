@@ -37,7 +37,7 @@ let tierB = [
     "qeensgambit",
     "funnysimka",
     "ritaorra_",
-    "kinkyali",
+    "ali_slay",
     "tiffanyhouston_",
     "evelissa",
     "_ayya",
