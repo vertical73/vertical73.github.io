@@ -54,7 +54,6 @@ let tierB = [
     "melisasweety",
     "_lizistrata_",
     "miley_k18",
-    "dentalassistantgirl",
     "r00xvel",
     "amazon_girl"
 ];
@@ -67,6 +66,7 @@ let tierC = [
     "elly_belly",
     "_alicebraun_",
     "doll_li",
+    "dentalassistantgirl",
     "dreamana",
     "jia_roberts",
     "lizzymoore",
