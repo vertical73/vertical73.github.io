@@ -79,7 +79,6 @@ let tierC = [
     "elis_klark",
     "katrin_sweeft",
     "kattya_baby",
-    "bunyabonito",
     "rennatha21",
     "little_vee",
     "_nikoll_s",
@@ -130,6 +129,7 @@ let tierC = [
     "lorelaycandy",
     "fox_alina",
     "dolores_gerbera",
+    "bunyabonito",
     "poliina",
     "ponka_ponka"
 ];
