@@ -94,7 +94,6 @@ let tierC = [
     "sex_factory_",
     "miss_soniya",
     "touch_me111",
-    "lingerieshop",
     "jeniffer_100",
     "black_domina",
     "shybarbie",
