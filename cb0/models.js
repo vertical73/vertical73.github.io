@@ -71,6 +71,8 @@ let tierC = [
     "jia_roberts",
     "lizzymoore",
     "eatmystrawberryx",
+    "charming__kitty",
+    "star_gazing",
     "evablisss",
     "icyprincesss",
     "sonyaplush",
@@ -111,9 +113,7 @@ let tierC = [
     "gingercuttie",
     "fox_alina",
     "_b_a_n_s_h_e_e_",
-    "lure_purrpurr",
-    "charming__kitty",
-    "star_gazing"
+    "lure_purrpurr"
 ];
 let fn__tierC = async () => { tierC.forEach(m => addModel(m, 30)); }
 fn__tierC();
