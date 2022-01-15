@@ -88,13 +88,14 @@ let tierC = [
     "katrin_sweeft",
     "amelie_25",
     "sex_factory_",
+    "dumnbbylucifer",
+    "lure_purrpurr",
     "touch_me111",
     "lolly_bella_",
     "69chupachups",
     "jadeehall",
     "babyuniporn",
     "alissdi",
-    "dumnbbylucifer",
     "elizabad",
     "sugarbae_haze",
     "nicole_co",
@@ -105,8 +106,7 @@ let tierC = [
     "gingercuttie",
     "fox_alina",
     "_b_a_n_s_h_e_e_",
-    "honey_pinkgreen",
-    "lure_purrpurr"
+    "honey_pinkgreen"
 ];
 let fn__tierC = async () => { tierC.forEach(m => addModel(m, 30)); }
 fn__tierC();
