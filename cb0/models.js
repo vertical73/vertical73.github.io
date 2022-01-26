@@ -7,6 +7,8 @@ var $july_koss = new Model("july_koss", 21, new Scoring(8, 3, 5, 5, 3, 5, 5, 5, 
 
 var $hayley__lee = new Model("hayley__lee", 21, new Scoring(8, 3, 5, 5, 3, 5, 5, 5, 5, 5, 2, 3, 2), new Pvt(false, 0, "no")); $$__Models.set($july_koss.name, $july_koss)
 
+var $misstics69 = new Model("misstics69", 21); $$__Models.set($misstics69.name, $misstics69);
+
 var $mango_shake = new Model("mango_shake", 21); $$__Models.set($mango_shake.name, $mango_shake);
 
 // var $lola_bunny94 = new Model("lola_bunny94", 22); $$__Models.set($lola_bunny94.name, $lola_bunny94);
