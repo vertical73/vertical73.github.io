@@ -122,7 +122,6 @@ let tierC = [
     "1_arya",
     "polly_m",
     "chlloejuicy",
-    "lexi_blue",
     "ali_slay",
     "jessicastoun"
 ];
