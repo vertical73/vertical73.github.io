@@ -71,7 +71,6 @@ let tierC = [
     "alice_0ne",
     "kattya_baby",
     "rennatha21",
-    "little_vee",
     "_nikoll_s",
     "sanymorgan",
     "vivian_clark",
