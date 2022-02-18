@@ -127,7 +127,8 @@ let tierC = [
     "ann_hoffman",
     "katiecrout",
     "dooorajaav",
-    "ladyeva_"
+    "ladyeva_",
+    "kleasure"
 ];
 let fn__tierC = async () => { tierC.forEach(m => addModel(m, 30)); }
 fn__tierC();
