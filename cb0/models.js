@@ -55,6 +55,7 @@ let fn__tierB = async () => { tierB.forEach(m => addModel(m, 30)); }
 fn__tierB();
 
 let tierC = [
+    "nolimitscoupl3",
     "lastdawn",
     "lildevilxyx",
     "ritaorra_",
