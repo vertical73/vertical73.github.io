@@ -17,12 +17,12 @@ let fn__tierA = async () => { tierA.forEach(m => addModel(m, 23)); }
 fn__tierA();
 
 let tierB = [
+    "lali_banani",
     "mango_shake",
     "misstics69",
     "vilanelle_1",
     "_woweva__",
     "feelmemore",
-    "lali_banani",
     "lastdawn",
     "bustykatia",
     "sweetsnejana",
