@@ -104,7 +104,6 @@ let tierC = [
     "sonyahailey",
     "lilyhotbrunette",
     "annannie",
-    "dariadeli",
     "chilloutann",
     "juliet_bb",
     "ali_slay",
@@ -118,7 +117,6 @@ let tierC = [
     "kleasure",
     "avarice_carman",
     "krisstine_bae",
-    "mia_mils",
     "kateslil",
     "avarice_cartman",
     "katty_kerol"
