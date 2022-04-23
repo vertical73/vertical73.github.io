@@ -71,6 +71,7 @@ let tierC = [
     "eatmystrawberryx",
     "sugarbae_haze",
     "elza_9",
+    "sayl0r_moon",
     "lizzymoore",
     "evablisss",
     "icyprincesss",
