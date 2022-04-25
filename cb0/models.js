@@ -121,6 +121,7 @@ let tierC = [
     "lillieonyx",
     "cherry_beauty",
     "little_vee",
+    "luna__new",
     "perfecttblondee",
     "lisamaybe",
     "mia_elfie",
