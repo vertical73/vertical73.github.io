@@ -12,7 +12,7 @@ var $mango_shake = new Model("mango_shake", 21); $$__Models.set($mango_shake.nam
 // var $lola_bunny94 = new Model("lola_bunny94", 22); $$__Models.set($lola_bunny94.name, $lola_bunny94);
 // var $marylanex = new Model("marylanex", 22); $$__Models.set($marylanex.name, $marylanex);
 
-let tierA = ["evasasha","july_koss","lilly_vanilla","hayley__lee","lola_bunny94","misstics69","_milkyway","wild_schoolgirl"];
+let tierA = ["evasasha","july_koss","lilly_vanilla","hayley__lee","lola_bunny94","misstics69","_milkyway","wild_schoolgirl","alice_kosmos"];
 let fn__tierA = async () => { tierA.forEach(m => addModel(m, 23)); }
 fn__tierA();
 
@@ -32,7 +32,6 @@ let tierB = [
     "sweet__sugar",
     "catanddickxxx",
     "thepleasureofsex",
-    "alice_kosmos",
     "_virtual_lady_",
     "cogitademe",
     "_dopping_",
