@@ -116,9 +116,7 @@ let tierC = [
     "stephaweb",
     "bestzoeyever",
     "innalovely",
-    "annisefoxy",
     "heyhorny_cb",
-    "justf0rtalk",
     "sofia_flowers",
     "marine_davey",
     "griffitholivia"
