@@ -111,6 +111,7 @@ let tierC = [
     "perfecttblondee",
     "lisamaybe",
     "miatully",
+    "angella_kleee",
     "mia_elfie",
     "69chupachups",
     "stephaweb",
