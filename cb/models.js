@@ -18,7 +18,6 @@ fn__tierA();
 
 let tierB = [
     "mango_shake",
-    "misstics69",
     "_woweva__",
     "vilanelle_1",
     "annie_sweetyxx",
