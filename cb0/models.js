@@ -91,7 +91,6 @@ let tierC = [
     "melisasweety",
     "stephaweb",
     "heyhorny_cb",
-    "sofia_flowers",
     "angella_kleee",
     "kylesa_"
 ];
