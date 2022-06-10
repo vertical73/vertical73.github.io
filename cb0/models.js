@@ -54,7 +54,6 @@ fn__tierB();
 let tierC = [
     "amazon_girl",
     "ritaorra_",
-    "lillpio",
     "milena_manin",
     "jia_roberts",
     "star_gazing",
@@ -64,6 +63,7 @@ let tierC = [
     "elza_9",
     "sayl0r_moon",
     "kleasure",
+    "lillpio",
     "maryvi",
     "jess1ca_rabb1t",
     "evelyn539",
