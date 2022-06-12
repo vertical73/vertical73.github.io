@@ -37,15 +37,15 @@ let tierB = [
     "lastdawn",
     "sweet_tinker_bell",
     "marylanex",
+    "sugarbae_haze",
+    "blackmango_mary",
     "qeensgambit",
     "tiffanyhouston_",
     "evelissa",
     "_ayya",
     "hayle_green",
     "selfish_ashley",
-    "kristin_mordor",
-    "blackmango_mary",
-    "sugarbae_haze"
+    "kristin_mordor"
 ];
 let fn__tierB = async () => { tierB.forEach(m => addModel(m, 30)); }
 fn__tierB();
