@@ -19,14 +19,13 @@ fn__tierA();
 let tierB = [
     "mango_shake",
     "_woweva__",
-    "vilanelle_1",
-    "feelmemore",
     "bustykatia",
     "candysfox",
     "marylanex",
     "sugarbae_haze",
     "sweetsnejana",
     "anna_sabotage",
+    "vilanelle_1",
     "annie_sweetyxx",
     "yournaughtymiss",
     "sweet__sugar",
@@ -45,6 +44,7 @@ let tierB = [
     "_ayya",
     "hayle_green",
     "selfish_ashley",
+    "feelmemore",
     "kristin_mordor",
     "milena_manin"
 ];
