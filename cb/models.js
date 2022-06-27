@@ -8,7 +8,7 @@ var $july_koss = new Model("july_koss", 21, new Scoring(8, 3, 5, 5, 3, 5, 5, 5, 
 // var $lola_bunny94 = new Model("lola_bunny94", 22); $$__Models.set($lola_bunny94.name, $lola_bunny94);
 // var $marylanex = new Model("marylanex", 22); $$__Models.set($marylanex.name, $marylanex);
 
-let tierA = ["evasasha","july_koss","lilly_vanilla","hayley__lee","lola_bunny94","_misstics69_","_milkyway","alice_kosmos","wild_schoolgirl"];
+let tierA = ["evasasha","july_koss","_milkyway","lilly_vanilla","hayley__lee","lola_bunny94","_misstics69_","alice_kosmos","wild_schoolgirl"];
 let fn__tierA = async () => { tierA.forEach(m => addModel(m, 23)); }
 fn__tierA();
 
