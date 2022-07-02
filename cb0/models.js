@@ -77,6 +77,7 @@ let tierC = [
     "lexi_blue",
     "krisstine_bae",
     "little_vee",
+    "_sweetcams_",
     "luna__new",
     "perfecttblondee",
     "mia_elfie",
