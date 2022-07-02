@@ -56,12 +56,23 @@ let tierC = [
     "jia_roberts",
     "star_gazing",
     "eatmystrawberryx",
-    "bestzoeyever",
     "sweet__sugar",
-    "elza_9",
-    "sayl0r_moon",
+    "katrin_sweeft",
     "lillpio",
     "maryvi",
+    "agatha137",
+    "little_vee",
+    "melisasweety",
+    "stephaweb",
+    "heyhorny_cb"
+];
+let fn__tierC = async () => { tierC.forEach(m => addModel(m, 30)); }
+fn__tierC();
+
+let tierD = [
+    "bestzoeyever",
+    "elza_9",
+    "sayl0r_moon",
     "jess1ca_rabb1t",
     "evelyn539",
     "lure_purrpurr",
@@ -69,7 +80,6 @@ let tierC = [
     "ohbabykelly",
     "deeplywhite",
     "katiecharm",
-    "agatha137",
     "weisssy",
     "lilyhotbrunette",
     "juliet_bb",
@@ -77,16 +87,12 @@ let tierC = [
     "ladyeva_",
     "lexi_blue",
     "krisstine_bae",
-    "little_vee",
     "_sweetcams_",
     "luna__new",
     "perfecttblondee",
     "mia_elfie",
     "my_april",
     "innalovely",
-    "melisasweety",
-    "stephaweb",
-    "heyhorny_cb",
     "angella_kleee",
     "_valentina_69",
     "melissa_smith_",
@@ -97,8 +103,8 @@ let tierC = [
     "aliciacarol",
     "taanni_bc"
 ];
-let fn__tierC = async () => { tierC.forEach(m => addModel(m, 30)); }
-fn__tierC();
+let fn__tierD = async () => { tierD.forEach(m => addModel(m, 30)); }
+fn__tierD();
 
 makeAddendums();
 
