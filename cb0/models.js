@@ -48,6 +48,8 @@ let tierC = [
     "kleasure",
     "mikena_manin",
     "butterfly_on_dick",
+    "evelissa",
+    "thepleasureofsex",
     "cutee_anna",
     "amazon_girl",
     "_ayya",
