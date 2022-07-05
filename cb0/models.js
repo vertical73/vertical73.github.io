@@ -96,12 +96,8 @@ let tierD = [
     "angella_kleee",
     "_valentina_69",
     "melissa_smith_",
-    "christine_coy",
     "murphyabigail",
-    "aria_diaz",
-    "bakerohelen",
-    "aliciacarol",
-    "taanni_bc"
+    "aria_diaz"
 ];
 let fn__tierD = async () => { tierD.forEach(m => addModel(m, 30)); }
 fn__tierD();
