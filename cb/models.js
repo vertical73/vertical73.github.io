@@ -1,6 +1,16 @@
 // score factors: beauty, dtf, levels, sensitivity, authenticity, exhibition, shape, mangos, peach, bird, greek, broadcast, availability
 
-let tierA = ["evasasha","july_koss","_milkyway","lilly_vanilla","hayley__lee","lola_bunny94","_misstics69_","alice_kosmos","wild_schoolgirl"];
+let tierA = [
+    "evasasha",
+    "july_koss",
+    "_milkyway",
+    "lilly_vanilla",
+    "hayley__lee",
+    "lola_bunny94",
+    "_misstics69_",
+    "alice_kosmos",
+    "wild_schoolgirl"
+];
 let fn__tierA = async () => { tierA.forEach(m => addModel(m, 23)); }
 fn__tierA();
 
