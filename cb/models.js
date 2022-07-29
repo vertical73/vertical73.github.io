@@ -30,7 +30,6 @@ let tierB = [
     "yournaughtymiss",
     "catanddickxxx",
     "sugarbae_haze",
-    "thepleasureofsex",
     "_virtual_lady_",
     "cogitademe",
     "_dopping_",
