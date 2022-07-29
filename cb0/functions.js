@@ -50,7 +50,7 @@ function channelImgUrl(modelName) {
 }
 
 function channelActiveUrl(modelName) {
-    return "https://cbjpeg.stream.highwebmedia.com/minifwap/" + modelName + ".jpg?f=" + Math.random();
+    return "https://cbjpeg.stream.highwebmedia.com/minifwap/" + modelName + ".jpg?f=" + Date.now();
 }
 
 function chaturbateUrl(modelName) {
