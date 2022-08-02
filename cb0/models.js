@@ -45,7 +45,6 @@ let tierB = [
     "star_gazing",
     "_sweetcams_",
     "_valentina_69"
->>>>>>> b35a18a ((ordering))
 ];
 let fn__tierB = async () => { tierB.forEach(m => addModel(m, 30)); }
 fn__tierB();
