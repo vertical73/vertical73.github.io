@@ -1,29 +1,30 @@
-// score factors: beauty, dtf, levels, sensitivity, authenticity, exhibition, shape, mangos, peach, bird, greek, broadcast, availability
-
-let tierD = [
-    "bestzoeyever",
-    "elza_9",
-    "sayl0r_moon",
-    "jess1ca_rabb1t",
-    "evelyn539",
-    "lure_purrpurr",
-    "elizabad",
-    "ohbabykelly",
-    "weisssy",
-    "lilyhotbrunette",
-    "juliet_bb",
-    "ladyeva_",
-    "lexi_blue",
-    "krisstine_bae",
-    "_sweetcams_",
-    "luna__new",
-    "perfecttblondee",
-    "mia_elfie",
-    "my_april",
-    "innalovely",
-    "angella_kleee",
-    "melissa_smith_"
+let cb1Primary = [
+    "aria_diaz",
+    "butterfly_on_dick",
+    "evelissa",
+    "thepleasureofsex",
+    "cutee_anna",
+    "amazon_girl",
+    "_ayya",
+    "ritaorra_",
+    "funnysimka",
+    "jia_roberts",
+    "eatmystrawberryx",
+    "sweet__sugar",
+    "katrin_sweeft",
+    "lillpio",
+    "maryvi",
+    "agatha137",
+    "little_vee",
+    "melisasweety",
+    "stephaweb",
+    "heyhorny_cb",
+    "katrin_sweeft",
+    "alliesmiths",
+    "whitebanny",
+    "vanila_cream_",
+    "bakerohelen",
+    "projectdanta"
 ];
-let fn__tierD = async () => { tierD.forEach(m => addModel(m, 30)); }
-fn__tierD();
-
+let fn__cb1Primary = async () => { cb1Primary.forEach(m => addModel(m, 30)); }
+fn__cb1Primary();
