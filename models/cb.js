@@ -2,7 +2,7 @@ let cbPrimary = [
     "evasasha",
     "july_koss",
     "_milkyway",
-   "lilly_vanilla",
+    "lilly_vanilla",
     "hayley__lee",
     "lola_bunny94",
     "_misstics69_",
