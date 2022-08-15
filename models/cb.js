@@ -1,12 +1,11 @@
 let cbPrimary = [
     "evasasha",
     "july_koss",
+    "alice_kosmos",
     "_milkyway",
-    "lilly_vanilla",
     "hayley__lee",
     "lola_bunny94",
     "_misstics69_",
-    "alice_kosmos",
     "wild_schoolgirl"
 ];
 let fn__cbPrimary = async () => { cbPrimary.forEach(m => addModel(m, 23)); }
@@ -29,6 +28,7 @@ let cbSecondary = [
     "sugarbae_haze",
     "_virtual_lady_",
     "blackmango_mary",
+    "lilly_vanilla",
     "feelmemore",
     "kristin_mordor",
     "saradimond"
