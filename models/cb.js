@@ -26,6 +26,7 @@ let cbSecondary = [
     "sugarbae_haze",
     "kleasure",
     "_virtual_lady_",
+    "qeensgambit",
     "blackmango_mary",
     "lilly_vanilla",
     "feelmemore",
