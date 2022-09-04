@@ -8,7 +8,7 @@ let cb0Primary = [
     "selfish_ashley",
     "milena_manin",
     "vilanelle_1",
-    "butterfly_on_dick".
+    "butterfly_on_dick",
     "veronikaav",
     "star_gazing",
     "_sweetcams_",
@@ -20,8 +20,7 @@ let cb0Primary = [
     "taanni_bc",
     "angel_from_sky",
     "marshalang",
-    "alyssa_smit",
-    "vilanelle_1"
+    "alyssa_smit"
 ];
 let fn__cb0Primary = async () => { cb0Primary.forEach(m => addModel(m, 30)); }
 fn__cb0Primary();
