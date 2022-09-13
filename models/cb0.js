@@ -24,7 +24,8 @@ let cb0Primary = [
     "sweetkira555",
     "lolly_bella_",
     "why_effy",
-    "_shining_"
+    "_shining_",
+    "poppy__parker"
 ];
 let fn__cb0Primary = async () => { cb0Primary.forEach(m => addModel(m, 30)); }
 fn__cb0Primary();
