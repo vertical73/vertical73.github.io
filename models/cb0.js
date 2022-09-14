@@ -22,6 +22,7 @@ let cb0Primary = [
     "angel_from_sky",
     "marshalang",
     "alyssa_smit",
+    "ann_hoffman",
     "sweetkira555",
     "lolly_bella_",
     "why_effy",
