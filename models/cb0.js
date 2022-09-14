@@ -1,6 +1,7 @@
 let cb0Primary = [
     "sweet_tinker_bell",
     "tiffanyhouston_",
+    "sugarbae_haze",
     "mia_elfie",
     "cogitademe",
     "_dopping_",
