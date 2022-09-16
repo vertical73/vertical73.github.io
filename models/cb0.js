@@ -28,6 +28,7 @@ let cb0Primary = [
     "lolly_bella_",
     "playwithmil",
     "goldteachers",
+    "selena_mae",
     "missnataiie",
     "why_effy",
     "_shining_",
