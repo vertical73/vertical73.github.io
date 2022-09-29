@@ -23,7 +23,7 @@ let cbSecondary = [
     "kleasure",
     "_virtual_lady_",
     "qeensgambit",
-    "isia_slay",
+    "isia_slay",z
     "blackmango_mary",
     "lilly_vanilla",
     "feelmemore",
@@ -62,12 +62,12 @@ let cb0Primary = [
     "why_effy",
     "_shining_",
     "poppy__parker",
-    "heymamawolf_"
+    "heymamawolf_",
+    "scarlett_711"
 ];
 let cb1Primary = [
     "xxx_leila",
     "saradimond",
-    "taanni_bc",
     "angel_from_sky",
     "aria_diaz",
     "thepleasureofsex",
@@ -82,7 +82,6 @@ let cb1Primary = [
     "katrin_sweeft",
     "lillpio",
     "maryvi",
-    "agatha137",
     "little_vee",
     "melisasweety",
     "stephaweb",
@@ -97,9 +96,8 @@ let cb1Primary = [
     "ann_hoffman",
     "missnataiie",
     "mynameisnikki",
-    "helen_xxxstar",
-    "scarlett_711",
-    "mia_dowell"
+    "agatha137",
+    "helen_xxxstar"
 ];
 let cb2Primary = [
     "bestzoeyever",
