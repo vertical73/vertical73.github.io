@@ -23,7 +23,7 @@ let cbSecondary = [
     "kleasure",
     "_virtual_lady_",
     "qeensgambit",
-    "isia_slay",z
+    "isia_slay",
     "blackmango_mary",
     "lilly_vanilla",
     "feelmemore",
