@@ -98,7 +98,9 @@ let cb1Primary = [
     "missnataiie",
     "mynameisnikki",
     "agatha137",
-    "helen_xxxstar"
+    "helen_xxxstar",
+    "shellymang",
+    "anna___hayley"
 ];
 let cb2Primary = [
     "bestzoeyever",
