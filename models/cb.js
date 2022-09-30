@@ -99,10 +99,10 @@ let cb1Primary = [
     "mynameisnikki",
     "agatha137",
     "helen_xxxstar",
+    "bestzoeyever",
     "shellymang"
 ];
 let cb2Primary = [
-    "bestzoeyever",
     "elza_9",
     "sayl0r_moon",
     "jess1ca_rabb1t",
