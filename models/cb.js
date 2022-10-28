@@ -39,9 +39,9 @@ fn__cbSecondary();
 
 let cb0Primary = [
     "sweet_tinker_bell",
+    "playwithmil",
     "tiffanyhouston_",
     "sugarbae_haze",
-    "playwithmil",
     "mia_elfie",
     "_dopping_",
     "evelissa",
