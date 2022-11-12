@@ -62,7 +62,6 @@ let cb1Primary = [
     "anna___hayley",
     "butterfly_on_dick",
     "thepleasureofsex",
-    "_bluceleste_",
     "star_gazing",
     "marshalang",
     "lolly_bella_",
