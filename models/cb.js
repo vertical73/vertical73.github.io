@@ -52,22 +52,22 @@ let cb0Primary = [
     "vilanelle_1",
     "amazon_girl",
     "sweetkira555",
+    "star_gazing",
     "veronikaav",
     "elizabad",
     "phoesweet",
-    "lilitdevile"
+    "lilitdevile",
+    "why_effy"
 ];
 let cb1Primary = [
     "cogitademe",
     "anna___hayley",
     "butterfly_on_dick",
     "thepleasureofsex",
-    "star_gazing",
     "barbie_lis",
     "lolly_bella_",
     "goldteachers",
     "alyssa_smit",
-    "why_effy",
     "emmy_bell",
     "jilly_wolly1",
     "heymamawolf_",
