@@ -55,13 +55,13 @@ let cb0Primary = [
     "star_gazing",
     "veronikaav",
     "elizabad",
+    "_snowcherry_",
     "phoesweet",
     "why_effy",
     "sugar_club",
     "mynaughtynights",
     "angella_kleee",
     "_maiko_",
-    "_snowcherry_",
     "amour_touch",
     "mia_elfie"
 ];
