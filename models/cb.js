@@ -44,6 +44,7 @@ let cb0Primary = [
     "sweet_tinker_bell",
     "tiffanyhouston_",
     "playwithmil",
+    "ellie_mcqueen",
     "isia_slay",
     "_valentina_69",
     "sugarbae_haze",
