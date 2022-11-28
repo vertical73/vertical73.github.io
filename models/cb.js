@@ -62,23 +62,23 @@ let cb0Primary = [
     "sugar_club",
     "mynaughtynights",
     "angella_kleee",
-    "_maiko_",
     "amour_touch",
     "juliet_bb",
     "mia_elfie",
     "oliviabr0wn",
     "misssweettie",
     "masha_01",
-    "eatmystrawberryx"
+    "eatmystrawberryx",
+    "_maiko_"
 ];
 let cb1Primary = [
     "cogitademe",
     "butterfly_on_dick",
     "thepleasureofsex",
-    "sunnybabby",
     "barbie_lis",
     "lolly_bella_",
     "goldteachers",
+    "sunnybabby",
     "alyssa_smit",
     "emmy_bell",
     "jilly_wolly1",
