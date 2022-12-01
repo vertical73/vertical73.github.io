@@ -61,18 +61,14 @@ let cb0Primary = [
     "phoesweet",
     "why_effy",
     "sugar_club",
-    "mynaughtynights",
-    "angella_kleee",
     "amour_touch",
     "juliet_bb",
     "weisssy",
     "tinaaarpp",
-    "mia_elfie",
     "masha_01",
     "eatmystrawberryx",
     "hotcryst",
     "vanila_cream_",
-    "liamurr",
     "_maiko_"
 ];
 let cb1Primary = [
@@ -87,6 +83,10 @@ let cb1Primary = [
     "jilly_wolly1",
     "heymamawolf_",
     "scarlett_711",
+    "ohbabykelly",
+    "mia_elfie",
+    "angella_kleee",
+    "mynaughtynights",
     "sunbeam181",
     "xxx_leila",
     "saradimond",
@@ -113,7 +113,7 @@ let cb1Primary = [
     "agatha137",
     "helen_xxxstar",
     "lilitdevile",
-    "ohbabykelly"
+    "liamurr"
 ];
 let cb2Primary = [
     "elza_9",
