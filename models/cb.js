@@ -66,10 +66,10 @@ let cb0Primary = [
     "tinaaarpp",
     "masha_01",
     "eatmystrawberryx",
-    "mia_mils",
     "hotcryst",
     "vanila_cream_",
-    "_maiko_"
+    "_maiko_",
+    "mia_mils"
 ];
 let cb1Primary = [
     "cogitademe",
