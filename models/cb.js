@@ -82,7 +82,6 @@ let cb1Primary = [
     "cogitademe",
     "butterfly_on_dick",
     "thepleasureofsex",
-    "barbie_lis",
     "goldteachers",
     "sunnybabby",
     "emmy_bell",
