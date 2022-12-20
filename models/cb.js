@@ -61,6 +61,7 @@ let cb0Primary = [
     "sugarbae_haze",
     "whitebanny",
     "elizabad",
+    "sherry_sandra",
     "angel_from_sky",
     "honeybae3",
     "whiterabbit0",
