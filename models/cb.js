@@ -61,7 +61,6 @@ let cb0Primary = [
     "sugarbae_haze",
     "whitebanny",
     "elizabad",
-    "sherry_sandra",
     "angel_from_sky",
     "honeybae3",
     "whiterabbit0",
@@ -83,6 +82,7 @@ let cb0Primary = [
     "cogitademe",
     "poppy__parker",
     "miatooresss",
+    "sherry_sandra",
     "lilitdevile",
     "ellie_mcqueen",
     "hotcryst"
