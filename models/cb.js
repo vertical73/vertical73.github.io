@@ -53,18 +53,18 @@ let cb0Primary = [
     "star_gazing",
     "mynameisnikki",
     "eatmystrawberryx",
-    "vilanelle_1",
-    "jilly_wolly1",
-    "juliacontrol",
-    "lolly_bella_",
     "whitebanny",
     "elizabad",
     "evelissa",
     "amour_touch",
     "_lain_",
+    "sherry_sandra",
     "mary_delray",
     "isabelle_hadid",
-    "sherry_sandra",
+    "vilanelle_1",
+    "jilly_wolly1",
+    "juliacontrol",
+    "lolly_bella_",
     "vanila_cream_"
 ];
 let cb1Primary = [
