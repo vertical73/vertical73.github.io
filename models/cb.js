@@ -124,14 +124,13 @@ let cb1Primary = [
     "little_vee",
     "melisasweety",
     "heyhorny_cb",
-    "stephaweb",
     "projectdanta",
-    "agatha137",
-    "liamurr"
+    "agatha137"
 ];
 let cb2Primary = [
     "sayl0r_moon",
     "jess1ca_rabb1t",
+    "stephaweb",
     "lure_purrpurr",
     "_sweetcams_",
     "mia_elfie",
