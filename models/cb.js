@@ -109,13 +109,11 @@ let cb1Primary = [
     "heymamawolf_",
     "scarlett_711",
     "ohbabykelly",
-    "mia_elfie",
     "angella_kleee",
     "mynaughtynights",
     "weisssy",
     "xxx_leila",
     "saradimond",
-    "_sweetcams_",
     "cutee_anna",
     "_ayya",
     "ritaorra_",
@@ -129,26 +127,14 @@ let cb1Primary = [
     "stephaweb",
     "projectdanta",
     "agatha137",
-    "helen_xxxstar",
-    "liamurr",
-    "sweetbabyxx2021"
+    "liamurr"
 ];
 let cb2Primary = [
-    "elza_9",
     "sayl0r_moon",
     "jess1ca_rabb1t",
-    "evelyn539",
     "lure_purrpurr",
-    "lilyhotbrunette",
-    "ladyeva_",
-    "lexi_blue",
-    "krisstine_bae",
     "_sweetcams_",
-    "luna__new",
-    "perfecttblondee",
     "mia_elfie",
-    "my_april",
-    "innalovely",
     "melissa_smith_",
     "sadieevelyn"
 ];
