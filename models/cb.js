@@ -35,7 +35,7 @@ fn__cbPrimary();
 fn__cbSecondary();
 
 let cb0Primary = [
-    "qeensgambit",
+    "qeeensgambit",
     "lastdawn",
     "_dopping_",
     "bestzoeyever",
@@ -100,7 +100,6 @@ let cb1Primary = [
     "thepleasureofsex",
     "hotcryst",
     "ellie_mcqueen",
-    "lilitdevile",
     "sunnybabby",
     "sweetsgia",
     "emmy_bell",
