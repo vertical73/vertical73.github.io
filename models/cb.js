@@ -64,16 +64,17 @@ let cb0Primary = [
     "isabelle_hadid",
     "vilanelle_1",
     "jilly_wolly1",
+    "myliss",
     "inkanuko",
     "juliacontrol",
     "maryvi",
     "milky__way_",
     "ohbabykelly",
-    "alicepreuoston",
     "bunnydollstella",
     "_mary_chili",
     "angel_from_sky",
-    "veronikaav"
+    "veronikaav",
+    "alicepreuoston"
 ];
 let cb1Primary = [
     "_snowcherry_",
