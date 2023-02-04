@@ -40,6 +40,8 @@ let cb0Primary = [
     "qeeensgambit",
     "lastdawn",
     "little_vee",
+    "hodgesalice",
+    "shirleywatson",
     "bestzoeyever",
     "_virtual_lady_",
     "blackmango_mary",
@@ -47,7 +49,6 @@ let cb0Primary = [
     "tiffanyhouston_",
     "lolly_bella_",
     "isia_slay",
-    "playwithmil",
     "milena_manin",
     "amazon_girl",
     "yournaughtymiss",
@@ -58,7 +59,6 @@ let cb0Primary = [
     "eatmystrawberryx",
     "evelissa",
     "elizabad",
-    "hodgesalice",
     "_biscuitcake",
     "amour_touch",
     "sherry_sandra",
@@ -68,13 +68,13 @@ let cb0Primary = [
     "inkanuko",
     "juliacontrol",
     "milky__way_",
-    "bunnydollstella",
     "_mary_chili",
     "veronikaav",
+    "bunnydollstella",
     "marceliavsworld",
     "ameliaangell",
-    "shirleywatson",
-    "angelsquirting"
+    "angelsquirting",
+    "playwithmil"
 ];
 let cb1Primary = [
     "_snowcherry_",
