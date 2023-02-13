@@ -1,5 +1,5 @@
 let cbPrimary = [
-    "evasasha",
+    "freyaeva",
     "anna___hayley",
     "hayley__lee",
     "lola_bunny94",
