@@ -21,7 +21,7 @@ let cbSecondary = [
     "catanddickxxx",
     "katrin_sweeft",
     "ann_hoffman",
-    "_dopping_",
+    "amazon_girl",
     "july_koss",
     "mango_shake",
     "_woweva__",
@@ -39,6 +39,7 @@ fn__cbSecondary();
 
 let cb0Primary = [
     "qeeensgambit",
+    "_dopping_",
     "vikinamnu",
     "lastdawn",
     "little_vee",
@@ -52,7 +53,6 @@ let cb0Primary = [
     "tiffanyhouston_",
     "lolly_bella_",
     "isia_slay",
-    "amazon_girl",
     "yournaughtymiss",
     "ksensational",
     "_ayya",
