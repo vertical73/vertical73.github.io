@@ -75,6 +75,8 @@ let cb0Primary = [
     "angelsquirting",
     "sugar_club",
     "charlie_dotson",
+    "babyrhoades",
+    "wanda_robinson",
     "milena_manin"
 ];
 let cb1Primary = [
