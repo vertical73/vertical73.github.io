@@ -5,20 +5,20 @@ let cbPrimary = [
     "_milkyway",
     "wild_schoolgirl",
     "_misstics69_",
-    "alice_kosmos"
+    "candysfox",
+    "alice_kosmos",
+    "hayle_green",
+    "whitebanny"
 ];
 let cbSecondary = [
-    "hayle_green",
-    "candysfox",
-    "whitebanny",
     "_valentina_69",
     "bustykatia",
     "marylanex",
-    "annie_sweetyxx",
     "sweetkira555",
     "catanddickxxx",
     "katrin_sweeft",
     "lola_bunny94",
+    "annie_sweetyxx",
     "july_koss",
     "mango_shake",
     "_woweva__",
@@ -70,7 +70,6 @@ let cb0Primary = [
     "milky__way_",
     "veronikaav",
     "_biscuitcake",
-    "lisbailey",
     "blue_ocean_eyes",
     "ecsodia",
     "bunnydollstella",
@@ -78,7 +77,6 @@ let cb0Primary = [
     "eva_laas",
     "charlie_dotson",
     "babyrhoades",
-    "inkanuko",
     "milena_manin"
 ];
 let cb1Primary = [
@@ -86,6 +84,8 @@ let cb1Primary = [
     "elizabad",
     "mary_delray",
     "juliacontrol",
+    "lisbailey",
+    "inkanuko",
     "okssanna",
     "anna_bri",
     "_ayya",
