@@ -75,7 +75,6 @@ let cb0Primary = [
     "sugar_club",
     "eva_laas",
     "charlie_dotson",
-    "_mary_chili",
     "babyrhoades",
     "milena_manin"
 ];
@@ -119,7 +118,8 @@ let cb1Primary = [
     "lillpio",
     "heyhorny_cb",
     "why_effy",
-    "projectdanta"
+    "projectdanta",
+    "_mary_chili"
 ];
 let cb2Primary = [
     "stephaweb",
