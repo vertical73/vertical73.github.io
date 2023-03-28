@@ -55,8 +55,6 @@ let cb0Primary = [
     "ksensational",
     "star_gazing",
     "sandymiracle",
-    "js_girls",
-    "kaisylay",
     "mynameisnikki",
     "eatmystrawberryx",
     "maryvi",
@@ -72,9 +70,6 @@ let cb0Primary = [
     "ecsodia",
     "bunnydollstella",
     "sugar_club",
-    "eva_laas",
-    "charlie_dotson",
-    "babyrhoades",
     "milena_manin"
 ];
 let cb1Primary = [
@@ -82,20 +77,15 @@ let cb1Primary = [
     "elizabad",
     "mary_delray",
     "juliacontrol",
-    "lisbailey",
     "inkanuko",
-    "okssanna",
     "anna_bri",
     "_ayya",
     "bestzoeyever",
     "angelsquirting",
-    "judy__69",
-    "wild_neck",
     "juliet_bb",
     "ohbabykelly",
     "jilly_wolly1",
     "_maiko_",
-    "miatooresss",
     "vanila_cream_",
     "agatha137",
     "sugarbae_haze",
@@ -111,11 +101,6 @@ let cb1Primary = [
     "lillpio",
     "heyhorny_cb",
     "projectdanta"
-];
-let cb2Primary = [
-    "stephaweb",
-    "lure_purrpurr",
-    "_sweetcams_"
 ];
 
 let fn__cb0Primary = async () => { cb0Primary.forEach(m => addModel(m, 30)); }
