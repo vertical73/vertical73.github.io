@@ -73,7 +73,6 @@ let cb0Primary = [
     "sugar_club",
     "juliet_bb",
     "miatooresss",
-    "ann_hoffman",
     "milena_manin"
 ];
 let cb1Primary = [
