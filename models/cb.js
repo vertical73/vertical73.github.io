@@ -80,6 +80,8 @@ let cb0Primary = [
     "coverm",
     "sunny_maria",
     "juliacontrol",
+    "kathyclarks",
+    "joycehalle",
     "milena_manin"
 ];
 let cb1Primary = [
