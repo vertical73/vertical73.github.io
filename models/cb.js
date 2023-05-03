@@ -81,7 +81,6 @@ let cb0Primary = [
     "juliacontrol",
     "weisssy",
     "normafuller",
-    "pafosstar",
     "_virtual_lady_",
     "milena_manin"
 ];
@@ -92,6 +91,7 @@ let cb1Primary = [
     "bestzoeyever",
     "lola_hill",
     "marybrent",
+    "pafosstar",
     "betty_witchy",
     "angelsquirting",
     "_maiko_",
