@@ -81,6 +81,7 @@ let cb0Primary = [
     "sunny_maria",
     "juliacontrol",
     "weisssy",
+    "ecsodia",
     "normafuller",
     "_virtual_lady_",
     "milena_manin"
