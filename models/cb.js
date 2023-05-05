@@ -45,7 +45,7 @@ let cb0Primary = [
     "little_vee",
     "shirleywatson",
     "blackmango_mary",
-    "sweet_tinker_bell",
+    "juliacontrol",
     "tiffanyhouston_",
     "evelissa",
     "lolly_bella_",
@@ -76,10 +76,10 @@ let cb0Primary = [
     "miatooresss",
     "coverm",
     "sunny_maria",
-    "juliacontrol",
     "weisssy",
     "ecsodia",
     "normafuller",
+    "sweet_tinker_bell",
     "_virtual_lady_",
     "milena_manin"
 ];
