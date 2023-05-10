@@ -1,5 +1,4 @@
 let cbPrimary = [
-    "freyaeva",
     "anna___hayley",
     "hayley__lee",
     "_milkyway",
@@ -8,7 +7,8 @@ let cbPrimary = [
     "candysfox",
     "alice_kosmos",
     "hayle_green",
-    "whitebanny"
+    "whitebanny",
+    "freyaeva"
 ];
 let cbSecondary = [
     "_valentina_69",
