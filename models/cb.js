@@ -72,7 +72,7 @@ let cb0Primary = [
     "playwithmil",
     "veronikaav",
     "ecsodia",
-    "miatooresss",
+    "luckysexydoll",
     "coverm",
     "sunny_maria",
     "weisssy",
@@ -91,6 +91,7 @@ let cb0Primary = [
 let cb1Primary = [
     "elizabad",
     "venusenvyx",
+    "miatooresss",
     "mary_delray",
     "bestzoeyever",
     "_maiko_",
