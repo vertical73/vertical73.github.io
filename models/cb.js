@@ -83,7 +83,6 @@ let cb0Primary = [
     "traceyalleni",
     "okssanna",
     "pretty_swallow",
-    "tessarosse_",
     "sweet_tinker_bell",
     "_virtual_lady_",
     "milena_manin"
@@ -94,6 +93,7 @@ let cb1Primary = [
     "miatooresss",
     "mary_delray",
     "bestzoeyever",
+    "tessarosse_",
     "_maiko_",
     "butterfly_on_dick",
     "thepleasureofsex",
