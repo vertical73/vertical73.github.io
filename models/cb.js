@@ -19,7 +19,6 @@ let cbSecondary = [
     "lovahd",
     "popsytopsy",
     "zoey_stonerr",
-    "freyaeva",
     "lola_bunny94",
     "annie_sweetyxx",
     "july_koss",
@@ -88,6 +87,7 @@ let cb0Primary = [
     "milena_manin"
 ];
 let cb1Primary = [
+    "freyaeva",
     "elizabad",
     "venusenvyx",
     "miatooresss",
