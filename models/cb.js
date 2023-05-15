@@ -66,7 +66,6 @@ let cb0Primary = [
     "joycehalle",
     "eatmystrawberryx",
     "dollyemy",
-    "ann_hoffman",
     "girl__phoenix",
     "playwithmil",
     "veronikaav",
