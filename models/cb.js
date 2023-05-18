@@ -73,6 +73,7 @@ let cb0Primary = [
     "juliacontrol",
     "coverm",
     "luckysexydoll",
+    "free_birdd",
     "sunny_maria",
     "weisssy",
     "sweeety_mia",
@@ -82,6 +83,7 @@ let cb0Primary = [
     "pretty_swallow",
     "valeriehill",
     "aurora_sleeping",
+    "agatha137",
     "sweet_tinker_bell",
     "_virtual_lady_",
     "milena_manin"
@@ -91,7 +93,6 @@ let cb1Primary = [
     "venusenvyx",
     "4ng37",
     "freyaeva",
-    "agatha137",
     "okssanna",
     "thepleasureofsex",
     "ritaorra_",
