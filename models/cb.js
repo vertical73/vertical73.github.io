@@ -93,7 +93,6 @@ let cb0Primary = [
 ];
 let cb1Primary = [
     "elizabad",
-    "venusenvyx",
     "4ng37",
     "free_birdd",
     "okssanna",
