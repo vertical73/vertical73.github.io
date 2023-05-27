@@ -46,7 +46,6 @@ let cb0Primary = [
     "shirleywatson",
     "blackmango_mary",
     "evelissa",
-    "lolly_bella_",
     "isia_slay",
     "mynameisnikki",
     "star_gazing",
@@ -96,6 +95,7 @@ let cb0Primary = [
 let cb1Primary = [
     "lexy_sinn",
     "yournaughtymiss",
+    "lolly_bella_",
     "4ng37",
     "babydoll_laura",
     "thepleasureofsex",
