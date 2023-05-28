@@ -55,7 +55,6 @@ let cb0Primary = [
     "aurora_sleeping",
     "ksensational",
     "vilanelle_1",
-    "rubyhansen",
     "playwithmil",
     "bunnydollstella",
     "goldteachers",
