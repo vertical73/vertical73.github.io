@@ -95,7 +95,6 @@ let cb1Primary = [
     "lolly_bella_",
     "4ng37",
     "crazzy_cherry",
-    "mia_elfie",
     "tiffanyhouston_",
     "anna_bri",
     "babydoll_laura",
