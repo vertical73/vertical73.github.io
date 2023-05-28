@@ -85,7 +85,6 @@ let cb0Primary = [
     "sexy_blonde0",
     "alisa_foxxx",
     "wowshumm",
-    "honeyroxy",
     "sweet_tinker_bell",
     "_virtual_lady_",
     "milena_manin"
@@ -98,6 +97,7 @@ let cb1Primary = [
     "crazzy_cherry",
     "tiffanyhouston_",
     "anna_bri",
+    "honeyroxy",
     "babydoll_laura",
     "thepleasureofsex",
     "ritaorra_",
