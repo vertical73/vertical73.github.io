@@ -49,6 +49,7 @@ let cb0Primary = [
     "mynameisnikki",
     "star_gazing",
     "bigorgasm4me",
+    "mint_rose",
     "maryvi",
     "lastdawn",
     "evelissa",
