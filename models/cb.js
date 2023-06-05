@@ -60,8 +60,6 @@ let cb0Primary = [
     "little_vee",
     "weisssy",
     "aurora_sleeping",
-    "playwithmil",
-    "lovely_milka",
     "goldteachers",
     "rosykindred",
     "bunnydollstella",
@@ -92,6 +90,8 @@ let cb0Primary = [
     "wowshumm",
     "normafuller",
     "ksensational",
+    "playwithmil",
+    "lovely_milka",
     "sweet_tinker_bell",
     "_virtual_lady_",
     "milena_manin"
