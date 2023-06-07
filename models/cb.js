@@ -91,6 +91,7 @@ let cb0Primary = [
     "ksensational",
     "playwithmil",
     "palevoxxx",
+    "delicious_couple_",
     "lovely_milka",
     "sweet_tinker_bell",
     "_virtual_lady_",
