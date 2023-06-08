@@ -40,6 +40,7 @@ fn__cbPrimary();
 fn__cbSecondary();
 
 let cb0Primary = [
+    "pornostorys",
     "katrin_sweeft",
     "vikinamnu",
     "_dopping_",
