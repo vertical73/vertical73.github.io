@@ -83,7 +83,6 @@ let cb0Primary = [
     "emillywattson",
     "alisa_foxxx",
     "your_misstress",
-    "fsupra",
     "skinny_alice",
     "agatha137",
     "valeriehilll",
@@ -92,7 +91,6 @@ let cb0Primary = [
     "palevoxxx",
     "delicious_couple_",
     "lovely_milka",
-    "giweria",
     "sweet_tinker_bell",
     "_virtual_lady_",
     "milena_manin"
