@@ -11,7 +11,6 @@ let cbPrimary = [
 ];
 let cbSecondary = [
     "bustykatia",
-    "marylanex",
     "lovahd",
     "xxlika",
     "popsytopsy",
@@ -19,6 +18,7 @@ let cbSecondary = [
     "zoey_stonerr",
     "lovelycaroline_",
     "qeeensgambit",
+    "marylanex",
     "pornostorys",
     "catanddickxxx",
     "alice_kosmos",
