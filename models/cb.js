@@ -81,7 +81,6 @@ let cb0Primary = [
     "ksensual",
     "_biscuitcake",
     "friend_foryou",
-    "wowshumm",
     "playwithmil",
     "lovely_milka",
     "masqueradeporn",
