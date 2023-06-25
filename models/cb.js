@@ -6,7 +6,7 @@ let cbPrimary = [
     "_misstics69_",
     "candysfox",
     "sweetkira555",
-    "hayle_green",
+    "xlorraine",
     "whitebanny"
 ];
 let cbSecondary = [
