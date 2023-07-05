@@ -60,7 +60,6 @@ let cb0Primary = [
     "evelissa",
     "ecsodia",
     "elizabad",
-    "marie_marie03",
     "bettymango",
     "vilanelle_1",
     "little_vee",
@@ -83,6 +82,7 @@ let cb0Primary = [
     "friend_foryou",
     "baby_yoda11",
     "myliss",
+    "marie_marie03",
     "sweet_tinker_bell",
     "_virtual_lady_"
 ];
