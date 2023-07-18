@@ -7,14 +7,14 @@ let cbPrimary = [
     "candysfox",
     "sweetkira555",
     "xlorraine",
-    "whitebanny"
+    "whitebanny",
+    "rosykindred"
 ];
 let cbSecondary = [
     "bustykatia",
     "lovahd",
     "xxlika",
     "popsytopsy",
-    "rosykindred",
     "zoey_stonerr",
     "lola_bunny94",
     "qeeensgambit",
