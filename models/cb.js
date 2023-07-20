@@ -5,15 +5,15 @@ let cbPrimary = [
     "wild_schoolgirl",
     "_misstics69_",
     "candysfox",
-    "sweetkira555",
     "xlorraine",
+    "xxlika",
+    "sweetkira555",
     "whitebanny",
     "rosykindred"
 ];
 let cbSecondary = [
     "bustykatia",
     "lovahd",
-    "xxlika",
     "popsytopsy",
     "zoey_stonerr",
     "lola_bunny94",
