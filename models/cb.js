@@ -82,7 +82,6 @@ let cb0Primary = [
     "ksensual",
     "marie_marie03",
     "hornyvillage",
-    "miami_kiss",
     "natalie_x",
     "ruby_burns",
     "lisanelsona",
