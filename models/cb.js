@@ -3,13 +3,13 @@ let cbPrimary = [
     "xxlika",
     "_milkyway",
     "xlorraine",
+    "rosykindred",
     "wild_schoolgirl",
     "whitebanny",
     "hayley__lee",
     "_misstics69_",
     "candysfox",
-    "sweetkira555",
-    "rosykindred"
+    "sweetkira555"
 ];
 let cbSecondary = [
     "bustykatia",
