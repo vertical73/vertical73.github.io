@@ -69,7 +69,6 @@ let cb0Primary = [
     "lexy_sinn",
     "love_digger",
     "yeepshy",
-    "diroill",
     "cumband",
     "karinalin18",
     "ohbabykelly",
@@ -83,7 +82,6 @@ let cb0Primary = [
     "tiffanyhouston_",
     "nikkibloomxoxo",
     "mia_elfie",
-    "dollorrie",
     "crazzy_cherry",
     "sweet_tinker_bell",
     "_virtual_lady_"
