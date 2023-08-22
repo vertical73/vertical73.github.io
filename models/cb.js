@@ -45,7 +45,6 @@ let cb0Primary = [
     "katrin_sweeft",
     "lovelycaroline_",
     "vikinamnu",
-    "_dopping_",
     "amazon_girl",
     "_valentina_69",
     "shirleywatson",
@@ -77,7 +76,6 @@ let cb0Primary = [
     "sandymiracle",
     "alisa_foxxx",
     "agatha137",
-    "valeriehilll",
     "ksensual",
     "natalie_x",
     "niravana_",
@@ -86,12 +84,7 @@ let cb0Primary = [
     "nikkibloomxoxo",
     "mia_elfie",
     "dollorrie",
-    "elizabethmad",
-    "yooraa",
     "crazzy_cherry",
-    "heyhorny_cb",
-    "adeletaylor",
-    "kriss_foxx",
     "sweet_tinker_bell",
     "_virtual_lady_"
 ];
