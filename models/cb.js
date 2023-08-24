@@ -76,13 +76,13 @@ let cb0Primary = [
     "sandymiracle",
     "alisa_foxxx",
     "agatha137",
-    "ksensual",
     "natalie_x",
-    "yournaughtymiss",
-    "tiffanyhouston_",
     "nikkibloomxoxo",
     "mia_elfie",
     "crazzy_cherry",
+    "yournaughtymiss",
+    "tiffanyhouston_",
+    "ksensual",
     "sweet_tinker_bell",
     "_virtual_lady_"
 ];
