@@ -66,7 +66,6 @@ let cb0Primary = [
     "allison__mack",
     "tallulah2004",
     "scarletmore",
-    "love_digger",
     "shirleywatson",
     "crazzy_cherry",
     "magic_couple13",
@@ -91,7 +90,8 @@ let cb0Primary = [
     "freyaeva",
     "mia_elfie",
     "sweet_tinker_bell",
-    "_virtual_lady_"
+    "_virtual_lady_",
+    "love_digger"
 ];
 let cb1Primary = [
     "aurora_sleeping",
