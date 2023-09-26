@@ -14,7 +14,6 @@ let cbPrimary = [
 let cbSecondary = [
     "bustykatia",
     "lovahd",
-    "popsytopsy",
     "zoey_stonerr",
     "lola_bunny94",
     "qeeensgambit",
@@ -52,6 +51,7 @@ let cb0Primary = [
     "bigorgasm4us",
     "isia_slay",
     "marylanex",
+    "popsytopsy",
     "ecsodia",
     "elizabad",
     "_kyllie_",
