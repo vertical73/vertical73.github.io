@@ -65,7 +65,6 @@ let cb0Primary = [
     "mary_delray",
     // "allison__mack", // soft spanking, no anal
     "scarletmore",
-    "kateharrise",
     "shirleywatson",
     "crazzy_cherry",
     "nikkibloom_xoxo",
@@ -90,6 +89,7 @@ let cb0Primary = [
     "maddieb696",
     "_biscuitcake",
     "tallulah2004",
+    "kateharrise",
     "xxx_leila",
     "ksensual",
     "tiffanyhouston_",
