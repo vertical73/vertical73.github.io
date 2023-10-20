@@ -66,7 +66,6 @@ let cb0Primary = [
     // "allison__mack", // soft spanking, no anal
     "scarletmore",
     "shirleywatson",
-    "crazzy_cherry",
     "nikkibloom_xoxo", // nikkibloomxoxo
     "yournaughtymiss",
     "miss3_alina",
@@ -75,6 +74,7 @@ let cb0Primary = [
     "weisssy",
     "lexy_sinn",
     "yeepshy",
+    "cynthiajohnsons",
     "millimilk",
     "love_digger",
     "karinalin18",
@@ -83,8 +83,8 @@ let cb0Primary = [
     "freyaeva",
     "agatha137",
     "natalie_x",
+    "crazzy_cherry",
     "4ng37",
-    "cynthiajohnsons",
     "patricia_blair_",
     "barbara_bloom",
     "maddieb696",
