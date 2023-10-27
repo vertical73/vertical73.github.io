@@ -92,7 +92,6 @@ let cb0Primary = [
     "tallulah2004",
     "enchant_baby_",
     "kateharrise",
-    "charityryan",
     "ksensual",
     "sweet_tinker_bell",
     "tiffanyhouston_",
