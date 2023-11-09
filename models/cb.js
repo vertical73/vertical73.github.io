@@ -106,7 +106,8 @@ let cb0Primary = [
     "bunnydollstella",
     "ohbabykelly",
     "mia_elfie",
-    "_virtual_lady_"
+    "_virtual_lady_",
+    "sarasuo"
 ];
 let cb1Primary = [
     "aurora_sleeping",
