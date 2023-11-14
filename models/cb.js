@@ -94,6 +94,7 @@ let cb0Primary = [
     "sofia__home",
     "aria_muv",
     "isabelle_hadid",
+    "veronikaav",
     "patricia_blair_",
     "barbara_bloom",
     "_biscuitcake",
