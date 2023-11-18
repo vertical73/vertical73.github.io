@@ -66,6 +66,7 @@ let cb0Primary = [
     "freyaeva",
     "elizabad",
     "juliet_bb",
+    "_taylor_swift",
     "mary_delray",
     // "allison__mack", // soft spanking, no anal
     "scarletmore",
@@ -76,7 +77,6 @@ let cb0Primary = [
     "sandymiracle",
     "alisa_foxxx",
     "anfisavisti",
-    "_taylor_swift",
     "ksensual",
     "sweet_tinker_bell",
     "tiffanyhouston_",
