@@ -71,7 +71,6 @@ let cb0Primary = [
     // "allison__mack", // soft spanking, no anal
     "scarletmore",
     "shirleywatson",
-    "lexy_sinn",
     "yeepshy",
     "alisa_foxxx",
     "anfisavisti",
