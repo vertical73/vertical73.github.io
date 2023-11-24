@@ -42,7 +42,6 @@ fn__cbSecondary();
 
 let cb0Primary = [
     "mynameisnikki",
-    "star_gazing",
     "_kyllie_",
     "vikinamnu",
     "lastdawn",
@@ -57,8 +56,10 @@ let cb0Primary = [
     "evelissa",
     "vilanelle_1",
     "myliss",
+    "_taylor_swift",
     "nikkibloom_xoxo", // nikkibloomxoxo
     "yournaughtymiss",
+    "star_gazing",
     "anna_bri",
     "lovelycaroline_",
     "little_vee",
@@ -66,7 +67,6 @@ let cb0Primary = [
     "freyaeva",
     "elizabad",
     "juliet_bb",
-    "_taylor_swift",
     "mary_delray",
     // "allison__mack", // soft spanking, no anal
     "scarletmore",
