@@ -7,8 +7,7 @@ let cbPrimary = [
     "wild_schoolgirl",
     "_misstics69_",
     "candysfox",
-    "sweetkira555",
-    "alis_molli"
+    "sweetkira555"
 ];
 let cbSecondary = [
     "bustykatia",
@@ -17,6 +16,7 @@ let cbSecondary = [
     "lola_bunny94",
     "blackmango_mary",
     "milly____",
+    "alis_molli",
     "qeeensgambit",
     "catanddickxxx",
     "alice_kosmos",
