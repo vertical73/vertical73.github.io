@@ -107,6 +107,7 @@ let cb0Primary = [
     "yuriogata",
     "bunnydollstella",
     "intim_mate",
+    "ivy_whyte",
     "ohbabykelly",
     "mia_elfie",
     "_virtual_lady_",
