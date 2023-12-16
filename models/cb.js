@@ -90,15 +90,15 @@ let cb0Primary = [
     "vanila_cream_",
     "playwithmil",
     "yuriogata",
+    "popa_zopa"
+];
+let cb1Primary = [
+    "aurora_sleeping",
     "bunnydollstella",
     "ohbabykelly",
     "mia_elfie",
     "_virtual_lady_",
     "niravana_",
-    "popa_zopa"
-];
-let cb1Primary = [
-    "aurora_sleeping",
     "thepleasureofsex",
     "ritaorra_",
     "funnysimka",
