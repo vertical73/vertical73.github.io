@@ -23,8 +23,6 @@ let cbSecondary = [
     "masqueradeporn",
     "whitebanny",
     "maryvi",
-    "demmi_foxy",
-    "dollyemy",
     "hayley__lee",
     "annie_sweetyxx",
     "july_koss",
@@ -43,6 +41,8 @@ fn__cbSecondary();
 
 let cb0Primary = [
     "lexy_sinn",
+    "demmi_foxy",
+    "dollyemy",
     "lastdawn",
     "evelissa",
     "vilanelle_1",
@@ -77,7 +77,6 @@ let cb0Primary = [
     "ksensual",
     "sweet_tinker_bell",
     "tiffanyhouston_",
-    "uwunikaa",
     "vanilla_lips",
     "diroill",
     "neondemon_",
