@@ -89,7 +89,8 @@ let cb0Primary = [
     "vanila_cream_",
     "playwithmil",
     "yuriogata",
-    "popa_zopa"
+    "popa_zopa",
+    "petite_amely"
 ];
 let cb1Primary = [
     "aurora_sleeping",
