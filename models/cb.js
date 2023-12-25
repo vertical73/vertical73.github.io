@@ -42,7 +42,6 @@ fn__cbSecondary();
 
 let cb0Primary = [
     "milly____",
-    "demmi_foxy",
     "dollyemy",
     "lastdawn",
     "evelissa",
@@ -69,6 +68,7 @@ let cb0Primary = [
     "elizabad",
     "juliet_bb",
     // "allison__mack", // soft spanking, no anal
+    "demmi_foxy",
     "scarletmore",
     "yeepshy",
     "alisa_foxxx",
@@ -79,6 +79,7 @@ let cb0Primary = [
     "vanilla_lips",
     "diroill",
     "neondemon_",
+    "babysaymyname",
     "sandymiracle",
     "agatha137",
     "vikinamnu",
