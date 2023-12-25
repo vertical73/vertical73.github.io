@@ -23,7 +23,6 @@ let cbSecondary = [
     "anna_bri",
     "lexy_sinn",
     "whitebanny",
-    "hayley__lee",
     "annie_sweetyxx",
     "july_koss",
     "_woweva__",
@@ -59,7 +58,7 @@ let cb0Primary = [
     "bigorgasm4us",
     "jilly_wolly1",
     "pornostorys",
-    "isia_slay",
+    "hayley__lee",
     "popsytopsy",
     "ecsodia",
     "marylanex",
@@ -92,7 +91,8 @@ let cb0Primary = [
     "yuriogata",
     "popa_zopa",
     "petite_amely",
-    "olsenspring"
+    "olsenspring",
+    "isia_slay"
 ];
 let cb1Primary = [
     "aurora_sleeping",
