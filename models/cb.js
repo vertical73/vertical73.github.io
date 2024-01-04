@@ -25,6 +25,7 @@ let cbSecondary = [
     "jilly_wolly1",
     "anna_bri",
     "evelissa",
+    "dreamsstream",
     "masqueradeporn",
     "annie_sweetyxx",
     "july_koss",
@@ -95,7 +96,6 @@ let cb0Primary = [
     "coy_tessa_",
     "mia_elfie",
     "adeletaylor",
-    "dreamsstream",
     "_candy_shop__",
     "felissiany",
     "isia_slay"
