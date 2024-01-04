@@ -97,6 +97,7 @@ let cb0Primary = [
     "adeletaylor",
     "dreamsstream",
     "_candy_shop__",
+    "felissiany",
     "isia_slay"
 ];
 let cb1Primary = [
