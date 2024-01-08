@@ -24,7 +24,6 @@ let cbSecondary = [
     "whitebanny",
     "jilly_wolly1",
     "evelissa",
-    "dreamsstream",
     "masqueradeporn",
     "annie_sweetyxx",
     "july_koss",
@@ -67,6 +66,7 @@ let cb0Primary = [
     "star_gazing",
     "kotosqvad",
     "elizabad",
+    "dreamsstream",
     "juliet_bb",
     // "allison__mack", // soft spanking, no anal
     "demmi_foxy",
