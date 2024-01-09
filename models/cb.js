@@ -4,21 +4,21 @@ let cbPrimary = [
     "_milkyway",
     "xlorraine",
     "rosykindred",
-    "wild_schoolgirl",
-    "_misstics69_",
     "candysfox",
-    "sweetkira555"
+    "sweetkira555",
+    "alice_kosmos",
+    "wild_schoolgirl"
 ];
 let cbSecondary = [
     "bustykatia",
     "lovahd",
     "zoey_stonerr",
     "lola_bunny94",
+    "_misstics69_",
     "blackmango_mary",
     "alis_molli",
     "qeeensgambit",
     "catanddickxxx",
-    "alice_kosmos",
     "lexy_sinn",
     "esther_estrie",
     "whitebanny",
