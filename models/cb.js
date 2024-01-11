@@ -103,6 +103,7 @@ let cb0Primary = [
     "mary_delray",
     "sky_magic",
     "alissondolce",
+    "jelly_w",
     "isia_slay"
 ];
 let cb1Primary = [
