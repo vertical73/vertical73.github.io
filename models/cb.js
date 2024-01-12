@@ -70,7 +70,6 @@ let cb0Primary = [
     "dovia",
     "juliet_bb",
     // "allison__mack", // soft spanking, no anal
-    "demmi_foxy",
     "scarletmore",
     "yeepshy",
     "alisa_foxxx",
@@ -88,6 +87,9 @@ let cb0Primary = [
     "karinalin18",
     "veronikaav",
     "barbara_bloom",
+    "jelly_w",
+    "amypierceb",
+    "demmi_foxy",
     "sarahcarrter",
     "vanila_cream_",
     "playwithmil",
@@ -103,8 +105,6 @@ let cb0Primary = [
     "mary_delray",
     "sky_magic",
     "alissondolce",
-    "jelly_w",
-    "amypierceb",
     "isia_slay"
 ];
 let cb1Primary = [
