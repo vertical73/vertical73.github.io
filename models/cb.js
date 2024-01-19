@@ -91,9 +91,6 @@ let cb0Primary = [
     "playwithmil",
     "sandymiracle",
     "agatha137",
-    "vikinamnu",
-    "demmi_foxy",
-    "amypierceb",
     "yuriogata",
     "olsenspring",
     "mia_elfie",
@@ -105,6 +102,7 @@ let cb0Primary = [
     "coy_tessa_",
     "sky_magic",
     "alissondolce",
+    "natalie_x",
     "isia_slay"
 ];
 let cb1Primary = [
