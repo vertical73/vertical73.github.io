@@ -95,7 +95,6 @@ let cb0Primary = [
     "callme_star",
     "mary_delray",
     "barbara_bloom",
-    "chatur_babes_",
     "natalie_x",
     "isia_slay"
 ];
