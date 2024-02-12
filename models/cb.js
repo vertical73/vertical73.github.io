@@ -95,11 +95,11 @@ let cb0Primary = [
     "natalie_x",
     "_just_beautiful_",
     "infinite_desire",
+    "shineblue2728",
+    "playwithmil",
     "shysashy",
     "fox_alina",
     "xxx_leila",
-    "shineblue2728",
-    "playwithmil",
     "isia_slay"
 ];
 let cb1Primary = [
