@@ -98,7 +98,6 @@ let cb0Primary = [
     "infinite_desire",
     "shineblue2728",
     "playwithmil",
-    "shysashy",
     "fox_alina",
     "isia_slay"
 ];
