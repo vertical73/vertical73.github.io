@@ -24,6 +24,7 @@ let cbSecondary = [
     "whitebanny",
     "jilly_wolly1",
     "evelissa",
+    "milly____",
     "annie_sweetyxx",
     "july_koss",
     "_woweva__",
@@ -40,7 +41,6 @@ fn__cbPrimary();
 fn__cbSecondary();
 
 let cb0Primary = [
-    "milly____",
     "_misstics69_",
     "anna_bri",
     "dollyemy",
@@ -93,7 +93,6 @@ let cb0Primary = [
     "mia_elfie",
     "firumu",
     "evelin_gh1",
-    "natalie_x",
     "_just_beautiful_",
     "infinite_desire",
     "shineblue2728",
@@ -103,7 +102,9 @@ let cb0Primary = [
     "isia_slay"
 ];
 let cb1Primary = [
-    "sofiabruno"
+    "sofiabruno",
+    "natalie_x",
+    "chatur_babes_"
 ];
 
 let fn__cb0Primary = async () => { cb0Primary.forEach(m => addModel(m, 30)); }
