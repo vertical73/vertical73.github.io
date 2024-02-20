@@ -90,7 +90,6 @@ let cb0Primary = [
     "best_star_",
     "divlady", // barbara_bloom
     "firumu",
-    "evelin_gh1",
     "_just_beautiful_",
     "infinite_desire",
     "playwithmil",
@@ -101,6 +100,7 @@ let cb0Primary = [
 let cb1Primary = [
     "aria_diaz",
     "irenetod",
+    "evelin_gh1",
     "sofiabruno",
     "natalie_x",
     "chatur_babes_"
