@@ -90,14 +90,14 @@ let cb0Primary = [
     "mia_elfie",
     "best_star_",
     "divlady", // barbara_bloom
-    "firumu",
     "_just_beautiful_",
     "infinite_desire",
     "playwithmil",
     "fox_alina",
-    "violett_bray",
     "sasha_slim",
-    "erinwils"
+    "erinwils",
+    "violett_bray",
+    "firumu"
 ];
 let cb1Primary = [
     "aria_diaz",
