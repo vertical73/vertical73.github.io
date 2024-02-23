@@ -99,7 +99,8 @@ let cb0Primary = [
     "_virtual_lady_",
     "violett_bray",
     "firumu",
-    "e_______"
+    "e_______",
+    "jelli_jennifer"
 ];
 let cb1Primary = [
     "aria_diaz",
