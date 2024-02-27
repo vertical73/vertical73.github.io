@@ -102,7 +102,6 @@ let cb0Primary = [
     "firumu",
     "e_______",
     "jelli_jennifer",
-    "annaise_",
     "infinite_desire"
 ];
 let cb1Primary = [
