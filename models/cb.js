@@ -88,7 +88,6 @@ let cb0Primary = [
     "vanilla_lips",
     "yuriogata",
     "mia_elfie",
-    "divlady", // barbara_bloom
     "_just_beautiful_",
     "infinite_desire",
     "fox_alina",
