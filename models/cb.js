@@ -21,6 +21,7 @@ let cbSecondary = [
     "qeeensgambit",
     "lexy_sinn",
     "flowerr_powerr",
+    "marylanex",
     "whitebanny",
     "jilly_wolly1",
     "evelissa",
@@ -61,7 +62,6 @@ let cb0Primary = [
     "ecsodia",
     "hornyvillage",
     "pornostorys",
-    "marylanex",
     "nikkibloom_xoxo", // nikkibloomxoxo
     "freyaeva",
     "beatrice_melton",
