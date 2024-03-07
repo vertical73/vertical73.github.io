@@ -71,11 +71,15 @@ let cb0Primary = [
     "juliet_bb",
     "alisa_foxxx",
     "anfisavisti",
-    "sweet_tinker_bell",
     "neondemon_",
     "_isiah", // "isia_slay",
     "lastdawn",
+
+    // strictly eye candy
+    "sweet_tinker_bell",
     "ksensual",
+    "sophia_lean",
+
     "lovelycaroline_",
     "katie___cat",
     "jelly_w",
