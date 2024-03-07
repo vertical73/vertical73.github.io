@@ -62,24 +62,25 @@ let cb0Primary = [
     "ecsodia",
     "hornyvillage",
     "pornostorys",
-    "nikkibloom_xoxo", // nikkibloomxoxo
     "freyaeva",
     "beatrice_melton",
     "star_gazing",
     "kotosqvad",
     "elizabad",
     "juliet_bb",
-    "alisa_foxxx",
-    "anfisavisti",
     "neondemon_",
     "_isiah", // "isia_slay",
+    "nikkibloom_xoxo", // nikkibloomxoxo
     "lastdawn",
 
     // strictly eye candy
     "sweet_tinker_bell",
+    "tiffanyhouston_",
     "ksensual",
     "sophia_lean",
 
+    "alisa_foxxx",
+    "anfisavisti",
     "lovelycaroline_",
     "katie___cat",
     "jelly_w",
@@ -87,7 +88,6 @@ let cb0Primary = [
     "hannahlusttt",
     "mary_delray",
     "monica_passion",
-    "tiffanyhouston_",
     "vanilla_lips",
     "yuriogata",
     "mia_elfie",
