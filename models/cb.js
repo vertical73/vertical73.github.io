@@ -107,7 +107,6 @@ let cb0Primary = [
     "firumu",
     "e_______",
     "jelli_jennifer",
-    "infinite_desire",
     "brittany_bird",
     "jessica_gill",
     "stefaagomez",
