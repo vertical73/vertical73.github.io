@@ -109,9 +109,7 @@ let cb0Primary = [
     "jelli_jennifer",
     "brittany_bird",
     "stefaagomez",
-    "luckysexydoll",
-    "heidas_passion",
-    "alice_lady2020"
+    "luckysexydoll"
 ];
 let cb1Primary = [
     "aria_diaz",
