@@ -63,8 +63,6 @@ let cb0Primary = [
     "pornostorys",
     "freyaeva",
     "beatrice_melton",
-    "star_gazing",
-    "kotosqvad",
     "elizabad",
     "neondemon_",
     "juliet_bb",
@@ -72,6 +70,7 @@ let cb0Primary = [
     "nikkibloom_xoxo", // nikkibloomxoxo
     "lastdawn",
     "mia_elfie",
+    "star_gazing",
 
     // strictly eye candy
     "sweet_tinker_bell",
@@ -88,6 +87,7 @@ let cb0Primary = [
     "jelly_w",
     "hannahlusttt",
     "mary_delray",
+    "kotosqvad",
     "vanilla_lips",
     "yuriogata",
     "_just_beautiful_",
