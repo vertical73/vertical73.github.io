@@ -69,6 +69,7 @@ let cb0Primary = [
     "_isiah", // "isia_slay",
     "nikkibloom_xoxo", // nikkibloomxoxo
     "lastdawn",
+    "goth_dolll",
     "mia_elfie",
     "star_gazing",
 
