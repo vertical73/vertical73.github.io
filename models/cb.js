@@ -106,6 +106,8 @@ let cb0Primary = [
     "_virtual_lady_",
     "firumu",
     "e_______",
+    "infinite_desire",
+    "jelly_w5",
     "fox_alina",
     "ab_s",
     "inkanuko"
