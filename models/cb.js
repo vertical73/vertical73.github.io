@@ -88,7 +88,6 @@ let cb0Primary = [
     "smile_with_nicole",
     "oxxme",
     "fleur_avelle",
-    "olsenspring",
     "alisa_foxxx",
     "anfisavisti",
     "lovelycaroline_",
@@ -99,12 +98,9 @@ let cb0Primary = [
     "luckysexydoll",
     "sasha_slim",
     "the_truewoman_show",
-    "kotosqvad",
     "vanilla_lips",
     "yuriogata",
     "_just_beautiful_",
-    "pmella_xilmi",
-    "rainaslater",
     "playwithmil",
     "agatha137",
     "_virtual_lady_",
@@ -115,8 +111,8 @@ let cb0Primary = [
     "fox_alina",
     "ab_s",
     "bigorgasm4us",
-    "goth_dolll",
-    "inkanuko"
+    "inkanuko",
+    "goth_dolll"
 ];
 let cb1Primary = [
     "aria_diaz",
