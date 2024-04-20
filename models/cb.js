@@ -45,6 +45,7 @@ fn__cbSecondary();
 
 let cb0Primary = [
     "misstics_",
+    "neondemon_",
     "lexy_sinn",
     "dollyemy",
     "veronikaav",
@@ -61,7 +62,6 @@ let cb0Primary = [
     "pornostorys",
     "beatrice_melton",
     "elizabad",
-    "neondemon_",
     "juliet_bb",
     "_isiah", // "isia_slay",
     "nikkibloom_xoxo", // nikkibloomxoxo
