@@ -112,8 +112,7 @@ let cb0Primary = [
     "ab_s",
     "bigorgasm4us",
     "inkanuko",
-    "goth_dolll",
-    "smile_with_nicole"
+    "goth_dolll"
 ];
 let cb1Primary = [
     "aria_diaz",
