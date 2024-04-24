@@ -46,11 +46,11 @@ function channelImgId(modelName) {
 }
 
 function channelImgUrl(modelName) {
-    return "https://roomimg.stream.highwebmedia.com/ri/" + modelName + ".jpg";
+    return "https://thumb.live.mmcdn.com/riw/" + modelName + ".jpg";
 }
 
 function channelActiveUrl(modelName) {
-    return "https://cbjpeg.stream.highwebmedia.com/minifwap/" + modelName + ".jpg?f=" + Date.now();
+    return "https://thumb.live.mmcdn.com/minifwap/" + modelName + ".jpg?f=" + Date.now();
 }
 
 function chaturbateUrl(modelName) {
