@@ -75,6 +75,7 @@ let cb0Primary = [
     "chloe_moor",
     "reddfoxxy",
     "_eva_blame_",
+    "asr_porter",
 
     // strictly eye candy
     "sweet_tinker_bell",
