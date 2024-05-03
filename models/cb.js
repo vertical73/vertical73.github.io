@@ -72,11 +72,6 @@ let cb0Primary = [
     "anna_bri",
     "popsytopsy",
     "stela_artois",
-    "chloe_moor",
-    "reddfoxxy",
-    "_eva_blame_",
-    "asr_porter",
-    "yesiamjasse",
 
     // strictly eye candy
     "sweet_tinker_bell",
@@ -93,6 +88,11 @@ let cb0Primary = [
     "lovelycaroline_",
     "katie___cat",
     "luckysexydoll",
+    "chloe_moor",
+    "reddfoxxy",
+    "_eva_blame_",
+    "asr_porter",
+    "yesiamjasse",
     "oh_sunny_",
     "oxxme",
     "jelly_w",
