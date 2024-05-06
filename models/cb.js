@@ -73,6 +73,9 @@ let cb0Primary = [
     "popsytopsy",
     "stela_artois",
     "amelia_chi",
+    "mercy_bloom",
+    "mary_delray",
+    "luckysexydoll",
 
     // strictly eye candy
     "sweet_tinker_bell",
@@ -82,14 +85,12 @@ let cb0Primary = [
     "sophia_lean",
     "audreycarvin",
 
-    "mercy_bloom",
     "alisevine",
     "_pinkpay",
     "fleur_avelle",
     "alisa_foxxx",
     "lovelycaroline_",
     "katie___cat",
-    "luckysexydoll",
     "chloe_moor",
     "reddfoxxy",
     "_eva_blame_",
@@ -99,7 +100,6 @@ let cb0Primary = [
     "oxxme",
     "jelly_w",
     "hannahlusttt",
-    "mary_delray",
     "poisonn_girll",
     "sasha_slim",
     "the_truewoman_show",
