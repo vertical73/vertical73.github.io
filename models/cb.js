@@ -75,6 +75,7 @@ let cb0Primary = [
     "amelia_chi",
     "mercy_bloom",
     "mary_delray",
+    "lilla_cutie",
     "luckysexydoll",
 
     // strictly eye candy
