@@ -72,7 +72,6 @@ let cb0Primary = [
     "anna_bri",
     "popsytopsy",
     "stela_artois",
-    "mercy_bloom",
     "mary_delray",
     "luckysexydoll",
     "fleur_x_x",
@@ -122,7 +121,8 @@ let cb0Primary = [
     "bigorgasm4us",
     "inkanuko",
     "amelia_chi",
-    "postbaby"
+    "postbaby",
+    "mercy_bloom"
 ];
 let cb1Primary = [
     "goth_dolll",
