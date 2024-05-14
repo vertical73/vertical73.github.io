@@ -121,8 +121,7 @@ let cb0Primary = [
     "bigorgasm4us",
     "inkanuko",
     "amelia_chi",
-    "postbaby",
-    "mercy_bloom"
+    "postbaby"
 ];
 let cb1Primary = [
     "goth_dolll",
@@ -131,6 +130,7 @@ let cb1Primary = [
     "lilla_cutie",
     "sofiabruno",
     "natalie_x",
+    "mercy_bloom",
     "chatur_babes_"
 ];
 
