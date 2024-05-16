@@ -99,6 +99,7 @@ let cb0Primary = [
     "chloe_moor",
     "_eva_blame_",
     "asr_porter",
+    "emilly_angel",
     "yesiamjasse",
     "oh_sunny_",
     "oxxme",
