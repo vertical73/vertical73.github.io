@@ -2,7 +2,7 @@ let cbPrimary = [
     "anna___hayley",
     "xxlika",
     "_milkyway",
-    "xlorraine", "haisley_dream1",
+    "haisley_dream1", // "hayle_green", "xlorraine", 
     "little_vee",
     "sweetkira555",
     "esther_estrie",
@@ -81,6 +81,16 @@ let cb0Primary = [
     "secrets_eli",
     "charming_melody",
     "christiewells22",
+    "alisevine",
+    "_pinkpay",
+    "fleur_avelle",
+    "alisa_foxxx",
+    "lovelycaroline_",
+    "chloe_moor",
+    "katie___cat",
+    "_eva_blame_",
+    "asr_porter",
+    "emilly_angel",
 
     // strictly eye candy
     "sweet_tinker_bell",
@@ -90,15 +100,6 @@ let cb0Primary = [
     "sophia_lean",
     "audreycarvin",
 
-    "alisevine",
-    "_pinkpay",
-    "fleur_avelle",
-    "alisa_foxxx",
-    "lovelycaroline_",
-    "katie___cat",
-    "chloe_moor",
-    "_eva_blame_",
-    "asr_porter",
     "yesiamjasse",
     "oh_sunny_",
     "oxxme",
@@ -113,10 +114,9 @@ let cb0Primary = [
     "heidas_passion",
     "agatha137",
     "_virtual_lady_",
-    "firumu",
     "e_______",
     "infinite_desire",
-    "jelly_w5", "jelly_w",
+    "jelly_w5", // "jelly_w",
     "fox_alina",
     "ab_s",
     "bigorgasm4us",
@@ -124,16 +124,19 @@ let cb0Primary = [
     "my_lou",
     "inkanuko",
     "amelia_chi",
-    "postbaby",
-    "emilly_angel"
+    "postbaby"
 ];
 let cb1Primary = [
     "goth_dolll",
     "hot_ho",
     "charming__kitty",
     "lilla_cutie",
-    "sofiabruno",
     "natalie_x",
+
+    // strictly eye candy
+    "sofiabruno",
+    "firumu",
+
     "mercy_bloom",
     "chatur_babes_"
 ];
