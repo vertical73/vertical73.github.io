@@ -88,7 +88,6 @@ let cb0Primary = [
     "katie___cat",
     "_eva_blame_",
     "asr_porter",
-    "emilly_angel",
     "lonelly_lolly98",
 
     // strictly eye candy
@@ -127,8 +126,7 @@ let cb0Primary = [
     "postbaby",
     "christiewells22",
     "marin_kitagava",
-    "stacy_lees",
-    "fazeyj"
+    "stacy_lees"
 ];
 let cb1Primary = [
     "goth_dolll",
@@ -137,6 +135,8 @@ let cb1Primary = [
     "lilla_cutie",
     "natalie_x",
     "yesiamjasse",
+    "emilly_angel",
+    "fazeyj",
 
     // strictly eye candy
     "sofiabruno",
