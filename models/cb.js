@@ -126,7 +126,8 @@ let cb0Primary = [
     "postbaby",
     "christiewells22",
     "marin_kitagava",
-    "stacy_lees"
+    "stacy_lees",
+    "fazeyj"
 ];
 let cb1Primary = [
     "goth_dolll",
@@ -136,7 +137,6 @@ let cb1Primary = [
     "natalie_x",
     "yesiamjasse",
     "emilly_angel",
-    "fazeyj",
 
     // strictly eye candy
     "sofiabruno",
