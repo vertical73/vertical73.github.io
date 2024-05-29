@@ -56,6 +56,7 @@ let cb0Primary = [
     "yournaughtymiss",
     "mynameisnikki",
     "amazon_girl",
+    "_taylor_swift",
     "_valentina_69",
     "hayley__lee",
     "vilanelle_1",
@@ -68,7 +69,6 @@ let cb0Primary = [
     "nikkibloom_xoxo", // nikkibloomxoxo
     "mia_elfie",
     "star_gazing",
-    "_taylor_swift",
     "anna_bri",
     "popsytopsy",
     "stela_artois",
