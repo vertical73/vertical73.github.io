@@ -94,9 +94,7 @@ let cb0Primary = [
     "tiffanyhouston_",
     "ksensual",
     "sunny_maria",
-    "sophia_lean",
     "audreycarvin",
-    "firumu",
 
     "hannahlusttt",
     "poisonn_girll",
@@ -137,6 +135,8 @@ let cb1Primary = [
 
     // strictly eye candy
     "sofiabruno",
+    "sophia_lean",
+    "firumu",
 
     "mercy_bloom",
     "chatur_babes_",
