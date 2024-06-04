@@ -97,7 +97,6 @@ let cb0Primary = [
     "audreycarvin",
 
     "hannahlusttt",
-    "poisonn_girll",
     "sasha_slim",
     "the_truewoman_show",
     "vanilla_lips",
@@ -143,7 +142,8 @@ let cb1Primary = [
     "chatur_babes_",
     "fazeyj",
     "dovia",
-    "lonelly_lolly98"
+    "lonelly_lolly98",
+    "poisonn_girll"
 ];
 
 let fn__cb0Primary = async () => { cb0Primary.forEach(m => addModel(m, 30)); }
