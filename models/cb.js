@@ -65,14 +65,14 @@ let cb0Primary = [
     "pornostorys",
     "beatrice_melton",
     "elizabad",
-    "juliet_bb",
-    "nikkibloom_xoxo", // nikkibloomxoxo
+    "juliet_bb"
     "mia_elfie",
     "star_gazing",
     "anna_bri",
     "popsytopsy",
-    "stela_artois",
+    "nikkibloom_xoxo", // nikkibloomxoxo,
     "mary_delray",
+    "stela_artois",
     "luckysexydoll",
     "fleur_x_x",
     "reddfoxxy",
