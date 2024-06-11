@@ -94,7 +94,6 @@ let cb0Primary = [
     "sweet_tinker_bell",
     "tiffanyhouston_",
     "ksensual",
-    "sunny_maria",
 
     "hannahlusttt",
     "sasha_slim",
@@ -111,7 +110,6 @@ let cb0Primary = [
     "bigorgasm4us",
     "_wowyulia_",
     "my_lou",
-    "inkanuko",
     "amelia_chi",
     "postbaby",
     "marin_kitagava",
@@ -121,8 +119,8 @@ let cb0Primary = [
 ];
 let cb1Primary = [
     "heidas_passion",
+    "inkanuko",
     "infinite_desire",
-    "oh_sunny_",
     "oxxme",
     "goth_dolll",
     "hot_ho",
@@ -134,10 +132,12 @@ let cb1Primary = [
     "emilly_angel",
 
     // strictly eye candy
+    "sunny_maria",
     "sofiabruno",
     "sophia_lean",
     "firumu",
     "audreycarvin",
+    "oh_sunny_",
 
     "mercy_bloom",
     "chatur_babes_",
