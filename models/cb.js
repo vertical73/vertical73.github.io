@@ -113,11 +113,11 @@ let cb0Primary = [
     "marin_kitagava",
     "stacy_lees",
     "candy_sandy_",
-    "inkanuko"
+    "inkanuko",
+    "violett_bray"
 ];
 let cb1Primary = [
     "heidas_passion",
-    "violett_bray",
     "infinite_desire",
     "oxxme",
     "goth_dolll",
