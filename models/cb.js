@@ -92,6 +92,7 @@ let cb0Primary = [
     "asr_porter",
     "outerspace2000",
     "xyloria",
+    "lilla_cutie",
 
     // strictly eye candy
     "sweet_tinker_bell",
