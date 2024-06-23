@@ -117,7 +117,6 @@ let cb0Primary = [
     "violett_bray",
     "kriss_foxx",
     "ingergirl",
-    "tqla",
     "chloe_moor"
 ];
 let cb1Primary = [
@@ -150,7 +149,8 @@ let cb1Primary = [
     "fazeyj",
     "dovia",
     "lonelly_lolly98",
-    "poisonn_girll"
+    "poisonn_girll",
+    "tqla"
 ];
 
 let fn__cb0Primary = async () => { cb0Primary.forEach(m => addModel(m, 30)); }
