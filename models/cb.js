@@ -101,6 +101,8 @@ let cb0Primary = [
 
     "hannahlusttt",
     "ingergirl",
+    "lovely__alisa",
+
     "sasha_slim",
     "the_truewoman_show",
     "vanilla_lips",
