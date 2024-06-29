@@ -46,13 +46,11 @@ fn__cbPrimary();
 fn__cbSecondary();
 
 let cb0Primary = [
-    "veronikaav",
     "jilly_wolly1",
     "yournaughtymiss",
     "mynameisnikki",
     "amazon_girl",
     "_valentina_69",
-    "freyaeva",
     "hayley__lee",
     "myliss",
     "vilanelle_1",
@@ -60,6 +58,11 @@ let cb0Primary = [
     "masqueradeporn",
     "playwithmil",
     "pornostorys",
+    "lovely__alisa",
+    "mary_delray",
+
+    "veronikaav",
+    "freyaeva",
     "dollyemy",
     "ecsodia",
     "lastdawn",
@@ -69,7 +72,6 @@ let cb0Primary = [
     "juliet_bb",
     "mia_elfie",
     "star_gazing",
-    "mary_delray",
     "anna_bri",
     "popsytopsy",
     "jelly_w5", // "jelly_w",
@@ -101,7 +103,6 @@ let cb0Primary = [
 
     "hannahlusttt",
     "ingergirl",
-    "lovely__alisa",
 
     "sasha_slim",
     "the_truewoman_show",
