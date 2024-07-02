@@ -22,7 +22,6 @@ let cbSecondary = [
     "flowerr_powerr",
     "marylanex",
     "alis_molli",
-    "whitebanny",
     "evelissa",
     "_taylor_swift",
     "catanddickxxx",
@@ -63,6 +62,7 @@ let cb0Primary = [
 
     "veronikaav",
     "freyaeva",
+    "whitebanny",
     "dollyemy",
     "ecsodia",
     "lastdawn",
