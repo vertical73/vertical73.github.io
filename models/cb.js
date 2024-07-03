@@ -94,7 +94,6 @@ let cb0Primary = [
     "monchhichis",
     "mia_gothh",
     "mon_amii",
-    "marin_kitagava",
 
     // strictly eye candy
     "sweet_tinker_bell",
@@ -104,6 +103,8 @@ let cb0Primary = [
     "hannahlusttt",
     "ingergirl",
     "monchhichis",
+    "marin_kitagava",
+    "grid_girl2",
 
     "sasha_slim",
     "the_truewoman_show",
