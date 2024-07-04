@@ -94,10 +94,10 @@ let cb0Primary = [
     "asr_porter",
     "monchhichis",
     "mia_gothh",
-    "mon_amii",
 
     // strictly eye candy
     "sweet_tinker_bell",
+    "babeholly",
     "tiffanyhouston_",
     "ksensual",
 
@@ -123,11 +123,11 @@ let cb0Primary = [
     "stacy_lees",
     "violett_bray",
     "kriss_foxx",
-    "outerspace2000",
     "chloe_moor"
 ];
 let cb1Primary = [
     "heidas_passion",
+    "lilla_cutie",
     "infinite_desire",
     "oxxme",
     "goth_dolll",
@@ -135,7 +135,8 @@ let cb1Primary = [
     "christiewells22",
     "charming__kitty",
     "fleur_x_x",
-    "lilla_cutie",
+    "outerspace2000",
+    "mon_amii",
     "candy_sandy_",
     "natalie_x",
     "yesiamjasse",
