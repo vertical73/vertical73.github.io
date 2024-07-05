@@ -79,10 +79,6 @@ let cb0Primary = [
     "lovelycaroline_",
     "luckysexydoll",
 
-    "mariamaree",
-    "merry_dancers_",
-    "mermaids_",
-
     "alisagoddie19",
     "stela_artois",
     "reddfoxxy",
@@ -108,6 +104,9 @@ let cb0Primary = [
     "monchhichis",
     "marin_kitagava",
     "grid_girl2",
+    "mariamaree",
+    "merry_dancers_",
+    "mermaids_",
 
     "sasha_slim",
     "the_truewoman_show",
