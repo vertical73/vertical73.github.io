@@ -105,6 +105,8 @@ let cb0Primary = [
     "marin_kitagava",
     "mariamaree",
     "merry_dancers_",
+    "mermaids_",
+    "grid_girl2",
 
     "sasha_slim",
     "the_truewoman_show",
@@ -156,8 +158,6 @@ let cb1Primary = [
     "chatur_babes_",
     "fazeyj",
     "dovia",
-    "grid_girl2",
-    "mermaids_",
     "lonelly_lolly98",
     "poisonn_girll",
     "tqla"
