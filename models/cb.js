@@ -56,7 +56,6 @@ let cb0Primary = [
     "masqueradeporn",
     "playwithmil",
     "pornostorys",
-    "lexy_sinn",
     "mary_delray",
 
     "veronikaav",
@@ -97,6 +96,7 @@ let cb0Primary = [
     "tiffanyhouston_",
     "ksensual",
 
+    "lexy_sinn",
     "hannahlusttt",
     "hornyvillage",
     "beatrice_melton",
