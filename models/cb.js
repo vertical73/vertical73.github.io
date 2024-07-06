@@ -57,7 +57,6 @@ let cb0Primary = [
     "playwithmil",
     "pornostorys",
     "lexy_sinn",
-    "lovely__alisa",
     "mary_delray",
 
     "veronikaav",
@@ -77,6 +76,7 @@ let cb0Primary = [
     "lovelycaroline_",
 
     "bestassx",
+    "lovely__alisa",
     "alisagoddie19",
     "stela_artois",
     "reddfoxxy",
