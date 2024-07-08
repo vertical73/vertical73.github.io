@@ -29,6 +29,7 @@ let cbSecondary = [
     "neondemon_",
     "jilly_wolly1",
     "yournaughtymiss",
+    "lexy_sinn",
     "annie_sweetyxx",
     "july_koss",
     "_isiah", // "isia_slay",
@@ -98,7 +99,6 @@ let cb0Primary = [
     "tiffanyhouston_",
     "ksensual",
 
-    "lexy_sinn",
     "hannahlusttt",
     "hornyvillage",
     "beatrice_melton",
