@@ -118,9 +118,7 @@ let cb0Primary = [
     "bigorgasm4us",
     "amelia_chi",
     "postbaby",
-    "inkanuko",
     "stacy_lees",
-    "violett_bray",
     "kriss_foxx",
     "chloe_moor",
     "sunbeam181"
@@ -132,6 +130,8 @@ let cb1Primary = [
     "agatha137",
     "fox_alina",
     "ab_s",
+    "inkanuko",
+    "violett_bray",
     
     "heidas_passion",
     "lilla_cutie",
