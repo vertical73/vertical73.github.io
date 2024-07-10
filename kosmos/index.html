@@ -15,7 +15,9 @@
                 loadBroadcastsIntoMap('./broadcasts.json').then(
                     (broadcastsYmdMap) => {
                         for (let k of broadcastsYmdMap.keys()) {
-                            dataTable.addRow([k, broadcastsYmdMap.get(k)]);
+                            let dt = new Date();
+                            dt.setTime(k);
+                            dataTable.addRow([dt, broadcastsYmdMap.get(k)]);
                         }
                         let chart = new google.visualization.Calendar(document.getElementById('calendar_basic'));
                         let options = {
