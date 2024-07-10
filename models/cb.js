@@ -95,7 +95,6 @@ let cb0Primary = [
     // strictly eye candy
     "sweet_tinker_bell",
     "babeholly",
-    "tiffanyhouston_",
     "ksensual",
 
     "hannahlusttt",
@@ -131,6 +130,9 @@ let cb0Primary = [
 ];
 let cb1Primary = [
     "star_gazing",
+    "tiffanyhouston_",
+    "jennytime",
+    
     "heidas_passion",
     "lilla_cutie",
     "infinite_desire",
