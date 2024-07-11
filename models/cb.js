@@ -70,9 +70,11 @@ let cb0Primary = [
     "mia_elfie",
     "anna_bri",
     "popsytopsy",
-    "jelly_w5", // "jelly_w",
     "nikkibloom_xoxo", // nikkibloomxoxo,
     "lovelycaroline_",
+
+    "jelly_w5", // "jelly_w",
+    "charming__kitty",
 
     "lovely__alisa",
     "alisagoddie19",
@@ -148,7 +150,6 @@ let cb1Primary = [
     "oxxme",
     "goth_dolll",
     "christiewells22",
-    "charming__kitty",
     "fleur_x_x",
     "outerspace2000",
     "mon_amii",
