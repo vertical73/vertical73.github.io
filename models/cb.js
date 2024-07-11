@@ -132,6 +132,9 @@ let cb1Primary = [
     "ab_s",
     "inkanuko",
     "violett_bray",
+
+    "vanila_cream_",
+    "ilon_rey",
     
     "heidas_passion",
     "lilla_cutie",
