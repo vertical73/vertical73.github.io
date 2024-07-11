@@ -168,7 +168,10 @@ let cb1Primary = [
 
     "_wowyulia_",
     "mercy_bloom",
+
     "chatur_babes_",
+    "oki_dokie",
+
     "fazeyj",
     "dovia",
     "lonelly_lolly98",
