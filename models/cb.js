@@ -52,29 +52,30 @@ let cb0Primary = [
     "_valentina_69",
     "hayley__lee",
     "myliss",
-    "vilanelle_1",
     "milly____",
     "masqueradeporn",
-    "playwithmil",
+
     "pornostorys",
+    "playwithmil",
+
+    "vilanelle_1",
     "mary_delray",
+    "dollyemy",
 
     "veronikaav",
     "freyaeva",
     "whitebanny",
-    "dollyemy",
     "ecsodia",
     "lastdawn",
     "elizabad",
-    "juliet_bb",
     "mia_elfie",
     "anna_bri",
     "popsytopsy",
     "nikkibloom_xoxo", // nikkibloomxoxo,
     "lovelycaroline_",
 
+    "juliet_bb",
     "jelly_w5", // "jelly_w",
-    "charming__kitty",
 
     "lovely__alisa",
     "alisagoddie19",
@@ -143,6 +144,7 @@ let cb1Primary = [
     "vanila_cream_",
     "ilon_rey",
     
+    "charming__kitty",
     "heidas_passion",
     "sunbeam181",
     "lilla_cutie",
