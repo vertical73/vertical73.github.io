@@ -108,7 +108,6 @@ let cb0Primary = [
     "beatrice_melton",
     "luckysexydoll",
     "monchhichis",
-    "marin_kitagava",
     "mariamaree",
     "merry_dancers_",
     "mermaids_",
@@ -116,6 +115,7 @@ let cb0Primary = [
     "grid_girl2",
     "cutemia6",
     "annie_f0x",
+    "alice_leey",
 
     "sasha_slim",
     "the_truewoman_show",
@@ -137,6 +137,7 @@ let cb1Primary = [
     "fox_alina",
     "ab_s",
     "inkanuko",
+    "marin_kitagava",
     "violett_bray",
 
     "vanila_cream_",
