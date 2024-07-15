@@ -113,7 +113,6 @@ let cb0Primary = [
     "_eva_blame_",
     "grid_girl2",
     "cutemia6",
-    "annie_f0x",
 
     "sasha_slim",
     "the_truewoman_show",
@@ -147,6 +146,7 @@ let cb1Primary = [
     "alisagoddie19",
     "charming__kitty",
     "heidas_passion",
+    "annie_f0x",
     "sunbeam181",
     "lilla_cutie",
     "infinite_desire",
