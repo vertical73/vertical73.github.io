@@ -111,10 +111,10 @@ let cb0Primary = [
     "mariamaree",
     "merry_dancers_",
     "mermaids_",
+    "cutemia6",
     "byrdtabitha",
     "_eva_blame_",
     "grid_girl2",
-    "cutemia6",
 
     "sasha_slim",
     "the_truewoman_show",
