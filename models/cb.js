@@ -98,19 +98,20 @@ let cb0Primary = [
     "hot_ho",
     "viktoranmary",
     "shineblue2728",
+    "hannahlusttt",
 
     // strictly eye candy
     "sweet_tinker_bell",
     "babeholly",
     "ksensual",
 
-    "hannahlusttt",
     "hornyvillage",
     "beatrice_melton",
     "luckysexydoll",
     "mariamaree",
     "merry_dancers_",
     "mermaids_",
+    "byrdtabitha",
     "_eva_blame_",
     "grid_girl2",
     "cutemia6",
