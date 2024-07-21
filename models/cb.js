@@ -20,8 +20,8 @@ let cbSecondary = [
     "maryvi",
     "qeeensgambit",
     "flowerr_powerr",
-    "marylanex",
-    "alis_molli",
+    "marylanex", // 🇺🇦
+    "alis_molli", // 🇺🇦
     "evelissa",
     "_taylor_swift",
     "catanddickxxx",
@@ -79,7 +79,7 @@ let cb0Primary = [
     "elizabad",
     "myliss",
 
-    "alissa_wxw",
+    "alissa_wxw", // 🇺🇦
     "bella_white19",
     "lovely__alisa",
     "reddfoxxy",
@@ -117,7 +117,7 @@ let cb0Primary = [
     "_eva_blame_",
     "grid_girl2",
 
-    "sasha_slim",
+    "sasha_slim", // 🇺🇦
     "the_truewoman_show",
     "vanilla_lips",
     "yuriogata",
