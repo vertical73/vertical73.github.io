@@ -79,7 +79,6 @@ let cb0Primary = [
     "elizabad",
     "myliss",
 
-    "alissa_wxw", // 🇺🇦
     "bella_white19",
     "lovely__alisa",
     "reddfoxxy",
@@ -116,6 +115,7 @@ let cb0Primary = [
     "byrdtabitha",
     "_eva_blame_",
     "grid_girl2",
+    "alissa_wxw", // 🇺🇦
 
     "sasha_slim", // 🇺🇦
     "the_truewoman_show",
