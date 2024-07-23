@@ -126,7 +126,7 @@ let cb0Primary = [
     "_virtual_lady_",
     "bigorgasm4us",
     "stela_artois",
-    "amypierceb",
+    "lilicapie",
 
     "amelia_chi",
     "postbaby",
@@ -141,6 +141,7 @@ let cb1Primary = [
     "fox_alina",
     "ab_s",
     "inkanuko",
+    "amypierceb",
     "marin_kitagava",
     "violett_bray",
 
