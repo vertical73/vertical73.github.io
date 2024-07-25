@@ -116,6 +116,7 @@ let cb0Primary = [
     "_eva_blame_",
     "grid_girl2",
     "alissa_wxw", // 🇺🇦
+    "elizavetta_miller",
 
     "sasha_slim", // 🇺🇦
     "the_truewoman_show",
