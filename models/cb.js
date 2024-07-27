@@ -105,10 +105,12 @@ let cb0Primary = [
     "alisaa_01",
     "drutywerri",
 
+    // couples
     "hot_ho",
     "viktoranmary",
     "shineblue2728",
     "hannahlusttt",
+    "postbaby",
 
     "hornyvillage",
     "beatrice_melton",
@@ -132,9 +134,9 @@ let cb0Primary = [
     "mariamaree",
     "polusladkoye",
     "sayl0r_moon",
+    "ivy_whyte",
 
     "amelia_chi",
-    "postbaby",
     "stacy_lees",
     "kriss_foxx"
 ];
