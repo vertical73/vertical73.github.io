@@ -103,8 +103,8 @@ let cb0Primary = [
     "kate_funny",
     "lilicapie",
     "alissa_wxw", // 🇺🇦
-    "alisaa_01",
     "ivy_whyte",
+    "alisaa_01",
 
     // couples
     "hot_ho",
