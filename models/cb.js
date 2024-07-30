@@ -120,6 +120,7 @@ let cb0Primary = [
     "cutemia6",
     "_eva_blame_",
     "elizavetta_miller",
+    "neo_kirex",
 
     "sasha_slim", // 🇺🇦
     "the_truewoman_show",
