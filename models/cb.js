@@ -106,7 +106,6 @@ let cb0Primary = [
     "aurora_the_ballerina",
     "kate_funny",
     "lilicapie",
-    "alissa_wxw", // 🇺🇦
 
     // couples
     "hot_ho",
@@ -121,6 +120,7 @@ let cb0Primary = [
     "cutemia6",
     "_eva_blame_",
     "elizavetta_miller",
+    "alissa_wxw", // 🇺🇦
     "neo_kirex",
     "mermaids_",
 
