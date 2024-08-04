@@ -66,7 +66,7 @@ let cb0Primary = [
     "nikkibloom_xoxo", // nikkibloomxoxo,
     "popsytopsy",
 
-    // strictly eye candy
+    // strictly eye candy, 1
     "sweet_tinker_bell",
     "ksensual",
     "mia_elfie",
@@ -94,7 +94,6 @@ let cb0Primary = [
     "lovely__alisa",
     "reddfoxxy",
     "amelia_chi",
-    "secrets_eli",
     "_pinkpay",
     "fleur_avelle",
     "alisa_foxxx",
@@ -123,10 +122,12 @@ let cb0Primary = [
     "alissa_wxw", // 🇺🇦
     "neo_kirex",
     "mermaids_",
-
     "hornyvillage",
+
+    // strictly eye candy, 2
     "beatrice_melton",
     "luckysexydoll",
+    "secrets_eli",
 
     "sasha_slim", // 🇺🇦
     "the_truewoman_show",
