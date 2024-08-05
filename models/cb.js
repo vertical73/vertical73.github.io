@@ -73,13 +73,17 @@ let cb0Primary = [
     "inkanuko",
     "myliss",
     "babeholly",
-    "ab_s",
     "star_gazing",
 
-    "ingergirl",
+    // slutty appeal
+    "your_bunnygirl",
+    "miasbakkery_",
+
     "drutywerri",
     "anna_bri",
     "bunnydollstella",
+    "ingergirl",
+    "ab_s",
 
     "lovelycaroline_",
     "lastdawn",
@@ -113,8 +117,6 @@ let cb0Primary = [
     "hannahlusttt",
     "postbaby",
 
-    "your_bunnygirl",
-    "miasbakkery_",
     "merry_dancers_",
     "cutemia6",
     "_eva_blame_",
