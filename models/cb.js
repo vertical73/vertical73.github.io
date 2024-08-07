@@ -129,6 +129,7 @@ let cb0Primary = [
     "beatrice_melton",
     "luckysexydoll",
     "secrets_eli",
+    "jennytime",
 
     "sasha_slim", // 🇺🇦
     "the_truewoman_show",
@@ -141,8 +142,6 @@ let cb0Primary = [
     "mariamaree",
     "polusladkoye",
     "sayl0r_moon",
-
-    "jennytime",
 
     "amelia_chi",
     "stacy_lees",
