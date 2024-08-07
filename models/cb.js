@@ -120,7 +120,6 @@ let cb0Primary = [
     "cutemia6",
     "_eva_blame_",
     "elizavetta_miller",
-    "alissa_wxw", // 🇺🇦
     "neo_kirex",
     "mermaids_",
     "hornyvillage",
@@ -139,7 +138,6 @@ let cb0Primary = [
     "_virtual_lady_",
     "bigorgasm4us",
     "stela_artois",
-    "mariamaree",
     "polusladkoye",
     "sayl0r_moon",
 
@@ -160,6 +158,8 @@ let cb1Primary = [
     "ilon_rey",
 
     "ronny_ponny",
+    "alissa_wxw", // 🇺🇦
+    "mariamaree",
     "ivy_whyte",
     "alisaa_01",
     "grid_girl2",
