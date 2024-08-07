@@ -79,7 +79,6 @@ let cb0Primary = [
     "your_bunnygirl",
     "miasbakkery_",
 
-    "drutywerri",
     "anna_bri",
     "bunnydollstella",
     "ingergirl",
@@ -93,6 +92,7 @@ let cb0Primary = [
     "elizabad",
 
     "juicy_angels",
+    "drutywerri",
     "flowercandy33",
     "bella_white19",
     "lovely__alisa",
