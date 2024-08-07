@@ -104,7 +104,6 @@ let cb0Primary = [
     "alisa_foxxx",
     "katie___cat",
     "asr_porter",
-    "monchhichis",
     "mia_gothh",
     "alice_leey",
     "aurora_the_ballerina",
@@ -145,7 +144,6 @@ let cb0Primary = [
     "sayl0r_moon",
 
     "jennytime",
-    "oki_dokie",
 
     "amelia_chi",
     "stacy_lees",
