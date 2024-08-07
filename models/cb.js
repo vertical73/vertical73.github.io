@@ -74,7 +74,6 @@ let cb0Primary = [
     "myliss",
     "babeholly",
     "star_gazing",
-    "ronny_ponny",
 
     // slutty appeal
     "your_bunnygirl",
@@ -161,6 +160,7 @@ let cb1Primary = [
     "vanila_cream_",
     "ilon_rey",
 
+    "ronny_ponny",
     "ivy_whyte",
     "alisaa_01",
     "grid_girl2",
