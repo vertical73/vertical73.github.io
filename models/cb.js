@@ -143,6 +143,9 @@ let cb0Primary = [
     "polusladkoye",
     "sayl0r_moon",
 
+    "jennytime",
+    "oki_dokie",
+
     "amelia_chi",
     "stacy_lees",
     "kriss_foxx",
@@ -151,7 +154,6 @@ let cb0Primary = [
 ];
 let cb1Primary = [
     "tiffanyhouston_",
-    "jennytime",
     "agatha137",
     "fox_alina",
     "amypierceb",
@@ -198,7 +200,6 @@ let cb1Primary = [
     "mercy_bloom",
 
     "chatur_babes_",
-    "oki_dokie",
 
     "byrdtabitha",
     "fazeyj",
