@@ -130,7 +130,6 @@ let cb0Primary = [
     "secrets_eli",
     "jennytime",
 
-    "sasha_slim", // 🇺🇦
     "the_truewoman_show",
     "vanilla_lips",
     "yuriogata",
@@ -184,6 +183,7 @@ let cb1Primary = [
     "my_lou",
     "alisevine",
     "sabrina_grey", // 🇺🇦
+    "sasha_slim", // 🇺🇦
 
     // strictly eye candy
     "sunny_maria",
