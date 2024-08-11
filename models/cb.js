@@ -151,7 +151,6 @@ let cb1Primary = [
     "tiffanyhouston_",
     "agatha137",
     "fox_alina",
-    "amypierceb",
     "marin_kitagava",
     "violett_bray",
 
@@ -163,11 +162,15 @@ let cb1Primary = [
     "mariamaree", // 🇺🇦
     "ivy_whyte",
     "alisaa_01",
-    "grid_girl2",
+    "emilly_angel", // 🇺🇦
+
     "chloe_moor",
     "alisagoddie19",
     "charming__kitty",
     "heidas_passion",
+    "amypierceb",
+
+    "grid_girl2",
     "sunbeam181",
     "lilla_cutie",
     "infinite_desire",
@@ -180,7 +183,6 @@ let cb1Primary = [
     "candy_sandy_",
     "natalie_x",
     "yesiamjasse",
-    "emilly_angel",
     "my_lou",
     "alisevine",
     "sabrina_grey", // 🇺🇦
