@@ -12,9 +12,6 @@ let cbPrimary = [
     "wild_schoolgirl"
 ];
 let cbSecondary = [
-    "lovahd",
-    "lola_bunny94",
-    "blackmango_mary",
     "maryvi",
     "qeeensgambit",
     "flowerr_powerr",
@@ -22,21 +19,20 @@ let cbSecondary = [
     "alis_molli", // 🇺🇦
     "evelissa",
     "_taylor_swift",
-    "catanddickxxx",
-    "misstics_", // 🇺🇦
     "neondemon_",
     "jilly_wolly1",
     "yournaughtymiss",
     "lexy_sinn",
-    "annie_sweetyxx",
-    "july_koss",
     "_isiah", // "isia_slay",
-
-    // slutty appeal
-    "your_bunnygirl", // 🇺🇦
+    "hayley__lee",
     "freyaeva",
 
     // idle
+    "lovahd",
+    "lola_bunny94",
+    "july_koss",
+    "annie_sweetyxx",
+    "blackmango_mary",
     "zoey_stonerr",
     "_woweva__",
     "sweetsnejana",
@@ -52,11 +48,10 @@ fn__cbPrimary();
 fn__cbSecondary();
 
 let cb0Primary = [
-    "mynameisnikki",
-    "amazon_girl",
+    "misstics_", // 🇺🇦
     "_valentina_69",
-    "hayley__lee",
     "milly____",
+    "catanddickxxx",
     "masqueradeporn",
 
     "pornostorys",
@@ -68,7 +63,6 @@ let cb0Primary = [
 
     "whitebanny",
     "nikkibloom_xoxo", // nikkibloomxoxo,
-    "popsytopsy",
 
     // strictly eye candy, 1
     "sweet_tinker_bell",
@@ -91,6 +85,9 @@ let cb0Primary = [
     "ecsodia",
     "elizabad",
 
+    // slutty appeal
+    "your_bunnygirl", // 🇺🇦
+
     "juicy_angels",
     "violetta_finch",
     "eva_j",
@@ -98,6 +95,12 @@ let cb0Primary = [
     "drutywerri",
     "flowercandy33",
     "neo_kirex",
+
+    // idle
+    "popsytopsy",
+    "mynameisnikki",
+    "amazon_girl",
+    
     "bella_white19",
     "lovely__alisa",
     "reddfoxxy",
