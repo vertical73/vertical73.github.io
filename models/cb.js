@@ -77,7 +77,6 @@ let cb0Primary = [
 
     // slutty appeal
     "your_bunnygirl",
-    "miasbakkery_",
 
     "anna_bri",
     "bunnydollstella",
@@ -210,7 +209,8 @@ let cb1Primary = [
     "tqla",
     "iiivy_",
     "shysaraa",
-    "_eva_queen"
+    "_eva_queen",
+    "miasbakkery_"
 ];
 
 let fn__cb0Primary = async () => { cb0Primary.forEach(m => addModel(m, 30)); }
