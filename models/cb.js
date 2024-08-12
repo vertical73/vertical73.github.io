@@ -12,9 +12,7 @@ let cbPrimary = [
     "wild_schoolgirl"
 ];
 let cbSecondary = [
-    "bustykatia",
     "lovahd",
-    "zoey_stonerr",
     "lola_bunny94",
     "blackmango_mary",
     "maryvi",
@@ -33,6 +31,13 @@ let cbSecondary = [
     "annie_sweetyxx",
     "july_koss",
     "_isiah", // "isia_slay",
+
+    // slutty appeal
+    "your_bunnygirl", // 🇺🇦
+    "freyaeva",
+
+    // idle
+    "zoey_stonerr",
     "_woweva__",
     "sweetsnejana",
     "lilly_vanilla",
@@ -61,7 +66,6 @@ let cb0Primary = [
     "mary_delray",
     "dollyemy",
 
-    "freyaeva",
     "whitebanny",
     "nikkibloom_xoxo", // nikkibloomxoxo,
     "popsytopsy",
@@ -74,9 +78,6 @@ let cb0Primary = [
     "myliss",
     "babeholly",
     "star_gazing",
-
-    // slutty appeal
-    "your_bunnygirl",
 
     "anna_bri",
     "bunnydollstella",
