@@ -85,11 +85,13 @@ let cb0Primary = [
     "ecsodia",
     "elizabad",
 
+    "juicy_angels",
+    "violetta_finch",
+
     // slutty appeal
     "your_bunnygirl", // 🇺🇦
 
-    "juicy_angels",
-    "violetta_finch",
+    "jelli_jennifer",
     "eva_j",
     "annie_f0x",
     "drutywerri",
