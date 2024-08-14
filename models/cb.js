@@ -26,6 +26,7 @@ let cbSecondary = [
     "_isiah", // "isia_slay",
     "hayley__lee",
     "freyaeva",
+    "sugarbae_haze",
 
     // idle
     "lovahd",
