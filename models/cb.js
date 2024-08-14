@@ -84,22 +84,22 @@ let cb0Primary = [
     "juliet_bb",
     "jelly_w5", // "jelly_w",
     "ecsodia",
-    "elizabad",
 
     "juicy_angels",
     "candyfeatcrush",
+    "elizabad",
     "curlylolly",
     "violetta_finch",
 
     // slutty appeal
     "your_bunnygirl", // 🇺🇦
 
-    "jelli_jennifer",
     "eva_j",
     "annie_f0x",
     "drutywerri",
     "flowercandy33",
     "neo_kirex",
+    "jelli_jennifer",
 
     // idle
     "popsytopsy",
