@@ -19,6 +19,7 @@ let cbSecondary = [
     "alis_molli", // 🇺🇦
     "evelissa",
     "_taylor_swift",
+    "candyfeatcrush",
     "neondemon_",
     "jilly_wolly1",
     "yournaughtymiss",
@@ -85,7 +86,6 @@ let cb0Primary = [
     "jelly_w5", // "jelly_w",
     "ecsodia",
 
-    "candyfeatcrush",
     "cute_shine",
     "juicy_angels",
     "neko_kimiko",
