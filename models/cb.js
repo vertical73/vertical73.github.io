@@ -96,6 +96,7 @@ let cb0Primary = [
     "tootightwithbra",
     "white_lime",
     "littlegreekflower",
+    "fluffy_angel",
 
     // slutty appeal
     "your_bunnygirl", // 🇺🇦
