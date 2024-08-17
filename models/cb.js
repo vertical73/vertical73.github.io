@@ -95,6 +95,7 @@ let cb0Primary = [
 
     "tootightwithbra",
     "white_lime",
+    "frauchocolate",
     "littlegreekflower",
     "fluffy_angel",
 
