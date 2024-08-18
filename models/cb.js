@@ -97,6 +97,7 @@ let cb0Primary = [
     "white_lime",
     "frauchocolate",
     "fluffy_angel",
+    "saimashine",
 
     // slutty appeal
     "your_bunnygirl", // 🇺🇦
