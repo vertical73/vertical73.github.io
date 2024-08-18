@@ -28,6 +28,7 @@ let cbSecondary = [
     "hayley__lee",
     "freyaeva",
     "sugarbae_haze",
+    "saimashine",
 
     // idle
     "lovahd",
@@ -86,7 +87,6 @@ let cb0Primary = [
     "jelly_w5", // "jelly_w",
     "ecsodia",
 
-    "saimashine",
     "juicy_angels",
     "neko_kimiko",
     "elizabad",
