@@ -86,7 +86,7 @@ let cb0Primary = [
     "jelly_w5", // "jelly_w",
     "ecsodia",
 
-    "cute_shine",
+    "saimashine",
     "juicy_angels",
     "neko_kimiko",
     "elizabad",
@@ -95,9 +95,9 @@ let cb0Primary = [
 
     "tootightwithbra",
     "white_lime",
+    "cute_shine",
     "frauchocolate",
     "fluffy_angel",
-    "saimashine",
 
     // slutty appeal
     "your_bunnygirl", // 🇺🇦
