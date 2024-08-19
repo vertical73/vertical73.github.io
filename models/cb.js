@@ -94,6 +94,9 @@ let cb0Primary = [
 
     "tootightwithbra",
     "white_lime",
+    "annie_f0x",
+    "kira_censori",
+    "flowercandy33",
     "cute_shine",
     "frauchocolate",
     "fluffy_angel",
@@ -102,11 +105,8 @@ let cb0Primary = [
     "your_bunnygirl", // 🇺🇦
 
     "eva_j",
-    "annie_f0x",
-    "flowercandy33",
     "neo_kirex",
     "jelli_jennifer",
-    "kira_censori",
 
     // idle
     "popsytopsy",
