@@ -104,7 +104,7 @@ let cb0Primary = [
     // slutty appeal
     "your_bunnygirl", // 🇺🇦
 
-    "veronikaav".
+    "veronikaav",
     "eva_j",
     "neo_kirex",
     "jelli_jennifer",
