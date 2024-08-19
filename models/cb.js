@@ -128,6 +128,7 @@ let cb0Primary = [
     "aurora_the_ballerina",
     "kate_funny",
     "lilicapie",
+    "agata_iris",
 
     // couples
     "hot_ho",
