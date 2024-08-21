@@ -66,18 +66,23 @@ let cb0Primary = [
     "whitebanny",
     "nikkibloom_xoxo", // nikkibloomxoxo,
 
+    // problematic
+    "bustykatia", // 🇷🇴
+    "freyaeva", // 🇷🇴
+
     // strictly eye candy, 1
     "sweet_tinker_bell",
     "ksensual",
     "mia_elfie",
     "inkanuko",
     "myliss",
-    "babeholly",
     "star_gazing",
-    "freyaeva", // 🇷🇴
 
+    // augmented
     "anna_bri",
     "bunnydollstella",
+
+    "babeholly",
     "ingergirl",
     "ab_s",
 
