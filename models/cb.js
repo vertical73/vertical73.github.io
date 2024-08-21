@@ -26,7 +26,6 @@ let cbSecondary = [
     "lexy_sinn",
     "_isiah", // "isia_slay",
     "hayley__lee",
-    "freyaeva", // 🇷🇴
     "sugarbae_haze",
     "saimashine",
 
@@ -75,6 +74,7 @@ let cb0Primary = [
     "myliss",
     "babeholly",
     "star_gazing",
+    "freyaeva", // 🇷🇴
 
     "anna_bri",
     "bunnydollstella",
