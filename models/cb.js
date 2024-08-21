@@ -9,7 +9,7 @@ let cbPrimary = [
     "alice_kosmos",
     "rosykindred",
     "candysfox",
-    "wild_schoolgirl"
+    "wild_schoolgirl" // 🇷🇴
 ];
 let cbSecondary = [
     "maryvi",
@@ -26,7 +26,7 @@ let cbSecondary = [
     "lexy_sinn",
     "_isiah", // "isia_slay",
     "hayley__lee",
-    "freyaeva",
+    "freyaeva", // 🇷🇴
     "sugarbae_haze",
     "saimashine",
 
@@ -129,6 +129,7 @@ let cb0Primary = [
     "kate_funny",
     "lilicapie",
     "agata_iris",
+    "legendoflady", // 🇷🇴
 
     // couples
     "hot_ho",
