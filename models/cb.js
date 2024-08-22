@@ -136,6 +136,7 @@ let cb0Primary = [
     "lilicapie",
     "agata_iris",
     "legendoflady", // 🇷🇴
+    "ada_waist",
 
     // couples
     "hot_ho",
