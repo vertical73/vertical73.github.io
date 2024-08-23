@@ -23,6 +23,7 @@ let cbSecondary = [
     "neondemon_",
     "jilly_wolly1",
     "maryvi",
+    "whitebanny",
     "yournaughtymiss",
     "lexy_sinn",
     "_isiah", // "isia_slay",
@@ -64,7 +65,6 @@ let cb0Primary = [
     "dollyemy",
     "mary_janee__",
 
-    "whitebanny",
     "nikkibloom_xoxo", // nikkibloomxoxo,
 
     // problematic
