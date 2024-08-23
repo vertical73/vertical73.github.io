@@ -152,6 +152,7 @@ let cb0Primary = [
     "elizavetta_miller",
     "mermaids_",
     "hornyvillage",
+    "tanaichon",
 
     // strictly eye candy, 2
     "beatrice_melton",
@@ -172,7 +173,6 @@ let cb0Primary = [
     "polusladkoye",
     "sayl0r_moon",
     "honey_sunshine",
-    "tanaichon",
     "_deepthroatgalactica",
     "rita_orra", // 🇺🇦
 
