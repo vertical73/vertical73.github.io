@@ -12,7 +12,7 @@ let cbPrimary = [
 ];
 let cbSecondary = [
     "qeeensgambit",
-    "wild_schoolgirl" // 🇷🇴,
+    "wild_schoolgirl", // 🇷🇴
     "flowerr_powerr",
     "marylanex", // 🇺🇦
     "alis_molli", // 🇺🇦
