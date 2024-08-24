@@ -78,7 +78,6 @@ let cb0Primary = [
     "anna_bri",
     "bunnydollstella",
 
-    "babeholly",
     "ingergirl",
     "ab_s",
 
@@ -152,6 +151,7 @@ let cb0Primary = [
     "tanaichon",
 
     // strictly eye candy, 2
+    "babeholly",
     "beatrice_melton",
     "luckysexydoll",
     "secrets_eli",
