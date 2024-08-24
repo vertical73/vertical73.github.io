@@ -63,12 +63,8 @@ let cb0Primary = [
     "vilanelle_1",
     "mary_delray",
     "dollyemy",
-    "mary_janee__",
 
     "nikkibloom_xoxo", // nikkibloomxoxo,
-
-    // problematic
-    "bustykatia", // 🇷🇴
 
     // strictly eye candy, 1
     "sweet_tinker_bell",
@@ -91,6 +87,7 @@ let cb0Primary = [
     "juliet_bb",
     "jelly_w5", // "jelly_w",
     "ecsodia",
+    "mary_janee__",
 
     "juicy_angels",
     "neko_kimiko",
@@ -191,6 +188,10 @@ let cb1Primary = [
 
     "vanila_cream_",
     "ilon_rey",
+
+    // problematic
+    "bustykatia", // 🇷🇴
+    "freyaeva", // 🇷🇴
 
     "ronny_ponny",
     "alissa_wxw", // 🇺🇦
