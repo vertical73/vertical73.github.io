@@ -69,7 +69,6 @@ let cb0Primary = [
 
     // problematic
     "bustykatia", // 🇷🇴
-    "freyaeva", // 🇷🇴
 
     // strictly eye candy, 1
     "sweet_tinker_bell",
