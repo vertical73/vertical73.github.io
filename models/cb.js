@@ -157,7 +157,6 @@ let cb0Primary = [
     "secrets_eli",
     "jennytime",
     "oh_sunny_",
-    "intim_mate",
 
     "bigorgasm4us",
     "ohbabykelly",
@@ -199,6 +198,7 @@ let cb1Primary = [
     "ivy_whyte",
     "alisaa_01",
     "emilly_angel", // 🇺🇦
+    "intim_mate",
 
     "chloe_moor",
     "alisagoddie19",
