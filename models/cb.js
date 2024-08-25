@@ -126,6 +126,8 @@ let cb0Primary = [
     "asr_porter",
     "mia_gothh",
     "alice_leey",
+
+    "manita_misti",
     "aurora_the_ballerina",
     "kate_funny",
     "lilicapie",
