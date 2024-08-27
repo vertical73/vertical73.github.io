@@ -86,19 +86,19 @@ let cb0Primary = [
     "juliet_bb",
     "jelly_w5", // "jelly_w",
     "ecsodia",
-    "mary_janee__",
 
     "juicy_angels",
+    "cute_shine",
     "neko_kimiko",
     "elizabad",
     "violetta_finch",
+    "mary_janee__",
 
     "tootightwithbra",
     "white_lime",
     "annie_f0x",
     "kira_censori",
     "flowercandy33",
-    "cute_shine",
     "frauchocolate",
     "fluffy_angel",
 
