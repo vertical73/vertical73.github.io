@@ -150,7 +150,6 @@ let cb0Primary = [
     "elizavetta_miller",
     "mermaids_",
     "hornyvillage",
-    "tanaichon",
 
     // strictly eye candy, 2
     "babeholly",
@@ -237,7 +236,9 @@ let cb1Primary = [
     "_wowyulia_",
     "mercy_bloom",
 
+    // studio
     "chatur_babes_",
+    "tanaichon",
 
     "byrdtabitha",
     "fazeyj",
