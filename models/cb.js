@@ -100,7 +100,6 @@ let cb0Primary = [
     "kira_censori",
     "flowercandy33",
     "frauchocolate",
-    "fluffy_angel",
 
     // slutty appeal
     "your_bunnygirl", // 🇺🇦
