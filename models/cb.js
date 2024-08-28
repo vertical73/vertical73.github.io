@@ -26,6 +26,9 @@ let cbSecondary = [
     "whitebanny",
     "yournaughtymiss",
     "lexy_sinn",
+    "mary_delray",
+    "frauchocolate",
+
     "_isiah", // "isia_slay",
     "sugarbae_haze",
     "hayley__lee",
@@ -61,7 +64,6 @@ let cb0Primary = [
     "playwithmil",
 
     "vilanelle_1",
-    "mary_delray",
     "dollyemy",
 
     "nikkibloom_xoxo", // nikkibloomxoxo,
@@ -99,7 +101,6 @@ let cb0Primary = [
     "annie_f0x",
     "kira_censori",
     "flowercandy33",
-    "frauchocolate",
 
     // slutty appeal
     "your_bunnygirl", // 🇺🇦
