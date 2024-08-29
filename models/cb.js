@@ -172,7 +172,6 @@ let cb0Primary = [
     "sayl0r_moon",
     "mon_amii",
 
-    "honey_sunshine",
     "_deepthroatgalactica",
     "rita_orra", // 🇺🇦
 
@@ -203,6 +202,7 @@ let cb1Primary = [
     "alisaa_01",
     "emilly_angel", // 🇺🇦
     "intim_mate",
+    "honey_sunshine",
 
     "chloe_moor",
     "alisagoddie19",
