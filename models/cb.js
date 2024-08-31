@@ -111,6 +111,7 @@ let cb0Primary = [
     "jelli_jennifer",
     "veronicakraft",
     "superior_cat",
+    "yamaguchi_",
 
     // idle
     "popsytopsy",
