@@ -58,14 +58,12 @@ let cb0Primary = [
     "_valentina_69",
     "milly____",
     "dollyemy",
+    "veronikaav",
 
     "catanddickxxx",
     "masqueradeporn",
-
-    "pornostorys",
     "playwithmil",
-
-    "vilanelle_1",
+    "pornostorys",
 
     "nikkibloom_xoxo", // nikkibloomxoxo,
 
@@ -87,6 +85,7 @@ let cb0Primary = [
     "lovelycaroline_",
     "lastdawn",
     "juliet_bb",
+    "vilanelle_1",
     "jelly_w5", // "jelly_w",
     "ecsodia",
 
@@ -94,19 +93,16 @@ let cb0Primary = [
     "cute_shine",
     "neko_kimiko",
     "elizabad",
-    "violetta_finch",
     "mary_janee__",
 
     "tootightwithbra",
     "white_lime",
     "annie_f0x",
-    "kira_censori",
     "flowercandy33",
 
     // slutty appeal
     "your_bunnygirl", // 🇺🇦
 
-    "veronikaav",
     "neo_kirex",
     "jelli_jennifer",
     "veronicakraft",
@@ -118,6 +114,8 @@ let cb0Primary = [
     "mynameisnikki",
     "amazon_girl",
     
+    "kira_censori",
+    "violetta_finch",
     "bella_white19",
     "lovely__alisa",
     "reddfoxxy",
