@@ -196,7 +196,7 @@ let cb1Primary = [
 
     "amelia_chi",
     "stacy_lees",
-    "kriss_foxx"
+    "kriss_foxx",
 
     "ronny_ponny",
     "alissa_wxw", // 🇺🇦
