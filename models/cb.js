@@ -152,6 +152,28 @@ let cb0Primary = [
     "elizavetta_miller",
     "mermaids_",
     "hornyvillage",
+    "sayl0r_moon",
+    "mon_amii",
+    "alisagoddie19",
+
+    "_deepthroatgalactica",
+    "rita_orra" // 🇺🇦
+];
+let cb1Primary = [
+    "tiffanyhouston_",
+    "agatha137",
+    "fox_alina",
+    "marin_kitagava",
+    "violett_bray",
+    "drutywerri",
+    "curlylolly",
+
+    "vanila_cream_",
+    "ilon_rey",
+
+    // problematic
+    "bustykatia", // 🇷🇴
+    "freyaeva", // 🇷🇴
 
     // strictly eye candy, 2
     "babeholly",
@@ -171,32 +193,10 @@ let cb0Primary = [
     "_virtual_lady_",
     "stela_artois",
     "polusladkoye",
-    "sayl0r_moon",
-    "mon_amii",
-    "alisagoddie19",
-
-    "_deepthroatgalactica",
-    "rita_orra", // 🇺🇦
 
     "amelia_chi",
     "stacy_lees",
     "kriss_foxx"
-];
-let cb1Primary = [
-    "tiffanyhouston_",
-    "agatha137",
-    "fox_alina",
-    "marin_kitagava",
-    "violett_bray",
-    "drutywerri",
-    "curlylolly",
-
-    "vanila_cream_",
-    "ilon_rey",
-
-    // problematic
-    "bustykatia", // 🇷🇴
-    "freyaeva", // 🇷🇴
 
     "ronny_ponny",
     "alissa_wxw", // 🇺🇦
