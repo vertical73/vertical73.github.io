@@ -152,12 +152,12 @@ let cb0Primary = [
     "elizavetta_miller",
     "mermaids_",
     "hornyvillage",
-    "sandymiracle",
 
     // strictly eye candy, 2
     "babeholly",
     "beatrice_melton",
     "luckysexydoll",
+    "sandymiracle",
     "secrets_eli",
     "jennytime",
     "oh_sunny_",
