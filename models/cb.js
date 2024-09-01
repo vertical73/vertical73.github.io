@@ -136,6 +136,7 @@ let cb0Primary = [
     "agata_iris",
     "legendoflady", // 🇷🇴
     "ada_waist",
+    "ayla_mark",
 
     // couples
     "hot_ho",
@@ -143,9 +144,7 @@ let cb0Primary = [
     "shineblue2728",
     "hannahlusttt",
     "postbaby",
-    "ayla_mark",
     "familysexy34",
-    "logan_emma1",
 
     "merry_dancers_",
     "cutemia6",
@@ -209,6 +208,9 @@ let cb1Primary = [
     "ivy_whyte",
     "alisaa_01",
 
+    // couples
+    "logan_emma1",
+    
     "chloe_moor",
     "charming__kitty",
     "heidas_passion",
@@ -229,7 +231,7 @@ let cb1Primary = [
     "sabrina_grey", // 🇺🇦
     "sasha_slim", // 🇺🇦
 
-    // strictly eye candy
+    // strictly eye candy, 3
     "sunny_maria",
     "sophia_lean",
     "firumu",
