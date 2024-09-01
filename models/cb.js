@@ -158,6 +158,7 @@ let cb0Primary = [
     "_vi_vi_",
     "aurorashiine",
     "veronicakraft",
+    "pollyrouge",
 
     "_deepthroatgalactica",
     "rita_orra" // 🇺🇦
