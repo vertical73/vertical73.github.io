@@ -114,8 +114,8 @@ let cb0Primary = [
     "mynameisnikki",
     "amazon_girl",
     
+    "alice_leey",
     "kira_censori",
-    "violetta_finch",
     "bella_white19",
     "lovely__alisa",
     "reddfoxxy",
@@ -126,7 +126,6 @@ let cb0Primary = [
     "katie___cat",
     "asr_porter",
     "mia_gothh",
-    "alice_leey",
 
     "manita_misti",
     "aurora_the_ballerina",
@@ -160,6 +159,7 @@ let cb0Primary = [
     "pollyrouge",
     "_magic_smile_",
     "patricia_bloom",
+    "violetta_finch",
 
     "_deepthroatgalactica",
     "rita_orra", // 🇺🇦
