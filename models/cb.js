@@ -152,6 +152,8 @@ let cb0Primary = [
     "postbaby",
     "familysexy34",
 
+    "lonelly_lolly98",
+    "christiewells22",
     "merry_dancers_",
     "cutemia6",
     "_eva_blame_",
@@ -166,6 +168,10 @@ let cb0Primary = [
     "pollyrouge",
     "violetta_finch",
     
+    // problematic
+    "bustykatia", // 🇷🇴
+    "freyaeva", // 🇷🇴
+
     "wild_angel777", // 🇺🇦
     "lisa_babymetal",
 
@@ -184,10 +190,6 @@ let cb1Primary = [
 
     "vanila_cream_",
     "ilon_rey",
-
-    // problematic
-    "bustykatia", // 🇷🇴
-    "freyaeva", // 🇷🇴
 
     // strictly eye candy, 2
     "babeholly",
@@ -232,7 +234,6 @@ let cb1Primary = [
     "infinite_desire",
     "oxxme",
     "goth_dolll",
-    "christiewells22",
     "outerspace2000",
     "candy_sandy_",
     "natalie_x",
@@ -256,7 +257,6 @@ let cb1Primary = [
     "byrdtabitha",
     "fazeyj",
     "dovia",
-    "lonelly_lolly98",
     "eva_j",
 
     "poisonn_girll",
