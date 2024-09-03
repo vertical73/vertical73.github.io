@@ -152,25 +152,28 @@ let cb0Primary = [
     "postbaby",
     "familysexy34",
 
+    // strictly eye candy, 2
     "lonelly_lolly98",
+    "lauratanguy",
+    "ohbabykelly",
+    "elizavetta_miller",
+
     "christiewells22",
     "merry_dancers_",
     "cutemia6",
     "_eva_blame_",
-    "elizavetta_miller",
     "mermaids_",
     "hornyvillage",
     "sayl0r_moon",
     "mon_amii",
     "alisagoddie19",
     "_vi_vi_",
-    "veronicakraft",
     "pollyrouge",
-    "violetta_finch",
     
     // problematic
     "bustykatia", // 🇷🇴
     "freyaeva", // 🇷🇴
+
 
     "wild_angel777", // 🇺🇦
     "lisa_babymetal",
@@ -191,7 +194,7 @@ let cb1Primary = [
     "vanila_cream_",
     "ilon_rey",
 
-    // strictly eye candy, 2
+    // strictly eye candy, 3
     "babeholly",
     "beatrice_melton",
     "luckysexydoll",
@@ -199,17 +202,16 @@ let cb1Primary = [
     "secrets_eli",
     "jennytime",
     "oh_sunny_",
-    "lauratanguy",
 
     "bigorgasm4us",
-    "ohbabykelly",
     "the_truewoman_show",
-    "vanilla_lips",
     "yuriogata",
     "_just_beautiful_",
     "_virtual_lady_",
     "stela_artois",
     "polusladkoye",
+    "veronicakraft",
+    "violetta_finch",
 
     "amelia_chi",
     "stacy_lees",
@@ -221,7 +223,8 @@ let cb1Primary = [
     "ivy_whyte",
     "alisaa_01",
 
-    // couples
+    // couples, 2
+    "vanilla_lips",
     "logan_emma1",
     
     "chloe_moor",
