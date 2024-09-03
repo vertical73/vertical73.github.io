@@ -78,14 +78,14 @@ let cb0Primary = [
     "myliss",
     "star_gazing",
 
-    // augmented
-    "anna_bri",
-    "bunnydollstella",
-
     "ingergirl",
     "ab_s",
     "agata_cristy",
     "teach4kitty",
+
+    // augmented
+    "anna_bri",
+    "bunnydollstella",
 
     "lovelycaroline_",
     "lastdawn",
@@ -165,6 +165,8 @@ let cb0Primary = [
     "veronicakraft",
     "pollyrouge",
     "violetta_finch",
+    
+    "lisa_babymetal",
 
     "_deepthroatgalactica",
     "rita_orra", // 🇺🇦
