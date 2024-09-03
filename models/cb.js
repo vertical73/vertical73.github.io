@@ -19,7 +19,6 @@ let cbSecondary = [
     "evelissa",
     "_taylor_swift",
     "candyfeatcrush",
-    "saimashine",
     "neondemon_",
     "jilly_wolly1",
     "maryvi",
@@ -27,7 +26,6 @@ let cbSecondary = [
     "yournaughtymiss",
     "lexy_sinn",
     "mary_delray",
-    "frauchocolate",
 
     "_isiah", // "isia_slay",
     "sugarbae_haze",
@@ -54,11 +52,15 @@ fn__cbPrimary();
 fn__cbSecondary();
 
 let cb0Primary = [
-    "misstics_", // 🇺🇦
-    "_valentina_69",
     "milly____",
     "dollyemy",
+    "aurorashiine",
     "veronikaav",
+    "_valentina_69",
+    "saimashine",
+
+    "misstics_", // 🇺🇦
+    "frauchocolate",
 
     "catanddickxxx",
     "masqueradeporn",
@@ -92,7 +94,6 @@ let cb0Primary = [
     "ecsodia",
 
     "juicy_angels",    
-    "aurorashiine",
     "alice_leey",
     "kira_censori",
     "agata_iris",
