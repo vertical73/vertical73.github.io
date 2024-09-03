@@ -95,6 +95,7 @@ let cb0Primary = [
     "cute_shine",
     "neko_kimiko",
     "elizabad",
+    "firstoffense",
     "mary_janee__",
 
     "white_lime",
