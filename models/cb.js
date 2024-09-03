@@ -197,6 +197,7 @@ let cb1Primary = [
     "secrets_eli",
     "jennytime",
     "oh_sunny_",
+    "lauratanguy",
 
     "bigorgasm4us",
     "ohbabykelly",
