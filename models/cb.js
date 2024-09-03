@@ -91,7 +91,14 @@ let cb0Primary = [
     "jelly_w5", // "jelly_w",
     "ecsodia",
 
-    "juicy_angels",
+    "juicy_angels",    
+    "aurorashiine",
+    "alice_leey",
+    "kira_censori",
+    "agata_iris",
+    "patricia_bloom",
+
+
     "cute_shine",
     "neko_kimiko",
     "elizabad",
@@ -114,9 +121,7 @@ let cb0Primary = [
     "popsytopsy",
     "mynameisnikki",
     "amazon_girl",
-    
-    "alice_leey",
-    "kira_censori",
+
     "bella_white19",
     "lovely__alisa",
     "reddfoxxy",
@@ -132,7 +137,7 @@ let cb0Primary = [
     "aurora_the_ballerina",
     "kate_funny",
     "lilicapie",
-    "agata_iris",
+
     "legendoflady", // 🇷🇴
     "ada_waist",
     "ayla_mark",
@@ -155,10 +160,8 @@ let cb0Primary = [
     "mon_amii",
     "alisagoddie19",
     "_vi_vi_",
-    "aurorashiine",
     "veronicakraft",
     "pollyrouge",
-    "patricia_bloom",
     "violetta_finch",
 
     "_deepthroatgalactica",
