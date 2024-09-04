@@ -71,7 +71,6 @@ let cb0Primary = [
     "juicy_angels",    
     "alice_leey",
     "kira_censori",
-    "agata_iris",
     "patricia_bloom",
     "ingergirl",
 
@@ -84,7 +83,6 @@ let cb0Primary = [
     "star_gazing",
     "nikkibloom_xoxo", // nikkibloomxoxo,
 
-    "ab_s",
     "agata_cristy",
     "teach4kitty",
     "xxx_leila",
@@ -104,7 +102,6 @@ let cb0Primary = [
     "neko_kimiko",
     "elizabad",
     "firstoffense",
-    "mary_janee__",
 
     "white_lime",
     "annie_f0x",
@@ -130,6 +127,9 @@ let cb0Primary = [
     "bustykatia", // 🇷🇴
     "freyaeva", // 🇷🇴
 
+    "mary_janee__",
+    "agata_iris",
+    "ab_s",
     "neo_kirex",
     "jelli_jennifer",
     "superior_cat",
