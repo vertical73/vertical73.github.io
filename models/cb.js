@@ -159,6 +159,10 @@ let cb0Primary = [
     "babeholly",
     "luckysexydoll",
 
+    // problematic
+    "bustykatia", // 🇷🇴
+    "freyaeva", // 🇷🇴
+
     "christiewells22",
     "merry_dancers_",
     "cutemia6",
@@ -170,11 +174,6 @@ let cb0Primary = [
     "alisagoddie19",
     "_vi_vi_",
     "pollyrouge",
-    
-    // problematic
-    "bustykatia", // 🇷🇴
-    "freyaeva", // 🇷🇴
-
 
     "wild_angel777", // 🇺🇦
     "lisa_babymetal",
