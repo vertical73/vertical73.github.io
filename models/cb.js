@@ -68,7 +68,12 @@ let cb0Primary = [
     "playwithmil",
     "pornostorys",
 
-    "nikkibloom_xoxo", // nikkibloomxoxo,
+    "juicy_angels",    
+    "alice_leey",
+    "kira_censori",
+    "agata_iris",
+    "patricia_bloom",
+    "ingergirl",
 
     // strictly eye candy, 1
     "sweet_tinker_bell",
@@ -77,8 +82,8 @@ let cb0Primary = [
     "inkanuko",
     "myliss",
     "star_gazing",
+    "nikkibloom_xoxo", // nikkibloomxoxo,
 
-    "ingergirl",
     "ab_s",
     "agata_cristy",
     "teach4kitty",
@@ -94,13 +99,6 @@ let cb0Primary = [
     "vilanelle_1",
     "jelly_w5", // "jelly_w",
     "ecsodia",
-
-    "juicy_angels",    
-    "alice_leey",
-    "kira_censori",
-    "agata_iris",
-    "patricia_bloom",
-
 
     "cute_shine",
     "neko_kimiko",
