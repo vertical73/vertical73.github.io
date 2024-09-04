@@ -113,16 +113,27 @@ let cb0Primary = [
     // slutty appeal
     "your_bunnygirl", // 🇺🇦
 
-    "neo_kirex",
-    "jelli_jennifer",
-    "superior_cat",
-    "yamaguchi_",
-
     // idle
     "popsytopsy",
     "mynameisnikki",
     "amazon_girl",
 
+    // strictly eye candy, 2
+    "lonelly_lolly98",
+    "babeholly",
+    "lauratanguy",
+    "ohbabykelly",
+    "elizavetta_miller",
+    "luckysexydoll",
+
+    // problematic
+    "bustykatia", // 🇷🇴
+    "freyaeva", // 🇷🇴
+
+    "neo_kirex",
+    "jelli_jennifer",
+    "superior_cat",
+    "yamaguchi_",
     "bella_white19",
     "lovely__alisa",
     "reddfoxxy",
@@ -133,12 +144,10 @@ let cb0Primary = [
     "katie___cat",
     "asr_porter",
     "mia_gothh",
-
     "manita_misti",
     "aurora_the_ballerina",
     "kate_funny",
     "lilicapie",
-
     "legendoflady", // 🇷🇴
     "ada_waist",
     "ayla_mark",
@@ -150,18 +159,6 @@ let cb0Primary = [
     "hannahlusttt",
     "postbaby",
     "familysexy34",
-
-    // strictly eye candy, 2
-    "lonelly_lolly98",
-    "lauratanguy",
-    "ohbabykelly",
-    "elizavetta_miller",
-    "babeholly",
-    "luckysexydoll",
-
-    // problematic
-    "bustykatia", // 🇷🇴
-    "freyaeva", // 🇷🇴
 
     "christiewells22",
     "merry_dancers_",
