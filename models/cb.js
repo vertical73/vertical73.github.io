@@ -82,6 +82,7 @@ let cb0Primary = [
     "ab_s",
     "agata_cristy",
     "teach4kitty",
+    "xxx_leila",
 
     // augmented
     "anna_bri",
