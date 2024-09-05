@@ -174,6 +174,7 @@ let cb0Primary = [
 
     "wild_angel777", // 🇺🇦
     "lisa_babymetal",
+    "milla_remmy",
 
     "_deepthroatgalactica",
     "rita_orra", // 🇺🇦
