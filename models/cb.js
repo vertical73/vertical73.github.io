@@ -116,7 +116,6 @@ let cb0Primary = [
     "amazon_girl",
 
     // strictly eye candy, 2
-    "lonelly_lolly98",
     "babeholly",
     "lauratanguy",
     "ohbabykelly",
@@ -178,7 +177,8 @@ let cb0Primary = [
 
     "_deepthroatgalactica",
     "rita_orra", // 🇺🇦
-    "tootightwithbra"
+    "tootightwithbra",
+    "lonelly_lolly98"
 ];
 let cb1Primary = [
     "tiffanyhouston_",
