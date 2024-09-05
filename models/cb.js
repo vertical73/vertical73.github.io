@@ -75,6 +75,7 @@ let cb0Primary = [
     "ingergirl",
 
     // strictly eye candy, 1
+    "xxx_leila",
     "sweet_tinker_bell",
     "ksensual",
     "mia_elfie",
@@ -82,10 +83,6 @@ let cb0Primary = [
     "myliss",
     "star_gazing",
     "nikkibloom_xoxo", // nikkibloomxoxo,
-
-    "agata_cristy",
-    "teach4kitty",
-    "xxx_leila",
 
     // augmented
     "anna_bri",
@@ -95,7 +92,6 @@ let cb0Primary = [
     "lastdawn",
     "juliet_bb",
     "vilanelle_1",
-    "jelly_w5", // "jelly_w",
     "ecsodia",
 
     "cute_shine",
@@ -106,6 +102,7 @@ let cb0Primary = [
     "white_lime",
     "annie_f0x",
     "flowercandy33",
+    "jelly_w5", // "jelly_w",
 
     // slutty appeal
     "your_bunnygirl", // 🇺🇦
@@ -150,6 +147,8 @@ let cb0Primary = [
     "legendoflady", // 🇷🇴
     "ada_waist",
     "ayla_mark",
+    "agata_cristy",
+    "teach4kitty",
 
     // couples
     "hot_ho",
