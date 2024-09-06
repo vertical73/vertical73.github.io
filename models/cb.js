@@ -81,7 +81,7 @@ let cb0Primary = [
     "ksensual",
     "mia_elfie",
     "inkanuko",
-    "myliss",
+    "myliss", // 🏓
     "star_gazing",
     "nikkibloom_xoxo", // nikkibloomxoxo,
 
@@ -89,8 +89,8 @@ let cb0Primary = [
     "anna_bri",
     "bunnydollstella",
 
-    "lovelycaroline_",
-    "lastdawn",
+    "lovelycaroline_", // 🏓🏓
+    "lastdawn", // 🏓
     "juliet_bb",
     "vilanelle_1",
     "ecsodia",
@@ -145,7 +145,6 @@ let cb0Primary = [
     "aurora_the_ballerina",
     "kate_funny",
     "lilicapie",
-    "legendoflady", // 🇷🇴
     "ada_waist",
     "ayla_mark",
     "agata_cristy",
@@ -207,6 +206,7 @@ let cb1Primary = [
     "polusladkoye",
     "veronicakraft",
     "violetta_finch",
+    "legendoflady", // 🇷🇴
 
     "amelia_chi",
     "stacy_lees",
