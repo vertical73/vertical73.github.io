@@ -117,7 +117,6 @@ let cb0Primary = [
     "babeholly",
     "lauratanguy",
     "ohbabykelly",
-    "elizavetta_miller",
     "luckysexydoll",
 
     // problematic
