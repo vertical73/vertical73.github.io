@@ -105,9 +105,6 @@ let cb0Primary = [
     "flowercandy33",
     "jelly_w5", // "jelly_w",
 
-    // slutty appeal
-    "your_bunnygirl", // 🇺🇦
-
     // idle
     "popsytopsy",
     "mynameisnikki",
@@ -149,6 +146,10 @@ let cb0Primary = [
     "ayla_mark",
     "agata_cristy",
     "teach4kitty",
+    "token___",
+    "fflloowweerr",
+    "katy_ethereal",
+    "jassyejoy",
 
     // couples
     "hot_ho",
@@ -157,6 +158,10 @@ let cb0Primary = [
     "hannahlusttt",
     "postbaby",
     "familysexy34",
+
+    // slutty appeal
+    "your_bunnygirl", // 🇺🇦
+    "alyssa_smitt",
 
     "christiewells22",
     "merry_dancers_",
