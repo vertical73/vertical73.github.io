@@ -179,7 +179,6 @@ let cb0Primary = [
     "lisa_babymetal",
     "milla_remmy",
 
-    "_deepthroatgalactica",
     "rita_orra", // 🇺🇦
     "tootightwithbra"
 ];
