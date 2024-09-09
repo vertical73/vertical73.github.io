@@ -72,7 +72,6 @@ let cb0Primary = [
 
     "juicy_angels",    
     "alice_leey",
-    "kira_censori",
     "patricia_bloom",
     "ingergirl",
 
@@ -85,10 +84,6 @@ let cb0Primary = [
     "star_gazing",
     "nikkibloom_xoxo", // nikkibloomxoxo,
 
-    // augmented
-    "anna_bri",
-    "bunnydollstella",
-
     "lovelycaroline_", // 🏓🏓
     "lastdawn", // 🏓
     "juliet_bb",
@@ -96,9 +91,14 @@ let cb0Primary = [
     "ecsodia",
 
     "cute_shine",
+    "kira_censori",
     "neko_kimiko",
     "elizabad",
     "firstoffense",
+
+    // augmented
+    "anna_bri",
+    "bunnydollstella",
 
     "white_lime",
     "annie_f0x",
