@@ -72,7 +72,6 @@ let cb0Primary = [
 
     "juicy_angels",    
     "alice_leey",
-    "patricia_bloom",
     "ingergirl",
 
     // strictly eye candy, 1
@@ -90,29 +89,28 @@ let cb0Primary = [
     "vilanelle_1",
     "ecsodia",
 
-    "cute_shine",
-    "kira_censori",
-    "neko_kimiko",
-    "elizabad",
-    "firstoffense",
-
-    // augmented
-    "anna_bri",
-    "bunnydollstella",
-
-    "white_lime",
-    "annie_f0x",
-    "flowercandy33",
-    "jelly_w5", // "jelly_w",
-
     // idle
     "popsytopsy",
     "mynameisnikki",
     "amazon_girl",
 
+    // augmented
+    "anna_bri",
+    "bunnydollstella",
+
+    "kira_censori",
+    "cute_shine",
+    "neko_kimiko",
+    "firstoffense",
+    "white_lime",
+    "annie_f0x",
+    "flowercandy33",
+    "jelly_w5", // "jelly_w",
+
     // strictly eye candy, 2
     "babeholly",
     "lauratanguy",
+    "elizabad",
     "ohbabykelly",
     "luckysexydoll",
     "checkmypeach",
@@ -125,7 +123,6 @@ let cb0Primary = [
     "agata_iris",
     "ab_s",
     "neo_kirex",
-    "jelli_jennifer",
     "superior_cat",
     "yamaguchi_",
     "bella_white19",
@@ -138,9 +135,7 @@ let cb0Primary = [
     "katie___cat",
     "asr_porter",
     "mia_gothh",
-    "manita_misti",
     "aurora_the_ballerina",
-    "kate_funny",
     "lilicapie",
     "ada_waist",
     "ayla_mark",
@@ -148,7 +143,11 @@ let cb0Primary = [
     "teach4kitty",
     "token___",
     "fflloowweerr",
+    "manita_misti",
     "katy_ethereal", // 🏓
+    "patricia_bloom",
+    "jelli_jennifer",
+    "kate_funny",
 
     // couples
     "hot_ho",
