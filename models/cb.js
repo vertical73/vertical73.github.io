@@ -149,7 +149,6 @@ let cb0Primary = [
     "token___",
     "fflloowweerr",
     "katy_ethereal",
-    "jassyejoy",
 
     // couples
     "hot_ho",
