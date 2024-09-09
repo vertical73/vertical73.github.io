@@ -155,7 +155,6 @@ let cb0Primary = [
     "shineblue2728",
     "hannahlusttt",
     "postbaby",
-    "familysexy34",
 
     // slutty appeal
     "your_bunnygirl", // 🇺🇦
@@ -175,7 +174,6 @@ let cb0Primary = [
 
     "wild_angel777", // 🇺🇦
     "lisa_babymetal",
-    "milla_remmy",
 
     "rita_orra", // 🇺🇦
     "tootightwithbra"
@@ -219,10 +217,12 @@ let cb1Primary = [
     "mariamaree", // 🇺🇦
     "ivy_whyte",
     "alisaa_01",
+    "milla_remmy",
 
     // couples, 2
     "vanilla_lips",
     "logan_emma1",
+    "familysexy34",
     
     "chloe_moor",
     "charming__kitty",
