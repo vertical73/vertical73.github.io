@@ -114,6 +114,7 @@ let cb0Primary = [
     "ohbabykelly",
     "luckysexydoll",
     "checkmypeach",
+    "nika_div",
 
     // problematic
     "bustykatia", // 🇷🇴
