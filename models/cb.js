@@ -122,7 +122,6 @@ let cb0Primary = [
     "mary_janee__",
     "agata_iris",
     "ab_s",
-    "neo_kirex",
     "superior_cat",
     "yamaguchi_",
     "bella_white19",
@@ -135,7 +134,6 @@ let cb0Primary = [
     "katie___cat",
     "asr_porter",
     "mia_gothh",
-    "aurora_the_ballerina",
     "lilicapie",
     "ada_waist",
     "ayla_mark",
@@ -195,6 +193,7 @@ let cb1Primary = [
     "secrets_eli",
     "jennytime",
     "oh_sunny_",
+    "aurora_the_ballerina",
 
     "bigorgasm4us",
     "the_truewoman_show",
@@ -205,6 +204,7 @@ let cb1Primary = [
     "polusladkoye",
     "veronicakraft",
     "violetta_finch",
+    "neo_kirex",
     "legendoflady", // 🇷🇴
 
     "amelia_chi",
