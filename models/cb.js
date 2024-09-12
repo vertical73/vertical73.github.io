@@ -46,7 +46,6 @@ let cbSecondary = [
     "zoey_stonerr",
     "_woweva__",
     "sweetsnejana",
-    "lilly_vanilla",
     "feelmemore",
     "kristin_mordor"
 ];
@@ -122,6 +121,7 @@ let cb0Primary = [
     "bustykatia", // 🇷🇴
     "freyaeva", // 🇷🇴
 
+    "lilly_vanilla",
     "mary_janee__",
     "agata_iris",
     "ab_s",
@@ -159,6 +159,9 @@ let cb0Primary = [
     // slutty appeal
     "your_bunnygirl", // 🇺🇦
     "alyssa_smitt",
+
+    // studio
+    "tessarosse_",
 
     "christiewells22",
     "merry_dancers_",
