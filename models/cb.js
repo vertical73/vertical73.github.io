@@ -146,8 +146,6 @@ let cb0Primary = [
     "manita_misti",
     "katy_ethereal", // 🏓
     "patricia_bloom",
-    "jelli_jennifer",
-    "kate_funny",
 
     // couples
     "hot_ho",
@@ -155,6 +153,10 @@ let cb0Primary = [
     "shineblue2728",
     "hannahlusttt",
     "postbaby",
+
+    "jelli_jennifer",
+    "kate_funny",
+    "emilycutegirl",
 
     // slutty appeal
     "your_bunnygirl", // 🇺🇦
