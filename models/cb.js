@@ -146,6 +146,7 @@ let cb0Primary = [
     "manita_misti",
     "katy_ethereal", // 🏓
     "patricia_bloom",
+    "erelima",
 
     // couples
     "hot_ho",
