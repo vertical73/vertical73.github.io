@@ -155,7 +155,6 @@ let cb0Primary = [
     "hannahlusttt",
     "postbaby",
 
-    "jelli_jennifer",
     "kate_funny",
     "emilycutegirl",
 
@@ -225,12 +224,13 @@ let cb1Primary = [
     "ivy_whyte",
     "alisaa_01",
     "milla_remmy",
+    "jelli_jennifer",
 
     // couples, 2
     "vanilla_lips",
     "logan_emma1",
     "familysexy34",
-    
+
     "chloe_moor",
     "charming__kitty",
     "heidas_passion",
