@@ -99,7 +99,6 @@ let cb0Primary = [
     "bunnydollstella",
 
     "kira_censori", // 🏓
-    "cute_shine",
     "neko_kimiko",
     "firstoffense",
     "white_lime",
@@ -148,6 +147,7 @@ let cb0Primary = [
     "katy_ethereal", // 🏓
     "patricia_bloom",
     "erelima",
+    "cute_shine",
 
     // couples
     "hot_ho",
