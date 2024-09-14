@@ -106,6 +106,7 @@ let cb0Primary = [
     "flowercandy33",
     "jelly_w5", // "jelly_w",
     "curlylolly",
+    "shinyways",
 
     // strictly eye candy, 2
     "babeholly",
