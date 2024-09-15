@@ -148,6 +148,7 @@ let cb0Primary = [
     "katy_ethereal", // 🏓
     "erelima",
     "cute_shine",
+    "llkadream",
 
     // couples
     "hot_ho",
