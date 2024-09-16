@@ -107,6 +107,7 @@ let cb0Primary = [
     "jelly_w5", // "jelly_w",
     "curlylolly",
     "shinyways",
+    "lisa_babymetal",
 
     // strictly eye candy, 2
     "babeholly",
@@ -179,7 +180,6 @@ let cb0Primary = [
     "pollyrouge",
 
     "wild_angel777", // 🇺🇦
-    "lisa_babymetal",
     "smurf19",
 
     "rita_orra", // 🇺🇦
