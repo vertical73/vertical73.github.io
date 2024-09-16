@@ -101,13 +101,13 @@ let cb0Primary = [
     "kira_censori", // 🏓
     "neko_kimiko",
     "firstoffense",
+    "curlylolly",
+    "shinyways",
+    "lisa_babymetal",
     "white_lime",
     "annie_f0x",
     "flowercandy33",
     "jelly_w5", // "jelly_w",
-    "curlylolly",
-    "shinyways",
-    "lisa_babymetal",
 
     // strictly eye candy, 2
     "babeholly",
@@ -182,8 +182,7 @@ let cb0Primary = [
     "wild_angel777", // 🇺🇦
     "smurf19",
 
-    "rita_orra", // 🇺🇦
-    "tootightwithbra"
+    "rita_orra" // 🇺🇦
 ];
 let cb1Primary = [
     "tiffanyhouston_",
@@ -192,7 +191,6 @@ let cb1Primary = [
     "marin_kitagava",
     "violett_bray",
     "drutywerri",
-    "curlylolly",
 
     "vanila_cream_",
     "ilon_rey",
@@ -217,6 +215,7 @@ let cb1Primary = [
     "neo_kirex",
     "legendoflady", // 🇷🇴
     "patricia_bloom",
+    "tootightwithbra",
 
     "amelia_chi",
     "stacy_lees",
