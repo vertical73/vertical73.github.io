@@ -59,7 +59,6 @@ let cb0Primary = [
     "mary_delray",
     "milly____",
     "_valentina_69",
-    "saimashine",
 
     "misstics_", // 🇺🇦
     "frauchocolate",
@@ -105,6 +104,8 @@ let cb0Primary = [
     "shinyways",
     "lisa_babymetal",
     "white_lime",
+    "saimashine",
+
     "annie_f0x",
     "flowercandy33",
     "jelly_w5", // "jelly_w",
