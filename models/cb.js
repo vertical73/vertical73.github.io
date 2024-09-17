@@ -86,7 +86,6 @@ let cb0Primary = [
     "juliet_bb",
     "vilanelle_1",
     "ecsodia",
-    "my_lina",
 
     // idle
     "popsytopsy",
@@ -125,6 +124,7 @@ let cb0Primary = [
 
     // getting to know
     "theselina_kyle",
+    "my_lina",
 
     "lilly_vanilla",
     "elizabad",
