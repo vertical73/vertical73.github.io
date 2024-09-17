@@ -103,7 +103,6 @@ let cb0Primary = [
     "curlylolly",
     "shinyways",
     "lisa_babymetal",
-    "white_lime",
     "saimashine",
 
     "annie_f0x",
@@ -113,7 +112,7 @@ let cb0Primary = [
     // strictly eye candy, 2
     "babeholly",
     "lauratanguy",
-    "elizabad",
+    "white_lime",
     "ohbabykelly",
     "luckysexydoll",
     "checkmypeach",
@@ -128,6 +127,7 @@ let cb0Primary = [
     "theselina_kyle",
 
     "lilly_vanilla",
+    "elizabad",
     "mary_janee__",
     "agata_iris",
     "ab_s",
