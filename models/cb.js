@@ -124,6 +124,9 @@ let cb0Primary = [
     "bustykatia", // 🇷🇴
     "freyaeva", // 🇷🇴
 
+    // getting to know
+    "theselina_kyle",
+
     "lilly_vanilla",
     "mary_janee__",
     "agata_iris",
