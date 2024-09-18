@@ -23,12 +23,13 @@ let cbSecondary = [
     "xxx_leila",
     "yournaughtymiss",
 
-    "whitebanny",
-    "lexy_sinn",
     "aurorashiine",
     "veronikaav",
     "candyfeatcrush",
+    "neko_kimiko",
     "dollyemy",
+    "whitebanny",
+    "lexy_sinn",
     "jilly_wolly1",
     "maryvi",
 
