@@ -62,6 +62,7 @@ let cb0Primary = [
     "_valentina_69",
 
     "misstics_", // 🇺🇦
+    "fflloowweerr",
     "frauchocolate",
 
     "catanddickxxx",
@@ -152,7 +153,6 @@ let cb0Primary = [
     "ayla_mark",
     "agata_cristy",
     "teach4kitty",
-    "fflloowweerr",
     "manita_misti",
     "katy_ethereal", // 🏓
     "erelima",
