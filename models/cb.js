@@ -175,6 +175,7 @@ let cb0Primary = [
 
     // studio
     "tessarosse_",
+    "fleur_x_x",
 
     "christiewells22",
     "merry_dancers_",
