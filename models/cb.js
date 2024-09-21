@@ -83,6 +83,10 @@ let cb0Primary = [
     "star_gazing",
     "nikkibloom_xoxo", // nikkibloomxoxo,
 
+    // problematic
+    "bustykatia", // 🇷🇴
+    "freyaeva", // 🇷🇴
+
     "lovelycaroline_", // 🏓🏓
     "lastdawn", // 🏓
     "juliet_bb",
@@ -120,10 +124,6 @@ let cb0Primary = [
     "checkmypeach",
     "nika_div",
     "_sunny_mood",
-
-    // problematic
-    "bustykatia", // 🇷🇴
-    "freyaeva", // 🇷🇴
 
     // getting to know
     "theselina_kyle",
