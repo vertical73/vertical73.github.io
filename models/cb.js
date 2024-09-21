@@ -63,12 +63,12 @@ let cb0Primary = [
     "_valentina_69",
 
     "misstics_", // 🇺🇦
-    "frauchocolate",
+    "pornostorys",
 
     "catanddickxxx",
     "masqueradeporn",
     "playwithmil",
-    "pornostorys",
+    "hot_ho",
 
     "juicy_angels",    
     "alice_leey",
@@ -92,6 +92,7 @@ let cb0Primary = [
     "juliet_bb",
     "vilanelle_1",
     "ecsodia",
+    "frauchocolate",
 
     // idle
     "popsytopsy",
@@ -161,7 +162,6 @@ let cb0Primary = [
     "llkadream",
 
     // couples
-    "hot_ho",
     "viktoranmary",
     "shineblue2728",
     "hannahlusttt",
