@@ -78,10 +78,10 @@ let cb0Primary = [
     "sweet_tinker_bell",
     "ksensual",
     "mia_elfie",
-    "inkanuko",
-    "myliss", // 🏓
     "star_gazing",
+    "myliss",
     "nikkibloom_xoxo", // nikkibloomxoxo,
+    "inkanuko",
 
     // problematic
     "bustykatia", // 🇷🇴
