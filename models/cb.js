@@ -124,6 +124,7 @@ let cb0Primary = [
     "checkmypeach",
     "nika_div",
     "_sunny_mood",
+    "intim_mate",
 
     // getting to know
     "theselina_kyle",
