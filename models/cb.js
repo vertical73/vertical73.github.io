@@ -116,18 +116,6 @@ let cb0Primary = [
     "flowercandy33",
     "jelly_w5", // "jelly_w",
 
-    // strictly eye candy, 2
-    "babeholly",
-    "lauratanguy",
-    "white_lime",
-    "heyhorny_cb",
-    "ohbabykelly",
-    "luckysexydoll",
-    "checkmypeach",
-    "nika_div",
-    "_sunny_mood",
-    "intim_mate",
-
     // getting to know
     "theselina_kyle",
     "my_lina",
@@ -143,6 +131,19 @@ let cb0Primary = [
     "ab_s",
     "superior_cat",
     "yamaguchi_",
+
+    // strictly eye candy, 2
+    "babeholly",
+    "lauratanguy",
+    "white_lime",
+    "heyhorny_cb",
+    "ohbabykelly",
+    "luckysexydoll",
+    "checkmypeach",
+    "nika_div",
+    "_sunny_mood",
+    "intim_mate",
+
     "bella_white19",
     "lovely__alisa",
     "reddfoxxy",
