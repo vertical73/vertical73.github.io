@@ -123,7 +123,7 @@ let cb0Primary = [
     "onecuteangel",
     "miss_opss",
     "vina_skybabe",
-    "relaxi_g1rl"'
+    "relaxi_g1rl",
 
     "lilly_vanilla",
     "elizabad",
