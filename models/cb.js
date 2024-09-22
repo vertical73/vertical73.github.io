@@ -106,6 +106,7 @@ let cb0Primary = [
     "anna_bri",
     "bunnydollstella",
 
+    "angel_ocu",
     "firstoffense",
     "curlylolly",
     "shinyways", // 🏓
@@ -122,6 +123,7 @@ let cb0Primary = [
     "onecuteangel",
     "miss_opss",
     "vina_skybabe",
+    "relaxi_g1rl"'
 
     "lilly_vanilla",
     "elizabad",
