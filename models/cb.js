@@ -68,15 +68,16 @@ let cb0Primary = [
 
     "juicy_angels",    
     "kira_censori", // 🏓
+    "nikkibloom_xoxo", // nikkibloomxoxo,
 
     // strictly eye candy, 1
     "sweet_tinker_bell",
     "ksensual",
     "star_gazing",
     "mia_elfie",
-    "ingergirl",
     "myliss",
-    "nikkibloom_xoxo", // nikkibloomxoxo,
+    "ingergirl",
+    "ab_s",
     "inkanuko",
 
     // problematic
@@ -131,7 +132,6 @@ let cb0Primary = [
     "bestzoeyever",
     "mary_janee__",
     "agata_iris",
-    "ab_s",
     "superior_cat",
     "yamaguchi_",
 
