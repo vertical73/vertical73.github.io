@@ -58,9 +58,9 @@ fn__cbPrimary();
 fn__cbSecondary();
 
 let cb0Primary = [
-    "mary_delray",
-    "veronikaav",
     "milly____",
+    "veronikaav",
+    "mary_delray",
 
     "misstics_", // 🇺🇦
     "pornostorys",
