@@ -24,7 +24,6 @@ let cbSecondary = [
     "yournaughtymiss",
 
     "aurorashiine",
-    "veronikaav",
     "candyfeatcrush",
     "neko_kimiko",
     "dollyemy",
@@ -60,8 +59,8 @@ fn__cbSecondary();
 
 let cb0Primary = [
     "mary_delray",
+    "veronikaav",
     "milly____",
-    "_valentina_69",
 
     "misstics_", // 🇺🇦
     "pornostorys",
@@ -102,6 +101,7 @@ let cb0Primary = [
     "popsytopsy",
     "mynameisnikki",
     "amazon_girl",
+    "_valentina_69",
 
     // augmented
     "anna_bri",
