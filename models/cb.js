@@ -7,7 +7,7 @@ let cbPrimary = [
     "esther_estrie",
     "sweetkira555",
     "alice_kosmos",
-    "rosaliekin", // "rosykindred",
+    "rosykindred", // "rosaliekin", // "rosykindred",
     "candysfox"
 ];
 let cbSecondary = [
