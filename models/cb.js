@@ -48,7 +48,11 @@ let cbSecondary = [
     "_woweva__",
     "sweetsnejana",
     "feelmemore",
-    "kristin_mordor"
+    "kristin_mordor",
+
+    // problematic
+    "bustykatia", // 🇷🇴
+    "freyaeva" // 🇷🇴
 ];
 
 let fn__cbPrimary = async () => { cbPrimary.forEach(m => addModel(m, 23)); }
@@ -78,10 +82,6 @@ let cb0Primary = [
     "ingergirl",
     "ab_s",
     "inkanuko",
-
-    // problematic
-    "bustykatia", // 🇷🇴
-    "freyaeva", // 🇷🇴
 
     // couples
     "catanddickxxx",
