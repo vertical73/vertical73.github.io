@@ -119,6 +119,7 @@ let cb0Primary = [
     "jelly_w5", // "jelly_w",
 
     // getting to know
+    "alexiafoxmodel", // 🏓
     "theselina_kyle",
     "my_lina",
     "onecuteangel",
