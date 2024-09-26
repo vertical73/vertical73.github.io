@@ -72,6 +72,7 @@ let cb0Primary = [
     "juicy_angels",    
     "kira_censori", // 🏓
     "nikkibloom_xoxo", // nikkibloomxoxo,
+    "agata_cristy", // 🏓
 
     // strictly eye candy, 1
     "sweet_tinker_bell",
@@ -158,7 +159,6 @@ let cb0Primary = [
     "lilicapie",
     "ada_waist",
     "ayla_mark",
-    "agata_cristy",
     "manita_misti",
     "katy_ethereal", // 🏓
     "erelima",
