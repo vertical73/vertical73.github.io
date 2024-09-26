@@ -48,11 +48,7 @@ let cbSecondary = [
     "_woweva__",
     "sweetsnejana",
     "feelmemore",
-    "kristin_mordor",
-
-    // problematic
-    "bustykatia", // 🇷🇴
-    "freyaeva" // 🇷🇴
+    "kristin_mordor"
 ];
 
 let fn__cbPrimary = async () => { cbPrimary.forEach(m => addModel(m, 23)); }
@@ -73,6 +69,10 @@ let cb0Primary = [
     "kira_censori", // 🏓
     "nikkibloom_xoxo", // nikkibloomxoxo,
     "agata_cristy", // 🏓
+
+    // problematic
+    "bustykatia", // 🇷🇴
+    "freyaeva", // 🇷🇴
 
     // strictly eye candy, 1
     "sweet_tinker_bell",
