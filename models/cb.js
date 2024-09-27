@@ -68,12 +68,6 @@ let cb0Primary = [
     "juicy_angels",    
     "kira_censori", // 🏓
     "nikkibloom_xoxo", // nikkibloomxoxo,
-    "agata_cristy", // 🏓
-
-    // problematic
-    "bustykatia", // 🇷🇴
-    "freyaeva", // 🇷🇴
-
     // strictly eye candy, 1
     "sweet_tinker_bell",
     "ksensual",
@@ -96,12 +90,17 @@ let cb0Primary = [
     "vilanelle_1",
     "ecsodia",
     "frauchocolate",
+    "agata_cristy", // 🏓
 
     // idle
     "popsytopsy",
     "mynameisnikki",
     "amazon_girl",
     "_valentina_69",
+
+    // problematic
+    "bustykatia", // 🇷🇴
+    "freyaeva", // 🇷🇴
 
     // augmented
     "anna_bri",
