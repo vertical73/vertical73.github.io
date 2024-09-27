@@ -98,10 +98,6 @@ let cb0Primary = [
     "amazon_girl",
     "_valentina_69",
 
-    // problematic
-    "bustykatia", // 🇷🇴
-    "freyaeva", // 🇷🇴
-
     // augmented
     "anna_bri",
     "bunnydollstella",
@@ -230,6 +226,10 @@ let cb1Primary = [
     "patricia_bloom",
     "tootightwithbra",
     "teach4kitty",
+
+    // problematic
+    "bustykatia", // 🇷🇴
+    "freyaeva", // 🇷🇴
 
     "amelia_chi",
     "stacy_lees",
