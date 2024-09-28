@@ -67,6 +67,7 @@ let cb0Primary = [
     "misstics_", // 🇺🇦
     "pornostorys",
     "kira_censori", // 🏓
+    "angel_ocu",
 
     // strictly eye candy, 1
     "sweet_tinker_bell",
@@ -102,7 +103,6 @@ let cb0Primary = [
     "anna_bri",
     "bunnydollstella",
 
-    "angel_ocu",
     "firstoffense",
     "curlylolly",
     "shinyways", // 🏓
