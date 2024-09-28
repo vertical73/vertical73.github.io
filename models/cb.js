@@ -119,7 +119,6 @@ let cb0Primary = [
     "my_lina",
     "onecuteangel",
     "miss_opss",
-    "vina_skybabe",
     "relaxi_g1rl",
     "anbarbie",
     "totallytiny_",
@@ -158,7 +157,6 @@ let cb0Primary = [
     "ayla_mark",
     "manita_misti",
     "katy_ethereal", // 🏓
-    "erelima",
     "cute_shine",
     "llkadream",
     "the_humble_fox_69",
@@ -271,6 +269,8 @@ let cb1Primary = [
     "sabrina_grey", // 🇺🇦
     "sasha_slim", // 🇺🇦
     "_vi_vi_",
+    "vina_skybabe",
+    "erelima",
 
     // strictly eye candy, 3
     "sunny_maria",
