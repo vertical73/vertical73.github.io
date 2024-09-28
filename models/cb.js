@@ -58,16 +58,16 @@ fn__cbPrimary();
 fn__cbSecondary();
 
 let cb0Primary = [
+    "juicy_angels",    
+    "nikkibloom_xoxo", // nikkibloomxoxo,
     "milly____",
     "veronikaav",
     "mary_delray",
 
     "misstics_", // 🇺🇦
     "pornostorys",
-
-    "juicy_angels",    
     "kira_censori", // 🏓
-    "nikkibloom_xoxo", // nikkibloomxoxo,
+
     // strictly eye candy, 1
     "sweet_tinker_bell",
     "ksensual",
