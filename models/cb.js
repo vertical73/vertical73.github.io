@@ -68,6 +68,8 @@ let cb0Primary = [
     "pornostorys",
     "kira_censori", // 🏓
     "angel_ocu",
+    "juliet_bb",
+    "vilanelle_1",
 
     // strictly eye candy, 1
     "sweet_tinker_bell",
@@ -87,8 +89,6 @@ let cb0Primary = [
 
     "lovelycaroline_", // 🏓🏓
     "lastdawn", // 🏓
-    "juliet_bb",
-    "vilanelle_1",
     "ecsodia",
     "frauchocolate",
     "agata_cristy", // 🏓
