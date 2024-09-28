@@ -114,6 +114,7 @@ let cb0Primary = [
     "jelly_w5", // "jelly_w",
 
     // getting to know
+    "the_anya",
     "alexiafoxmodel", // 🏓
     "my_lina",
     "onecuteangel",
@@ -160,6 +161,7 @@ let cb0Primary = [
     "erelima",
     "cute_shine",
     "llkadream",
+    "the_humble_fox_69",
 
     // couples
     "viktoranmary",
