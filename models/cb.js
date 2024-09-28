@@ -123,7 +123,6 @@ let cb0Primary = [
     "relaxi_g1rl",
     "anbarbie",
     "totallytiny_",
-    "chisamisa",
 
     "lilly_vanilla",
     "elizabad",
@@ -230,6 +229,7 @@ let cb1Primary = [
     "patricia_bloom",
     "tootightwithbra",
     "teach4kitty",
+    "chisamisa",
 
     // problematic
     "bustykatia", // 🇷🇴
