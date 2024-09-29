@@ -69,6 +69,7 @@ let cb0Primary = [
     "kira_censori", // 🏓
     "angel_ocu",
     "juliet_bb",
+    "totallytiny_", // 🇺🇦
     "vilanelle_1",
 
     // strictly eye candy, 1
@@ -121,7 +122,6 @@ let cb0Primary = [
     "miss_opss",
     "relaxi_g1rl",
     "anbarbie",
-    "totallytiny_",
 
     "lilly_vanilla",
     "elizabad",
