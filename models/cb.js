@@ -167,9 +167,6 @@ let cb0Primary = [
     "hannahlusttt",
     "postbaby",
 
-    "kate_funny",
-    "emilycutegirl",
-
     // slutty appeal
     "your_bunnygirl", // 🇺🇦
     "alyssa_smitt",
@@ -181,12 +178,12 @@ let cb0Primary = [
     "merry_dancers_",
     "cutemia6",
     "_eva_blame_",
-    "mermaids_",
     "hornyvillage",
     "sayl0r_moon",
     "mon_amii",
     "alisagoddie19",
     "pollyrouge",
+    "kate_funny",
 
     "wild_angel777", // 🇺🇦
     "smurf19",
@@ -201,6 +198,8 @@ let cb1Primary = [
     "marin_kitagava",
     "violett_bray",
     "drutywerri",
+    "mermaids_",
+    "emilycutegirl",
 
     "vanila_cream_",
     "ilon_rey",
