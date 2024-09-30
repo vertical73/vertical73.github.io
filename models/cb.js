@@ -92,6 +92,7 @@ let cb0Primary = [
     "ecsodia",
     "frauchocolate",
     "agata_cristy", // 🏓
+    "dearly_emily",
 
     // idle
     "popsytopsy",
@@ -168,7 +169,6 @@ let cb0Primary = [
 
     // slutty appeal
     "your_bunnygirl", // 🇺🇦
-    "dearly_emily",
     "alyssa_smitt",
 
     // studio
