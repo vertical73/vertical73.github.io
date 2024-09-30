@@ -20,19 +20,20 @@ let cbSecondary = [
     "_taylor_swift",
     "neondemon_",
 
-    "xxx_leila",
-    "yournaughtymiss",
-
+    "lexy_sinn",
+    "fflloowweerr",
+    "onecuteangel",
     "aurorashiine",
     "candyfeatcrush",
     "dollyemy",
-    "lexy_sinn",
-    "fflloowweerr",
     "neko_kimiko",
     "whitebanny",
     "neko_kimiko",
     "jilly_wolly1",
     "maryvi",
+
+    "xxx_leila",
+    "yournaughtymiss",
 
     "_isiah", // "isia_slay",
     "sugarbae_haze",
@@ -66,6 +67,7 @@ let cb0Primary = [
 
     "misstics_", // 🇺🇦
     "pornostorys",
+
     "kira_censori", // 🏓
     "angel_ocu",
     "juliet_bb",
@@ -118,7 +120,6 @@ let cb0Primary = [
     "the_anya", // 🇺🇦
     "alexiafoxmodel", // 🏓
     "my_lina",
-    "onecuteangel",
     "miss_opss",
     "relaxi_g1rl",
     "anbarbie",
