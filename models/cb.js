@@ -168,6 +168,7 @@ let cb0Primary = [
 
     // slutty appeal
     "your_bunnygirl", // 🇺🇦
+    "dearly_emily",
     "alyssa_smitt",
 
     // studio
