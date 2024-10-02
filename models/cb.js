@@ -59,7 +59,7 @@ fn__cbPrimary();
 fn__cbSecondary();
 
 let cb0Primary = [
-    "juicy_angels",    
+    "juicy_angels",
     "nikkibloom_xoxo", // nikkibloomxoxo,
     "milly____",
     "veronikaav",
