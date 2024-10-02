@@ -22,9 +22,11 @@ let cbSecondary = [
 
     "lexy_sinn",
     "fflloowweerr",
-    "onecuteangel",
+
     "aurorashiine",
     "candyfeatcrush",
+    "dearly_emily",
+    "onecuteangel",
     "dollyemy",
     "neko_kimiko",
     "whitebanny",
@@ -94,7 +96,6 @@ let cb0Primary = [
     "ecsodia",
     "frauchocolate",
     "agata_cristy", // 🏓
-    "dearly_emily",
 
     // idle
     "popsytopsy",
