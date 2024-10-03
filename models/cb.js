@@ -67,6 +67,7 @@ let cb0Primary = [
     "milly____",
     "veronikaav",
     "mary_delray",
+    "_valentina_69",
 
     "misstics_", // 🇺🇦
     "pornostorys",
@@ -102,7 +103,6 @@ let cb0Primary = [
     "popsytopsy",
     "mynameisnikki",
     "amazon_girl",
-    "_valentina_69",
 
     // augmented
     "anna_bri",
