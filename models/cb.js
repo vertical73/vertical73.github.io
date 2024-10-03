@@ -79,8 +79,9 @@ let cb0Primary = [
 
     // strictly eye candy, 1
     "sweet_tinker_bell",
-    "ksensual",
+    "meghanesse",
     "star_gazing",
+    "ksensual",
     "mia_elfie",
     "myliss",
     "ingergirl",
@@ -119,7 +120,6 @@ let cb0Primary = [
     "jelly_w5", // "jelly_w",
 
     // getting to know
-    "meghanesse",
     "the_anya", // 🇺🇦
     "alexiafoxmodel", // 🏓
     "my_lina",
