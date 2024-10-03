@@ -119,10 +119,10 @@ let cb0Primary = [
     "jelly_w5", // "jelly_w",
 
     // getting to know
+    "meghanesse",
     "the_anya", // 🇺🇦
     "alexiafoxmodel", // 🏓
     "my_lina",
-    "miss_opss",
     "relaxi_g1rl",
     "anbarbie",
     "misssweettie",
@@ -137,7 +137,7 @@ let cb0Primary = [
 
     // strictly eye candy, 2
     "babeholly",
-    "meghanesse",
+    "miss_opss",
     "luckysexydoll",
     "checkmypeach",
     "white_lime",
