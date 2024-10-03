@@ -137,14 +137,14 @@ let cb0Primary = [
 
     // strictly eye candy, 2
     "babeholly",
-    "lauratanguy",
-    "heyhorny_cb",
-    "ohbabykelly",
+    "meghanesse",
     "luckysexydoll",
     "checkmypeach",
-    "_sunny_mood",
     "white_lime",
-    "meghanesse",
+    "heyhorny_cb",
+    "ohbabykelly",
+    "lauratanguy",
+    "_sunny_mood",
 
     "bella_white19",
     "lovely__alisa",
