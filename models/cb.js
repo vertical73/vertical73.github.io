@@ -99,6 +99,7 @@ let cb0Primary = [
     "ecsodia",
     "frauchocolate",
     "agata_cristy", // 🏓
+    "jennytime",
 
     // idle
     "popsytopsy",
@@ -212,7 +213,6 @@ let cb1Primary = [
     "beatrice_melton",
     "sandymiracle",
     "secrets_eli",
-    "jennytime",
     "oh_sunny_",
     "aurora_the_ballerina",
 
