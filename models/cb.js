@@ -24,10 +24,9 @@ let cbSecondary = [
 
     "lexy_sinn",
     "fflloowweerr",
-
+    "dearly_emily",
     "aurorashiine",
     "candyfeatcrush",
-    "dearly_emily",
     "onecuteangel",
     "dollyemy",
     "neko_kimiko",
