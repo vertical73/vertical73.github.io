@@ -228,7 +228,6 @@ let cb1Primary = [
     "patricia_bloom",
     "tootightwithbra",
     "teach4kitty",
-    "chisamisa",
 
     // problematic
     "bustykatia", // 🇷🇴
