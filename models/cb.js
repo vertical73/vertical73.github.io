@@ -135,7 +135,6 @@ let cb0Primary = [
     "bestzoeyever",
     "mary_janee__",
     "agata_iris",
-    "superior_cat",
     "yamaguchi_",
 
     // strictly eye candy, 2
@@ -164,7 +163,6 @@ let cb0Primary = [
     "katy_ethereal", // 🏓
     "cute_shine",
     "llkadream",
-    "the_humble_fox_69",
 
     // couples
     "viktoranmary",
@@ -186,7 +184,6 @@ let cb0Primary = [
     "hornyvillage",
     "sayl0r_moon",
     "mon_amii",
-    "alisagoddie19",
     "pollyrouge",
     "kate_funny",
 
@@ -197,6 +194,16 @@ let cb0Primary = [
 ];
 let cb1Primary = [
     "tiffanyhouston_",
+    "bigorgasm4us",
+
+    // problematic
+    "bustykatia", // 🇷🇴
+    "freyaeva", // 🇷🇴
+
+    "superior_cat",
+    "alisagoddie19",
+    "the_humble_fox_69",
+
     "christiewells22",
     "agatha137",
     "fox_alina",
@@ -216,7 +223,6 @@ let cb1Primary = [
     "oh_sunny_",
     "aurora_the_ballerina",
 
-    "bigorgasm4us",
     "the_truewoman_show",
     "yuriogata",
     "_just_beautiful_",
@@ -230,10 +236,6 @@ let cb1Primary = [
     "patricia_bloom",
     "tootightwithbra",
     "teach4kitty",
-
-    // problematic
-    "bustykatia", // 🇷🇴
-    "freyaeva", // 🇷🇴
 
     "amelia_chi",
     "stacy_lees",
