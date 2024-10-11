@@ -135,6 +135,7 @@ let cb0Primary = [
     "bestzoeyever",
     "agata_iris",
     "yamaguchi_",
+    "vopooo",
 
     // strictly eye candy, 2
     "babeholly",
