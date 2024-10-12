@@ -184,10 +184,7 @@ let cb0Primary = [
     "mon_amii",
     "pollyrouge",
     "kate_funny",
-
     "wild_angel777", // 🇺🇦
-    "smurf19",
-
     "rita_orra" // 🇺🇦
 ];
 let cb1Primary = [
@@ -223,6 +220,7 @@ let cb1Primary = [
     "secrets_eli",
     "oh_sunny_",
     "aurora_the_ballerina",
+    "smurf19",
 
     "the_truewoman_show",
     "yuriogata",
