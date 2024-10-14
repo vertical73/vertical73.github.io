@@ -137,6 +137,7 @@ let cb0Primary = [
     "agata_iris",
     "yamaguchi_",
     "vopooo",
+    "aurora_the_ballerina",
 
     // strictly eye candy, 2
     "babeholly",
@@ -220,7 +221,6 @@ let cb1Primary = [
     "sandymiracle",
     "secrets_eli",
     "oh_sunny_",
-    "aurora_the_ballerina",
     "smurf19",
 
     "the_truewoman_show",
