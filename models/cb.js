@@ -160,7 +160,6 @@ let cb0Primary = [
     "ada_waist",
     "ayla_mark",
     "manita_misti",
-    "katy_ethereal", // 🏓
     "llkadream",
 
     // couples
@@ -203,6 +202,7 @@ let cb1Primary = [
     "_sunny_mood",
     "wild_angel777", // 🇺🇦
 
+    "katy_ethereal", // 🏓
     "christiewells22",
     "agatha137",
     "fox_alina",
