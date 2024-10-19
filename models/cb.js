@@ -272,7 +272,7 @@ let cb1Primary = [
     "my_lou",
     "alisevine",
     "sabrina_grey", // 🇺🇦
-    "sasha_slim", // 🇺🇦
+    "vvalkyriee", // "sasha_slim", // 🇺🇦
     "_vi_vi_",
     "vina_skybabe",
     "erelima",
