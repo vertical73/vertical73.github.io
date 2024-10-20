@@ -97,6 +97,8 @@ let cb0Primary = [
     "lovelycaroline_", // 🏓🏓
     "lastdawn", // 🏓
     "ecsodia",
+
+    "lauratanguy",
     "frauchocolate",
     "agata_cristy", // 🏓
     "jennytime",
@@ -144,7 +146,6 @@ let cb0Primary = [
     "white_lime",
     "heyhorny_cb",
     "ohbabykelly",
-    "lauratanguy",
 
     "lovely__alisa",
     "reddfoxxy",
