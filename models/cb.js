@@ -146,7 +146,6 @@ let cb0Primary = [
     "ohbabykelly",
     "lauratanguy",
 
-    "bella_white19",
     "lovely__alisa",
     "reddfoxxy",
     "amelia_chi",
@@ -181,7 +180,6 @@ let cb0Primary = [
     "hornyvillage",
     "sayl0r_moon",
     "mon_amii",
-    "pollyrouge",
     "kate_funny",
     "rita_orra" // 🇺🇦
 ];
@@ -200,6 +198,7 @@ let cb1Primary = [
     "the_humble_fox_69",
     "_sunny_mood",
     "wild_angel777", // 🇺🇦
+    "bella_white19",
 
     "katy_ethereal", // 🏓
     "christiewells22",
@@ -237,6 +236,7 @@ let cb1Primary = [
     "_a_n_n_y_",
     "relaxi_g1rl",
     "skinny_alice",
+    "pollyrouge",
 
     "amelia_chi",
     "stacy_lees",
