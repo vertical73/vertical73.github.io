@@ -125,7 +125,6 @@ let cb0Primary = [
     "the_anya", // 🇺🇦
     "alexiafoxmodel", // 🏓
     "my_lina",
-    "relaxi_g1rl",
     "anbarbie",
     "misssweettie",
     "corni__",
@@ -237,6 +236,7 @@ let cb1Primary = [
     "tootightwithbra",
     "teach4kitty",
     "_a_n_n_y_",
+    "relaxi_g1rl",
 
     "amelia_chi",
     "stacy_lees",
