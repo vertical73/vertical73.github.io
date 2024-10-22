@@ -165,7 +165,6 @@ let cb0Primary = [
     "viktoranmary",
     "shineblue2728",
     "hannahlusttt",
-    "postbaby",
 
     // slutty appeal
     "your_bunnygirl", // 🇺🇦
@@ -255,6 +254,7 @@ let cb1Primary = [
     "vanilla_lips",
     "logan_emma1",
     "familysexy34",
+    "postbaby",
 
     "chloe_moor",
     "charming__kitty",
