@@ -171,10 +171,6 @@ let cb0Primary = [
     "your_bunnygirl", // 🇺🇦
     "alyssa_smitt",
 
-    // studio
-    "tessarosse_",
-    "fleur_x_x",
-
     "merry_dancers_",
     "cutemia6",
     "_eva_blame_",
@@ -303,6 +299,8 @@ let cb1Primary = [
     "miasbakkery_",
 
     // studio
+    "tessarosse_",
+    "fleur_x_x",
     "chatur_babes_",
     "hadleynichols",
     "tanaichon"
