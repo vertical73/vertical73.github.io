@@ -164,7 +164,6 @@ let cb0Primary = [
 
     // couples
     "viktoranmary",
-    "shineblue2728",
     "hannahlusttt",
 
     // slutty appeal
@@ -249,6 +248,7 @@ let cb1Primary = [
 
     // couples, 2
     "vanilla_lips",
+    "shineblue2728",
     "logan_emma1",
     "familysexy34",
     "postbaby",
