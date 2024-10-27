@@ -81,6 +81,8 @@ let cb0Primary = [
     "angel_ocu",
     "juliet_bb",
     "vilanelle_1",
+    "shinyways", // 🏓
+    "saimashine",
 
     // strictly eye candy, 1
     "myliss",
@@ -101,6 +103,7 @@ let cb0Primary = [
     "frauchocolate",
     "agata_cristy", // 🏓
     "jennytime",
+    "jelly_w5", // "jelly_w",
 
     // idle
     "popsytopsy",
@@ -111,16 +114,6 @@ let cb0Primary = [
     "anna_bri",
     "bunnydollstella",
 
-    "firstoffense",
-    "curlylolly",
-    "shinyways", // 🏓
-    "lisa_babymetal",
-    "saimashine",
-
-    "annie_f0x",
-    "flowercandy33",
-    "jelly_w5", // "jelly_w",
-
     // getting to know
     "judycarr",
     "mia_gothh",
@@ -129,17 +122,22 @@ let cb0Primary = [
     "my_lina",
     "anbarbie",
     "misssweettie",
-    "corni__",
     "sherry_sandra",
+    "corni__",
     "sexytemptation696",
 
-    "lilly_vanilla",
     "elizabad",
     "bestzoeyever",
     "agata_iris",
     "yamaguchi_",
     "vopooo",
     "aurora_the_ballerina",
+
+    "flowercandy33",
+    "firstoffense",
+    "curlylolly",
+    "lisa_babymetal",
+    "annie_f0x",
 
     // strictly eye candy, 2
     "babeholly",
@@ -150,6 +148,7 @@ let cb0Primary = [
     "ohbabykelly",
     "lauratanguy",
 
+    "lilly_vanilla",
     "lovely__alisa",
     "reddfoxxy",
     "amelia_chi",
