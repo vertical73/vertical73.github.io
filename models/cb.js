@@ -39,7 +39,6 @@ let cbSecondary = [
     "nikkibloom_xoxo", // nikkibloomxoxo,
     "misstics_", // 🇺🇦
     "pornostorys",
-    "judycarr",
 
     // strictly eye candy
     "xxx_leila",
@@ -123,6 +122,7 @@ let cb0Primary = [
     "jelly_w5", // "jelly_w",
 
     // getting to know
+    "judycarr",
     "mia_gothh",
     "the_anya", // 🇺🇦
     "alexiafoxmodel", // 🏓
