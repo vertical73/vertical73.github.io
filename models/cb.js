@@ -125,6 +125,7 @@ let cb0Primary = [
     "corni__",
     "sexytemptation696",
     "1i1ypa1mer",
+    "blondyrush",
 
     "elizabad",
     "bestzoeyever",
