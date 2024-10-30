@@ -3,14 +3,16 @@ let cbPrimary = [
     "_milkyway",
     "little_vee",
     "xxlika",
-    "blackmango_mary",
     "haisley_dream1", // 🇺🇦 // "hayle_green", "xlorraine", 
 
-    "esther_estrie",
-    "sweetkira555",
     "alice_kosmos",
+    "esther_estrie",
+    "fflloowweerr",
+    "dearly_emily",
+    "sweetkira555",
     "rosykindred", // "rosaliekin", // "rosykindred",
-    "candysfox"
+    "candysfox",
+    "blackmango_mary"
 ];
 let cbSecondary = [
     "qeeensgambit",
@@ -22,10 +24,8 @@ let cbSecondary = [
     "_taylor_swift",
     "neondemon_",
 
-    "fflloowweerr",
-    "dearly_emily",
-    "aurorashiine",
     "candyfeatcrush",
+    "juicy_angels",
     "onecuteangel",
     "dollyemy",
     "neko_kimiko",
@@ -33,13 +33,13 @@ let cbSecondary = [
     "jilly_wolly1",
     "maryvi",
 
-    "juicy_angels",
     "nikkibloom_xoxo", // nikkibloomxoxo,
     "misstics_", // 🇺🇦
     "yournaughtymiss",
     "star_gazing",
-    "lexy_sinn",
+    "aurorashiine",
     "pornostorys",
+    "lexy_sinn",
 
     // strictly eye candy
     "xxx_leila",
