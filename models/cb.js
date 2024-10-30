@@ -25,13 +25,14 @@ let cbSecondary = [
     "neondemon_",
 
     "candyfeatcrush",
-    "juicy_angels",
     "onecuteangel",
     "dollyemy",
     "neko_kimiko",
+    "juicy_angels",
     "whitebanny",
     "jilly_wolly1",
     "maryvi",
+    "shinyways", // 🏓
 
     "nikkibloom_xoxo", // nikkibloomxoxo,
     "misstics_", // 🇺🇦
@@ -80,7 +81,6 @@ let cb0Primary = [
     "angel_ocu",
     "juliet_bb",
     "vilanelle_1",
-    "shinyways", // 🏓
     "saimashine",
 
     // strictly eye candy, 1
