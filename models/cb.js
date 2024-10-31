@@ -114,7 +114,6 @@ let cb0Primary = [
     "bunnydollstella",
 
     // getting to know
-    "judycarr",
     "mia_gothh",
     "the_anya", // 🇺🇦
     "alexiafoxmodel", // 🏓
