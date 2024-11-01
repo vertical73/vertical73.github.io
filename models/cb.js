@@ -93,7 +93,6 @@ let cb0Primary = [
     "catanddickxxx",
     "masqueradeporn",
     "playwithmil",
-    "hot_ho",
 
     "lovelycaroline_", // 🏓🏓
     "lastdawn", // 🏓
@@ -163,7 +162,7 @@ let cb0Primary = [
     "manita_misti",
     "llkadream",
 
-    // couples
+    // couples 2
     "viktoranmary",
     "hannahlusttt",
 
@@ -247,7 +246,8 @@ let cb1Primary = [
     "milla_remmy",
     "jelli_jennifer",
 
-    // couples, 2
+    // couples, 3
+    "hot_ho",
     "vanilla_lips",
     "shineblue2728",
     "logan_emma1",
