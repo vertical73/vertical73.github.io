@@ -86,6 +86,7 @@ let cb0Primary = [
     // strictly eye candy, 1
     "myliss",
     "ingergirl",
+    "vopooo",
     "ab_s",
     "inkanuko",
 
@@ -129,7 +130,6 @@ let cb0Primary = [
     "bestzoeyever",
     "agata_iris",
     "yamaguchi_",
-    "vopooo",
     "aurora_the_ballerina",
 
     "flowercandy33",
