@@ -89,6 +89,7 @@ let cb0Primary = [
     "vopooo",
     "ab_s",
     "inkanuko",
+    "true_sue",
 
     // couples
     "catanddickxxx",
@@ -98,11 +99,6 @@ let cb0Primary = [
     "lovelycaroline_", // 🏓🏓
     "lastdawn", // 🏓
     "ecsodia",
-
-    "frauchocolate",
-    "agata_cristy", // 🏓
-    "jennytime",
-    "jelly_w5", // "jelly_w",
 
     // idle
     "popsytopsy",
@@ -126,9 +122,13 @@ let cb0Primary = [
     "1i1ypa1mer",
     "blondyrush",
     "_vi_vi_",
-    "true_sue",
 
     "elizabad",
+    "frauchocolate",
+    "agata_cristy", // 🏓
+    "jennytime",
+    "jelly_w5", // "jelly_w",
+
     "bestzoeyever",
     "agata_iris",
     "aurora_the_ballerina",
