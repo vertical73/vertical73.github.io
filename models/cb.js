@@ -38,9 +38,6 @@ let cbSecondary = [
     "misstics_", // 🇺🇦
     "yournaughtymiss",
     "star_gazing",
-    "aurorashiine",
-    "pornostorys",
-    "lexy_sinn",
 
     // strictly eye candy
     "xxx_leila",
@@ -50,8 +47,12 @@ let cbSecondary = [
     "sweet_tinker_bell",
 
     "_isiah", // "isia_slay",
-    "sugarbae_haze",
     "hayley__lee",
+
+    "aurorashiine",
+    "lexy_sinn",
+    "saimashine",
+    "pornostorys",
 
     // idle
     "lovahd",
@@ -60,9 +61,10 @@ let cbSecondary = [
     "annie_sweetyxx",
     "zoey_stonerr",
     "_woweva__",
-    "sweetsnejana",
     "feelmemore",
-    "kristin_mordor"
+    "sugarbae_haze",
+    "kristin_mordor",
+    "sweetsnejana"
 ];
 
 let fn__cbPrimary = async () => { cbPrimary.forEach(m => addModel(m, 23)); }
@@ -81,7 +83,6 @@ let cb0Primary = [
     "angel_ocu",
     "juliet_bb",
     "vilanelle_1",
-    "saimashine",
 
     // strictly eye candy, 1
     "myliss",
