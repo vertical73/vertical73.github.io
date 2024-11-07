@@ -55,6 +55,10 @@ let cbSecondary = [
     "saimashine",
     "pornostorys",
 
+    // couples
+    "catanddickxxx",
+    "masqueradeporn",
+
     // idle
     "lovahd",
     "lola_bunny94",
@@ -86,8 +90,6 @@ let cb0Primary = [
     "vilanelle_1",
 
     // couples
-    "catanddickxxx",
-    "masqueradeporn",
     "playwithmil",
     "milly____",
 
