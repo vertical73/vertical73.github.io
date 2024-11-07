@@ -27,11 +27,13 @@ let cbSecondary = [
     "candyfeatcrush",
     "onecuteangel",
     "dollyemy",
-    "neko_kimiko",
-    "juicy_angels",
     "whitebanny",
     "jilly_wolly1",
     "maryvi",
+
+    "lexi_ridss_",
+    "neko_kimiko",
+    "juicy_angels",
     "shinyways", // 🏓
 
     "nikkibloom_xoxo", // nikkibloomxoxo,
