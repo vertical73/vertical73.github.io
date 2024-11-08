@@ -18,6 +18,7 @@ let cbSecondary = [
     "qeeensgambit",
     "wild_schoolgirl", // 🇷🇴
     "flowerr_powerr",
+    "lexi_ridss_", // 🇺🇦
     "marylanex", // 🇺🇦
     "alis_molli", // 🇺🇦
     "evelissa",
@@ -31,7 +32,6 @@ let cbSecondary = [
     "jilly_wolly1",
     "maryvi",
 
-    "lexi_ridss_",
     "neko_kimiko",
     "juicy_angels",
     "shinyways", // 🏓
