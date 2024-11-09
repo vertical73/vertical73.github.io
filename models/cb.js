@@ -35,22 +35,20 @@ let cbSecondary = [
     "neko_kimiko",
     "juicy_angels",
     "shinyways", // 🏓
+    "aurorashiine",
 
     "nikkibloom_xoxo", // nikkibloomxoxo,
     "yournaughtymiss",
     "star_gazing",
 
     // strictly eye candy
+    "_isiah", // "isia_slay",
     "xxx_leila",
     "meghanesse",
     "ksensual",
     "mia_elfie",
     "sweet_tinker_bell",
 
-    "_isiah", // "isia_slay",
-    "hayley__lee",
-
-    "aurorashiine",
     "lexy_sinn",
     "saimashine",
     "pornostorys",
@@ -66,6 +64,7 @@ let cbSecondary = [
     "annie_sweetyxx",
     "zoey_stonerr",
     "_woweva__",
+    "hayley__lee",
     "feelmemore",
     "sugarbae_haze",
     "kristin_mordor",
