@@ -114,6 +114,7 @@ let cb0Primary = [
     "bunnydollstella",
 
     // getting to know
+    "youreyeshere",
     "mia_gothh",
     "the_anya", // 🇺🇦
     "alexiafoxmodel", // 🏓
@@ -124,12 +125,11 @@ let cb0Primary = [
     "corni__",
     "sexytemptation696",
     "1i1ypa1mer",
-    "blondyrush",
     "ashley_freedom",
     "_vi_vi_",
     "gia_sunny",
-    "youreyeshere",
     "lilienblume",
+    "blondyrush",
 
     "elizabad",
     "frauchocolate",
