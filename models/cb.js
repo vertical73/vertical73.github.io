@@ -139,6 +139,7 @@ let cb0Primary = [
     "bestzoeyever",
     "agata_iris",
     "aurora_the_ballerina",
+    "hornyvillage",
 
     "flowercandy33",
     "firstoffense",
@@ -179,7 +180,6 @@ let cb0Primary = [
     "merry_dancers_",
     "cutemia6",
     "_eva_blame_",
-    "hornyvillage",
     "sayl0r_moon",
     "mon_amii",
     "kate_funny",
