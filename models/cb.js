@@ -81,7 +81,6 @@ let cb0Primary = [
     "mary_delray",
     "misstics_", // 🇺🇦
     "veronikaav",
-    "_valentina_69",
 
     "kira_censori", // 🏓
     "angel_ocu",
