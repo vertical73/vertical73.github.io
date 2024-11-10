@@ -97,7 +97,6 @@ let cb0Primary = [
     "vopooo",
     "ab_s",
     "inkanuko",
-    "true_sue",
     "myliss",
 
     "lovelycaroline_", // 🏓🏓
@@ -114,6 +113,7 @@ let cb0Primary = [
     "bunnydollstella",
 
     // getting to know
+    "_vi_vi_",
     "mia_gothh",
     "the_anya", // 🇺🇦
     "alexiafoxmodel", // 🏓
@@ -121,11 +121,11 @@ let cb0Primary = [
     "anbarbie",
     "misssweettie",
     "sherry_sandra",
+    "true_sue",
     "corni__",
     "sexytemptation696",
     "1i1ypa1mer",
     "ashley_freedom",
-    "_vi_vi_",
     "gia_sunny",
     "lilienblume",
     "blondyrush",
