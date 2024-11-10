@@ -114,7 +114,6 @@ let cb0Primary = [
     "bunnydollstella",
 
     // getting to know
-    "youreyeshere",
     "mia_gothh",
     "the_anya", // 🇺🇦
     "alexiafoxmodel", // 🏓
@@ -306,6 +305,7 @@ let cb1Primary = [
     "shysaraa",
     "_eva_queen",
     "miasbakkery_",
+    "youreyeshere", // hairy, soft/fake spanks
 
     // studio
     "tessarosse_",
