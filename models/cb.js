@@ -45,6 +45,7 @@ let cbSecondary = [
     "_isiah", // "isia_slay",
     "xxx_leila",
     "meghanesse",
+    "miss_opss",
     "ksensual",
     "mia_elfie",
     "sweet_tinker_bell",
@@ -148,7 +149,6 @@ let cb0Primary = [
 
     // strictly eye candy, 2
     "babeholly",
-    "miss_opss",
     "luckysexydoll",
     "white_lime",
     "heyhorny_cb",
