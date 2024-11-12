@@ -134,20 +134,23 @@ let cb0Primary = [
     "ooxygenlow",
     "moondao",
 
+    // problematic
+    "bustykatia", // 🇷🇴
+    "freyaeva", // 🇷🇴
+
     "elizabad",
     "frauchocolate",
     "agata_cristy", // 🏓
     "jennytime",
     "jelly_w5", // "jelly_w",
 
+    "hornyvillage",
     "bestzoeyever",
     "agata_iris",
     "aurora_the_ballerina",
-    "hornyvillage",
 
     "flowercandy33",
     "curlylolly",
-    "lisa_babymetal",
     "annie_f0x",
 
     // strictly eye candy, 2
@@ -157,10 +160,6 @@ let cb0Primary = [
     "heyhorny_cb",
     "ohbabykelly",
     "lauratanguy",
-
-    // problematic
-    "bustykatia", // 🇷🇴
-    "freyaeva", // 🇷🇴
 
     "lilly_vanilla",
     "lovely__alisa",
@@ -181,6 +180,7 @@ let cb0Primary = [
     "hannahlusttt",
 
     // slutty appeal
+    "lisa_babymetal",
     "your_bunnygirl", // 🇺🇦
     "alyssa_smitt",
 
