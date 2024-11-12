@@ -41,12 +41,12 @@ let cbSecondary = [
     "juicy_angels",
     "aurorashiine",
     "shinyways", // 🏓
+    "miss_opss", // 🏓
 
     // strictly eye candy
     "_isiah", // "isia_slay",
     "xxx_leila",
     "meghanesse",
-    "miss_opss",
     "ksensual",
     "mia_elfie",
     "star_gazing",
