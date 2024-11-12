@@ -158,6 +158,10 @@ let cb0Primary = [
     "ohbabykelly",
     "lauratanguy",
 
+    // problematic
+    "bustykatia", // 🇷🇴
+    "freyaeva", // 🇷🇴
+
     "lilly_vanilla",
     "lovely__alisa",
     "reddfoxxy",
@@ -191,10 +195,6 @@ let cb0Primary = [
 let cb1Primary = [
     "tiffanyhouston_",
     "bigorgasm4us",
-
-    // problematic
-    "bustykatia", // 🇷🇴
-    "freyaeva", // 🇷🇴
 
     "cute_shine",
     "yamaguchi_",
