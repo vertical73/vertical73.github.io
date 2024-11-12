@@ -146,7 +146,6 @@ let cb0Primary = [
     "hornyvillage",
 
     "flowercandy33",
-    "firstoffense",
     "curlylolly",
     "lisa_babymetal",
     "annie_f0x",
@@ -206,6 +205,7 @@ let cb1Primary = [
     "_sunny_mood",
     "wild_angel777", // 🇺🇦
     "bella_white19",
+    "firstoffense",
 
    "katy_ethereal", // 🏓
     "christiewells22",
