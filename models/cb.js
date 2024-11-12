@@ -32,14 +32,15 @@ let cbSecondary = [
     "jilly_wolly1",
     "maryvi",
 
-    "neko_kimiko",
-    "juicy_angels",
-    "shinyways", // 🏓
-    "aurorashiine",
-
-    "nikkibloom_xoxo", // nikkibloomxoxo,
     "yournaughtymiss",
-    "star_gazing",
+    "lexy_sinn",
+    "saimashine",
+    "neko_kimiko",
+    "pornostorys",
+    "nikkibloom_xoxo", // nikkibloomxoxo,
+    "juicy_angels",
+    "aurorashiine",
+    "shinyways", // 🏓
 
     // strictly eye candy
     "_isiah", // "isia_slay",
@@ -48,11 +49,8 @@ let cbSecondary = [
     "miss_opss",
     "ksensual",
     "mia_elfie",
+    "star_gazing",
     "sweet_tinker_bell",
-
-    "lexy_sinn",
-    "saimashine",
-    "pornostorys",
 
     // couples
     "catanddickxxx",
