@@ -100,11 +100,16 @@ let cb0Primary = [
     "lovelycaroline_", // 🏓🏓
     "lastdawn", // 🏓
     "ecsodia",
+    "melani_lesss",
 
     // idle
     "popsytopsy",
     "mynameisnikki",
     "amazon_girl",
+
+    // problematic
+    "bustykatia", // 🇷🇴
+    "freyaeva", // 🇷🇴
 
     // augmented
     "anna_bri",
@@ -128,15 +133,10 @@ let cb0Primary = [
     "gia_sunny",
     "lilienblume",
     "blondyrush",
-    "melani_lesss",
     "evasaff",
     "lubafox",
     "ooxygenlow",
     "moondao",
-
-    // problematic
-    "bustykatia", // 🇷🇴
-    "freyaeva", // 🇷🇴
 
     "elizabad",
     "frauchocolate",
