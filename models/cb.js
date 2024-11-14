@@ -94,10 +94,14 @@ let cb0Primary = [
     "alexiafoxmodel", // 🏓
     "ooxygenlow",
 
+    // problematic
+    "bustykatia", // 🇷🇴
+    "freyaeva", // 🇷🇴
+
     // strictly eye candy, 1
     "vopooo",
-    "myliss",
     "inkanuko",
+    "myliss",
     "ingergirl",
 
     "lovelycaroline_", // 🏓🏓
@@ -109,10 +113,6 @@ let cb0Primary = [
     "popsytopsy",
     "mynameisnikki",
     "amazon_girl",
-
-    // problematic
-    "bustykatia", // 🇷🇴
-    "freyaeva", // 🇷🇴
 
     // augmented
     "anna_bri",
