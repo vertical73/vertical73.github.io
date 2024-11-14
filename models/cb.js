@@ -90,6 +90,11 @@ let cb0Primary = [
     "playwithmil",
     "milly____",
 
+    // getting to know
+    "alexiafoxmodel", // 🏓
+    "ooxygenlow",
+    "shiningdawn",
+
     // strictly eye candy, 1
     "ingergirl",
     "vopooo",
@@ -115,13 +120,10 @@ let cb0Primary = [
     "anna_bri",
     "bunnydollstella",
 
-    // getting to know
+    // getting to know 2
     "_vi_vi_",
     "mia_gothh",
     "the_anya", // 🇺🇦
-    "alexiafoxmodel", // 🏓
-    "ooxygenlow",
-    "shiningdawn",
     "my_lina",
     "anbarbie",
     "misssweettie",
