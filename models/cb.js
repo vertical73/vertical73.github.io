@@ -120,6 +120,8 @@ let cb0Primary = [
     "mia_gothh",
     "the_anya", // 🇺🇦
     "alexiafoxmodel", // 🏓
+    "ooxygenlow",
+    "shiningdawn",
     "my_lina",
     "anbarbie",
     "misssweettie",
@@ -127,14 +129,12 @@ let cb0Primary = [
     "innocentchurchgirl",
     "true_sue",
     "corni__",
-    "sexytemptation696",
     "1i1ypa1mer",
     "gia_sunny",
     "lilienblume",
     "blondyrush",
     "evasaff",
     "lubafox",
-    "ooxygenlow",
     "moondao",
 
     "elizabad",
@@ -243,6 +243,7 @@ let cb1Primary = [
     "relaxi_g1rl",
     "skinny_alice",
     "pollyrouge",
+    "sexytemptation696",
 
     "amelia_chi",
     "stacy_lees",
