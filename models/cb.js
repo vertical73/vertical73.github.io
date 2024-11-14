@@ -95,11 +95,10 @@ let cb0Primary = [
     "ooxygenlow",
 
     // strictly eye candy, 1
-    "ingergirl",
     "vopooo",
-    "ab_s",
-    "inkanuko",
     "myliss",
+    "inkanuko",
+    "ingergirl",
 
     "lovelycaroline_", // 🏓🏓
     "lastdawn", // 🏓
@@ -161,6 +160,7 @@ let cb0Primary = [
     "heyhorny_cb",
     "ohbabykelly",
     "lauratanguy",
+    "ab_s",
 
     "lilly_vanilla",
     "lovely__alisa",
