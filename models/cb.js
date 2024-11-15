@@ -81,10 +81,11 @@ let cb0Primary = [
     "misstics_", // 🇺🇦
     "veronikaav",
 
-    "kira_censori", // 🏓
     "angel_ocu",
     "juliet_bb",
     "vilanelle_1",
+    "frauchocolate", // 🏓🏓 (face slapping on request?)
+    "kira_censori", // 🏓
 
     // couples
     "playwithmil",
@@ -139,7 +140,6 @@ let cb0Primary = [
     "moondao",
 
     "elizabad",
-    "frauchocolate",
     "agata_cristy", // 🏓
     "jennytime",
     "jelly_w5", // "jelly_w",
