@@ -95,10 +95,6 @@ let cb0Primary = [
     "alexiafoxmodel", // 🏓
     "ooxygenlow",
 
-    // problematic
-    "bustykatia", // 🇷🇴
-    "freyaeva", // 🇷🇴
-
     // strictly eye candy, 1
     "vopooo",
     "inkanuko",
@@ -142,6 +138,10 @@ let cb0Primary = [
     "agata_cristy", // 🏓
     "jennytime",
     "jelly_w5", // "jelly_w",
+
+    // problematic
+    "bustykatia", // 🇷🇴
+    "freyaeva", // 🇷🇴
 
     "hornyvillage",
     "bestzoeyever",
