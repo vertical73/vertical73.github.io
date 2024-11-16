@@ -105,6 +105,7 @@ let cb0Primary = [
     "lastdawn", // 🏓
     "ecsodia",
     "melani_lesss",
+    "elizabad",
 
     // idle
     "popsytopsy",
@@ -116,7 +117,6 @@ let cb0Primary = [
     "bunnydollstella",
 
     // getting to know 2
-    "_vi_vi_",
     "mia_gothh",
     "the_anya", // 🇺🇦
     "my_lina",
@@ -128,13 +128,11 @@ let cb0Primary = [
     "innocentchurchgirl",
     "true_sue",
     "1i1ypa1mer",
-    "gia_sunny",
     "lilienblume",
     "blondyrush",
     "lubafox",
     "moondao",
 
-    "elizabad",
     "agata_cristy", // 🏓
     "jennytime",
     "jelly_w5", // "jelly_w",
@@ -164,6 +162,7 @@ let cb0Primary = [
     "lovely__alisa",
     "reddfoxxy",
     "amelia_chi",
+    "gia_sunny",
     "_pinkpay",
     "fleur_avelle",
     "alisa_foxxx",
@@ -271,6 +270,7 @@ let cb1Primary = [
     "charming__kitty",
     "heidas_passion",
     "amypierceb",
+    "_vi_vi_",
 
     "grid_girl2",
     "lilla_cutie",
