@@ -94,6 +94,7 @@ let cb0Primary = [
     // getting to know
     "alexiafoxmodel", // 🏓
     "ooxygenlow",
+    "shy_starlight",
 
     // strictly eye candy, 1
     "vopooo",
