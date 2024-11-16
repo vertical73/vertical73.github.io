@@ -270,7 +270,6 @@ let cb1Primary = [
     "charming__kitty",
     "heidas_passion",
     "amypierceb",
-    "_vi_vi_",
 
     "grid_girl2",
     "lilla_cutie",
