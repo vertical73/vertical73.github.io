@@ -1,7 +1,7 @@
 @media screen and (min-width: 1440px) {
 }
 
-@media screen and (min-width : 960x) and (max-width : 1439px) {
+@media screen and (min-width : 680px) and (max-width : 1439px) {
     img {
         width: 50vw;
         max-width: 50vw;
@@ -13,7 +13,7 @@
     }
 }
 
-@media screen and (min-width : 0px) and (max-width : 959px) {
+@media screen and (min-width : 0px) and (max-width : 680px) {
     img {
         width: 100vw;
         max-width: 100vw;
