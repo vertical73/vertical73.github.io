@@ -1,3 +1,5 @@
+const $$__viewportWidth = window.innerWidth;
+
 class Model {
     constructor(name, priority, scoring, pvt) {
         this.name = name;
@@ -89,6 +91,10 @@ function createImg(modelName) {
     img.id = channelImgId(modelName);
     img.src = channelActiveUrl(modelName);
     
+    if ($$__viewportWidth > 680 && $$__viewportWidth < 1440) {
+        img.width = ($$__viewportWidth / 2);
+    }
+
     return img;
 }
 
