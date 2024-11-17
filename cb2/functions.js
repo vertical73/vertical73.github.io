@@ -1,7 +1,5 @@
 const $$__viewportWidth = window.innerWidth;
 
-window.title = window.title + " [" + $$__viewportWidth + "]";
-
 class Model {
     constructor(name, priority, scoring, pvt) {
         this.name = name;
