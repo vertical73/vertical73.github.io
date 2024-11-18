@@ -87,7 +87,7 @@ let cb0Primary = [
     "frauchocolate", // 🏓🏓 (face slapping on request?)
     "kira_censori", // 🏓
 
-    // couples
+    // couples, 2
     "playwithmil",
     "milly____",
 
@@ -174,9 +174,10 @@ let cb0Primary = [
     "ayla_mark",
     "llkadream",
 
-    // couples 2
+    // couples, 3
     "viktoranmary",
     "hannahlusttt",
+    "wladilia",
 
     // slutty appeal
     "lisa_babymetal",
@@ -259,7 +260,7 @@ let cb1Primary = [
     "milla_remmy",
     "jelli_jennifer",
 
-    // couples, 3
+    // couples, 4
     "hot_ho",
     "vanilla_lips",
     "shineblue2728",
