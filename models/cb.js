@@ -132,7 +132,6 @@ let cb0Primary = [
     "1i1ypa1mer",
     "lilienblume",
     "blondyrush",
-    "lubafox",
     "moondao",
 
     "agata_cristy", // 🏓
@@ -158,22 +157,8 @@ let cb0Primary = [
     "heyhorny_cb",
     "ohbabykelly",
     "lauratanguy",
+    "_eva_blame_",
     "ab_s",
-
-    "lilly_vanilla",
-    "lovely__alisa",
-    "reddfoxxy",
-    "amelia_chi",
-    "gia_sunny",
-    "_pinkpay",
-    "fleur_avelle",
-    "alisa_foxxx",
-    "katie___cat",
-    "asr_porter",
-    "lilicapie",
-    "ada_waist",
-    "ayla_mark",
-    "llkadream",
 
     // couples, 3
     "viktoranmary",
@@ -183,15 +168,7 @@ let cb0Primary = [
     // slutty appeal
     "lisa_babymetal",
     "your_bunnygirl", // 🇺🇦
-    "alyssa_smitt",
-
-    "merry_dancers_",
-    "cutemia6",
-    "_eva_blame_",
-    "sayl0r_moon",
-    "mon_amii",
-    "kate_funny",
-    "rita_orra" // 🇺🇦
+    "alyssa_smitt"
 ];
 let cb1Primary = [
     "tiffanyhouston_",
@@ -207,6 +184,29 @@ let cb1Primary = [
     "wild_angel777", // 🇺🇦
     "bella_white19",
     "firstoffense",
+
+    "lubafox",
+    "lilly_vanilla",
+    "lovely__alisa",
+    "reddfoxxy",
+    "amelia_chi",
+    "gia_sunny",
+    "_pinkpay",
+    "fleur_avelle",
+    "alisa_foxxx",
+    "katie___cat",
+    "asr_porter",
+    "lilicapie",
+    "ada_waist",
+    "ayla_mark",
+    "llkadream",
+
+    "merry_dancers_",
+    "cutemia6",
+    "sayl0r_moon",
+    "mon_amii",
+    "kate_funny",
+    "rita_orra", // 🇺🇦
 
     "corni__",
     "annie_f0x",
