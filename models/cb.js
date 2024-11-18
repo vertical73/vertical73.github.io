@@ -114,6 +114,10 @@ let cb0Primary = [
     "mynameisnikki",
     "amazon_girl",
 
+    // problematic
+    "bustykatia", // 🇷🇴
+    "freyaeva", // 🇷🇴
+
     // augmented
     "anna_bri",
     "bunnydollstella",
@@ -137,10 +141,6 @@ let cb0Primary = [
     "agata_cristy", // 🏓
     "jennytime",
     "jelly_w5", // "jelly_w",
-
-    // problematic
-    "bustykatia", // 🇷🇴
-    "freyaeva", // 🇷🇴
 
     "hornyvillage",
     "bestzoeyever",
