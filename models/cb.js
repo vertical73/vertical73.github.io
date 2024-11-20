@@ -122,7 +122,8 @@ let cb0Primary = [
     "anna_bri",
     "bunnydollstella",
 
-    // getting to know 2
+    // getting to know, 2
+    "minnietammy",
     "mia_gothh",
     "the_anya", // 🇺🇦
     "my_lina",
