@@ -94,7 +94,6 @@ let cb0Primary = [
     // getting to know
     "alexiafoxmodel", // 🏓
     "ooxygenlow",
-    "shy_starlight",
     "mjgreencat",
 
     // strictly eye candy, 1
@@ -137,6 +136,7 @@ let cb0Primary = [
     "lilienblume",
     "blondyrush",
     "moondao",
+    "shy_starlight",
 
     "agata_cristy", // 🏓
     "jennytime",
