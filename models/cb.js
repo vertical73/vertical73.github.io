@@ -129,8 +129,6 @@ let cb0Primary = [
     "the_anya", // 🇺🇦
     "my_lina",
     "anbarbie",
-    "evasaff",
-    "minnietammy",
     "misssweettie",
     "sherry_sandra",
     "true_sue",
@@ -168,7 +166,10 @@ let cb0Primary = [
     // slutty appeal
     "lisa_babymetal",
     "your_bunnygirl", // 🇺🇦
-    "alyssa_smitt"
+    "alyssa_smitt",
+
+    "evasaff",
+    "minnietammy"
 ];
 let cb1Primary = [
     "tiffanyhouston_",
