@@ -96,18 +96,7 @@ let cb0Primary = [
     "ooxygenlow",
     "shiningdawn",
     "mjgreencat",
-
-    // strictly eye candy, 1
-    "vopooo",
-    "inkanuko",
-    "myliss",
-    "ingergirl",
-
-    "lovelycaroline_", // 🏓🏓
-    "lastdawn", // 🏓
-    "ecsodia",
-    "melani_lesss",
-    "elizabad",
+    "innocentchurchgirl",
 
     // idle
     "popsytopsy",
@@ -118,12 +107,24 @@ let cb0Primary = [
     "bustykatia", // 🇷🇴
     "freyaeva", // 🇷🇴
 
+    // strictly eye candy, 1
+    "vopooo",
+    "inkanuko",
+    "myliss",
+    "ingergirl",
+
+    "lovelycaroline_", // 🏓🏓
+    "lastdawn", // 🏓
+    "melani_lesss",
+    "elizabad",
+    "bestzoeyever",
+    "ecsodia",
+
     // augmented
     "anna_bri",
     "bunnydollstella",
 
     // getting to know, 2
-    "innocentchurchgirl",
     "mia_gothh",
     "the_anya", // 🇺🇦
     "my_lina",
@@ -143,7 +144,6 @@ let cb0Primary = [
     "jelly_w5", // "jelly_w",
 
     "hornyvillage",
-    "bestzoeyever",
     "agata_iris",
     "aurora_the_ballerina",
 
