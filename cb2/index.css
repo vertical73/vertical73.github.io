@@ -1,7 +1,19 @@
 @media screen and (min-width: 1440px) {
 }
 
-@media screen and (min-width : 680px) and (max-width : 1439px) {
+@media screen and (min-width : 1024px) and (max-width : 1439px) {
+    img {
+        width: 33.3333vw;
+        max-width: 34vw;
+        height: auto;
+    }
+    .model {
+        width: 33.3333vw;
+        max-width: 34vw;
+    }
+}
+
+@media screen and (min-width : 680px) and (max-width : 1023px) {
     img {
         width: 50vw;
         max-width: 50vw;
