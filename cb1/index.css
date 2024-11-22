@@ -3,13 +3,13 @@
 
 @media screen and (min-width : 1024px) and (max-width : 1439px) {
     img {
-        width: 33.3333vw;
-        max-width: 34vw;
+        width: 25vw;
+        max-width: 25vw;
         height: auto;
     }
     .model {
-        width: 33.3333vw;
-        max-width: 34vw;
+        width: 25vw;
+        max-width: 25vw;
     }
 }
 
