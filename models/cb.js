@@ -95,7 +95,6 @@ let cb0Primary = [
     "alexiafoxmodel", // 🏓
     "ooxygenlow",
     "shiningdawn",
-    "mjgreencat",
     "innocentchurchgirl",
 
     // idle
@@ -139,6 +138,7 @@ let cb0Primary = [
     "agata_cristy", // 🏓
     "jennytime",
     "jelly_w5", // "jelly_w",
+    "mjgreencat",
 
     "hornyvillage",
     "agata_iris",
