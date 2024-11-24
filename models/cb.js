@@ -92,6 +92,7 @@ let cb0Primary = [
     "milly____",
 
     // getting to know
+    "yamaguchi_",
     "alexiafoxmodel", // 🏓
     "ooxygenlow",
     "innocentchurchgirl",
@@ -175,7 +176,6 @@ let cb1Primary = [
     "bigorgasm4us",
 
     "cute_shine",
-    "yamaguchi_",
     "mary_janee__",
     "superior_cat",
     "alisagoddie19",
