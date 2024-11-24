@@ -42,6 +42,7 @@ let cbSecondary = [
     "shinyways", // 🏓
     "miss_opss", // 🏓
     "whitebanny",
+    "frauchocolate", // 🏓🏓 (face slapping on request?)
 
     // strictly eye candy
     "_isiah", // "isia_slay",
@@ -84,7 +85,6 @@ let cb0Primary = [
     "angel_ocu",
     "juliet_bb",
     "vilanelle_1",
-    "frauchocolate", // 🏓🏓 (face slapping on request?)
     "kira_censori", // 🏓
 
     // couples, 2
