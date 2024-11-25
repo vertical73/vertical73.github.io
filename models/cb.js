@@ -7,6 +7,7 @@ let cbPrimary = [
 
     "alice_kosmos",
     "esther_estrie",
+    "alis_molli", // 🇺🇦
     "fflloowweerr",
     "dearly_emily",
     "sweetkira555",
@@ -20,7 +21,6 @@ let cbSecondary = [
     "flowerr_powerr",
     "lexi_ridss_", // 🇺🇦
     "marylanex", // 🇺🇦
-    "alis_molli", // 🇺🇦
     "evelissa",
     "_taylor_swift",
     "neondemon_",
