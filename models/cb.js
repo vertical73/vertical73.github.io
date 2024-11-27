@@ -97,6 +97,7 @@ let cb0Primary = [
     "alexiafoxmodel", // 🏓
     "ooxygenlow",
     "innocentchurchgirl",
+    "monster_high",
 
     // idle
     "popsytopsy",
