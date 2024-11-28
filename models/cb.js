@@ -9,7 +9,6 @@ let cbPrimary = [
     "esther_estrie",
     "alis_molli", // 🇺🇦
     "fflloowweerr",
-    "dearly_emily",
     "sweetkira555",
     "rosykindred", // "rosaliekin", // "rosykindred",
     "candysfox",
@@ -25,6 +24,8 @@ let cbSecondary = [
     "_taylor_swift",
     "neondemon_",
 
+    "lexy_sinn",
+    "saimashine",
     "candyfeatcrush",
     "onecuteangel",
     "dollyemy",
@@ -32,18 +33,13 @@ let cbSecondary = [
     "maryvi",
 
     "yournaughtymiss",
-    "lexy_sinn",
-    "saimashine",
     "neko_kimiko",
     "pornostorys",
     "nikkibloom_xoxo", // nikkibloomxoxo,
     "juicy_angels",
-    "aurorashiine",
+
     "shinyways", // 🏓
     "miss_opss", // 🏓
-    "whitebanny",
-    "frauchocolate", // 🏓🏓 (face slapping on request?)
-    "x_lina",
 
     // strictly eye candy
     "_isiah", // "isia_slay",
@@ -53,6 +49,12 @@ let cbSecondary = [
     "mia_elfie",
     "star_gazing",
     "sweet_tinker_bell",
+
+    "aurorashiine",
+    "dearly_emily",
+
+    "whitebanny",
+    "frauchocolate", // 🏓🏓 (face slapping on request?)
 
     // couples
     "catanddickxxx",
@@ -98,6 +100,7 @@ let cb0Primary = [
     "ooxygenlow",
     "innocentchurchgirl",
     "monster_high",
+    "x_lina",
 
     // idle
     "popsytopsy",
