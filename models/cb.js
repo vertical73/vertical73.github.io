@@ -50,8 +50,8 @@ let cbSecondary = [
     "star_gazing",
     "sweet_tinker_bell",
 
-    "aurorashiine",
     "dearly_emily",
+    "aurorashiine",
 
     "whitebanny",
     "frauchocolate", // 🏓🏓 (face slapping on request?)
