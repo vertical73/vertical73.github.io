@@ -55,6 +55,9 @@ let cbSecondary = [
 
     "whitebanny",
     "frauchocolate", // 🏓🏓 (face slapping on request?)
+    "misstics_", // 🇺🇦
+    "veronikaav",
+    "mary_delray",
 
     // couples
     "catanddickxxx",
@@ -81,10 +84,6 @@ fn__cbPrimary();
 fn__cbSecondary();
 
 let cb0Primary = [
-    "mary_delray",
-    "misstics_", // 🇺🇦
-    "veronikaav",
-
     "angel_ocu",
     "juliet_bb",
     "vilanelle_1",
