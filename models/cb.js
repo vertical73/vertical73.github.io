@@ -124,6 +124,7 @@ let cb0Primary = [
     "elizabad",
     "bestzoeyever",
     "ecsodia",
+    "ameliaangell",
 
     // augmented
     "anna_bri",
