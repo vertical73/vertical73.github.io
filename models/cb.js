@@ -95,6 +95,8 @@ let cb0Primary = [
     "milly____",
 
     // getting to know
+    "fruttitatti",
+    "mia_mils",
     "yamaguchi_",
     "alexiafoxmodel", // 🏓
     "ooxygenlow",
