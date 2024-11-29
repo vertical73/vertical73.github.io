@@ -94,8 +94,6 @@ let cb0Primary = [
     "milly____",
 
     // getting to know
-    "fruttitatti",
-    "mia_mils",
     "yamaguchi_",
     "alexiafoxmodel", // 🏓
     "ooxygenlow",
@@ -103,6 +101,8 @@ let cb0Primary = [
     "monster_high",
     "x_lina",
     "happyy_pussy",
+    "fruttitatti",
+    "mia_mils",
 
     // idle
     "popsytopsy",
