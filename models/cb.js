@@ -164,6 +164,7 @@ let cb0Primary = [
     "lauratanguy",
     "_eva_blame_",
     "ab_s",
+    "_june",
 
     // couples, 3
     "viktoranmary",
