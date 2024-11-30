@@ -102,8 +102,6 @@ let cb0Primary = [
     "monster_high",
     "x_lina",
     "happyy_pussy",
-    "fruttitatti",
-    "mia_mils",
 
     // idle
     "popsytopsy",
@@ -176,9 +174,11 @@ let cb0Primary = [
     "lisa_babymetal",
     "your_bunnygirl", // 🇺🇦
     "alyssa_smitt",
+    "fruttitatti",
 
     "evasaff",
-    "minnietammy"
+    "minnietammy",
+    "mia_mils"
 ];
 let cb1Primary = [
     "tiffanyhouston_",
