@@ -58,6 +58,7 @@ let cbSecondary = [
     "misstics_", // 🇺🇦
     "veronikaav",
     "mary_delray",
+    "bigorgasm4us",
 
     // couples
     "catanddickxxx",
@@ -141,7 +142,6 @@ let cb0Primary = [
     "lilienblume",
     "moondao",
     "shy_starlight",
-    "bigorgasm4us",
 
     "agata_cristy", // 🏓
     "jennytime",
