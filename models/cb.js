@@ -32,14 +32,14 @@ let cbSecondary = [
     "jilly_wolly1",
     "maryvi",
 
+    "shinyways", // 🏓
+    "miss_opss", // 🏓
+
     "yournaughtymiss",
     "neko_kimiko",
     "pornostorys",
     "nikkibloom_xoxo", // nikkibloomxoxo,
     "juicy_angels",
-
-    "shinyways", // 🏓
-    "miss_opss", // 🏓
 
     // strictly eye candy
     "_isiah", // "isia_slay",
@@ -105,6 +105,7 @@ let cb0Primary = [
     "monster_high",
     "x_lina",
     "happyy_pussy",
+    "lisa_marxsss",
 
     // idle
     "popsytopsy",
