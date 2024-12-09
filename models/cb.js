@@ -60,6 +60,10 @@ let cbSecondary = [
     "mary_delray",
     "bigorgasm4us",
 
+    // problematic
+    "bustykatia", // 🇷🇴
+    "freyaeva", // 🇷🇴
+
     // couples
     "catanddickxxx",
     "masqueradeporn",
@@ -93,10 +97,6 @@ let cb0Primary = [
     "playwithmil",
     "milly____",
 
-    // problematic
-    "bustykatia", // 🇷🇴
-    "freyaeva", // 🇷🇴
-
     // getting to know
     "yamaguchi_",
     "alexiafoxmodel", // 🏓
@@ -128,6 +128,7 @@ let cb0Primary = [
     "bunnydollstella",
 
     // getting to know, 2
+    "paaulina",
     "blondyrush",
     "mia_gothh",
     "the_anya", // 🇺🇦
@@ -139,7 +140,6 @@ let cb0Primary = [
     "moondao",
     "shy_starlight",
     "alodiedonnay",
-    "haribogirl__",
     "monster_high",
 
     "angel_ocu",
@@ -172,6 +172,7 @@ let cb0Primary = [
     "viktoranmary",
     "hannahlusttt",
     "wladilia",
+    "ravenoousbiter",
 
     // slutty appeal
     "lisa_babymetal",
@@ -287,6 +288,7 @@ let cb1Primary = [
     "charming__kitty",
     "heidas_passion",
     "amypierceb",
+    "haribogirl__",
 
     "grid_girl2",
     "lilla_cutie",
