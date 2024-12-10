@@ -59,6 +59,7 @@ let cbSecondary = [
     "veronikaav",
     "mary_delray",
     "bigorgasm4us",
+    "aurora_the_ballerina",
 
     // problematic
     "bustykatia", // 🇷🇴
@@ -98,11 +99,11 @@ let cb0Primary = [
     "milly____",
 
     // getting to know
+    "mirai_meow",
     "yamaguchi_",
     "alexiafoxmodel", // 🏓
     "ooxygenlow",
     "innocentchurchgirl",
-    "x_lina",
     "lisa_marxsss",
 
     // idle
@@ -128,6 +129,7 @@ let cb0Primary = [
     "bunnydollstella",
 
     // getting to know, 2
+    "x_lina",
     "paaulina",
     "blondyrush",
     "mia_gothh",
@@ -152,7 +154,6 @@ let cb0Primary = [
 
     "hornyvillage",
     "agata_iris",
-    "aurora_the_ballerina",
 
     "flowercandy33",
     "curlylolly",
