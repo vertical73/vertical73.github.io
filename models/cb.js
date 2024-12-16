@@ -70,9 +70,10 @@ let cbSecondary = [
 
     // getting to know
     "mirai_meow",
-    "sugarbae_haze",
+    "joybunny",
 
     // idle
+    "sugarbae_haze",
     "lovahd",
     "lola_bunny94",
     "july_koss",
@@ -118,7 +119,7 @@ let cb0Primary = [
     "ingergirl",
 
     "lovelycaroline_", // 🏓🏓
-    "lastdawn", // 🏓
+    "lastdawn", // 🏓🏓
     "melani_lesss",
     "elizabad",
     "bestzoeyever",
@@ -138,7 +139,6 @@ let cb0Primary = [
     "anbarbie",
     "misssweettie",
     "true_sue",
-    "moondao",
     "shy_starlight",
     "alodiedonnay",
     "monster_high",
@@ -211,6 +211,7 @@ let cb1Primary = [
     "ada_waist",
     "ayla_mark",
     "llkadream",
+    "moondao",
 
     "merry_dancers_",
     "cutemia6",
