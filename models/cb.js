@@ -102,11 +102,13 @@ let cb0Primary = [
     "playwithmil",
     "milly____",
 
-    // getting to know 2
+    "anna_bri",
     "yamaguchi_",
     "alexiafoxmodel", // 🏓
-    "ooxygenlow",
+
+    // getting to know 2
     "innocentchurchgirl",
+    "klttys__pearl",
 
     // idle
     "popsytopsy",
@@ -114,8 +116,8 @@ let cb0Primary = [
     "amazon_girl",
 
     // strictly eye candy, 3
-    "vopooo",
     "inkanuko",
+    "ooxygenlow",
     "myliss",
     "ingergirl",
 
@@ -125,9 +127,8 @@ let cb0Primary = [
     "elizabad",
     "bestzoeyever",
     "ecsodia",
+    "vopooo",
 
-    // augmented
-    "anna_bri",
     "bunnydollstella",
 
     // getting to know, 3
@@ -139,7 +140,6 @@ let cb0Primary = [
     "my_lina",
     "anbarbie",
     "misssweettie",
-    "true_sue",
     "shy_starlight",
     "alodiedonnay",
     "monster_high",
