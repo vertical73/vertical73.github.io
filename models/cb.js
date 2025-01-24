@@ -34,7 +34,6 @@ let cbSecondary = [
     "bigorgasm4us", // 🏓
     "whitebanny", // 🏓🏓
     "agata_cristy", // 🏓
-    "frauchocolate", // 🏓🏓🏓 (face slapping on request?)
     "yournaughtymiss",
     "evelissa",
 
@@ -63,6 +62,7 @@ let cbSecondary = [
 
     // getting to know
     "melani_lesss", // 🏓
+    "taitehambelton",
 
     // strictly eye candy
     "_isiah", // "isia_slay",
@@ -71,6 +71,7 @@ let cbSecondary = [
     "mia_elfie",
     "star_gazing",
     "sweet_tinker_bell",
+    "inkanuko",
 
     // couples
     "catanddickxxx",
@@ -96,6 +97,14 @@ fn__cbPrimary();
 fn__cbSecondary();
 
 let cb0Primary = [
+    // strictly eye candy, 3
+    "ooxygenlow",
+    "ingergirl",
+
+    "elizabad",
+    "myliss",
+
+    "frauchocolate", // 🏓🏓🏓 (face slapping on request?)
     "juliet_bb",
     "vilanelle_1",
     "kira_censori", // 🏓
@@ -111,14 +120,6 @@ let cb0Primary = [
     "popsytopsy",
     "mynameisnikki",
     "amazon_girl",
-
-    // strictly eye candy, 3
-    "inkanuko",
-    "ooxygenlow",
-    "ingergirl",
-
-    "elizabad",
-    "myliss",
 
     // getting to know 2
     "vi_ana_shi",
@@ -176,7 +177,7 @@ let cb0Primary = [
     "lisa_babymetal",
     "fruttitatti",
     "ivy_whyte",
-    "rodde_schlocer",
+    "tinna_angel",
 
     "fox_alina",
     "cute_shine"
@@ -192,6 +193,7 @@ let cb1Primary = [
     "angel_ocu",
     "mjgreencat",
     "minnietammy",
+    "rodde_schlocer",
 
     "mary_janee__",
     "superior_cat",
