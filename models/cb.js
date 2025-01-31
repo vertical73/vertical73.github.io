@@ -128,6 +128,7 @@ let cb0Primary = [
     "blondie_muller",
     "mia__amore",
     "plastic_beach",
+    "miolia",
 
     "ecsodia",
     "lastdawn", // 🏓🏓
@@ -163,6 +164,7 @@ let cb0Primary = [
     "white_lime",
     "ohbabykelly",
     "lauratanguy",
+    "audreycarvin",
     "_eva_blame_",
     "ab_s",
     "_june",
@@ -174,7 +176,6 @@ let cb0Primary = [
 
     // slutty appeal
     "lisa_babymetal",
-    "fruttitatti",
     "ivy_whyte",
     "tinna_angel",
 
@@ -191,7 +192,6 @@ let cb1Primary = [
     "vi_ana_shi",
 
     "angel_ocu",
-    "mjgreencat",
     "minnietammy",
     "rodde_schlocer",
     "_sunny_mood", // 🇺🇦
@@ -214,7 +214,6 @@ let cb1Primary = [
     "sunny_maria",
     "sophia_lean",
     "firumu",
-    "audreycarvin",
     "sofiabruno",
 
     "shy_starlight",
