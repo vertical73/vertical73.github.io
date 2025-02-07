@@ -29,9 +29,9 @@ let cbSecondary = [
 
     "shinyways", // 🏓🏓
     "aurora_the_ballerina", // 🏓
+    "_taylor_swift", // 🏓
     "miss_opss", // 🏓🏓
 
-    "bigorgasm4us", // 🏓
     "whitebanny", // 🏓🏓
     "agata_cristy", // 🏓
     "yournaughtymiss",
@@ -40,7 +40,6 @@ let cbSecondary = [
     "lexi_ridss_", // 🇺🇦
     "marylanex", // 🇺🇦
     "misstics_", // 🇺🇦
-    "_taylor_swift", // 🏓
     "neondemon_",
 
     // problematic
@@ -60,6 +59,7 @@ let cbSecondary = [
     "veronikaav",
     "mary_delray",
     "sugarbae_haze",
+    "frauchocolate", // 🏓🏓🏓 (face slapping on request?)
 
     // getting to know
     "melani_lesss", // 🏓
@@ -104,7 +104,7 @@ let cb0Primary = [
     "elizabad",
     "myliss",
 
-    "frauchocolate", // 🏓🏓🏓 (face slapping on request?)
+    "bigorgasm4us", // 🏓
     "juliet_bb",
     "vilanelle_1",
     "kira_censori", // 🏓
@@ -146,6 +146,7 @@ let cb0Primary = [
     "mia_gothh",
     "the_anya", // 🇺🇦
     "anbarbie",
+    "milky__way_",
 
     "monster_high",
     "paaulina",
@@ -179,7 +180,6 @@ let cb0Primary = [
     "lisa_babymetal",
     "ivy_whyte",
     "alice_n_wooderland",
-    "tinna_angel",
 
     "fox_alina",
     "cute_shine"
@@ -205,6 +205,7 @@ let cb1Primary = [
     "wild_angel777", // 🇺🇦
     "bella_white19",
     "firstoffense",
+    "tinna_angel",
 
     // strictly eye candy, 3
     "beatrice_melton",
