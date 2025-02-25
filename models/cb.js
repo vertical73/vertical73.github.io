@@ -62,6 +62,7 @@ let cbSecondary = [
     "dollyemy", // 🏓🏓
 
     // getting to know
+    "rodde_schlocer",
     "melani_lesss", // 🏓
     "charming_angel_",
     "megan_myersss",
@@ -103,10 +104,6 @@ let cb0Primary = [
     "ooxygenlow",
     "veronikaav",
 
-    "love_melody",
-    "elizabad",
-    "myliss",
-
     "juliet_bb",
     "vilanelle_1",
     "kira_censori", // 🏓
@@ -117,21 +114,24 @@ let cb0Primary = [
 
     "yamaguchi_",
     "alexiafoxmodel", // 🏓
+    "anna_bri",
 
     // idle
     "popsytopsy",
     "mynameisnikki",
     "amazon_girl",
 
+    "love_melody",
+    "elizabad",
+    "myliss",
+
     // getting to know 2
     "janedaniells",
     "babe_bucks",
     "_lustica_",
-    "rodde_schlocer",
     "baby_bubbless",
     "miss_sweetdream",
     "innocentchurchgirl",
-    "klttys__pearl",
     "mirai_meow",
     "blondie_muller",
     "mia__amore",
@@ -146,9 +146,6 @@ let cb0Primary = [
     "lovelycaroline_", // 🏓🏓
     "bestzoeyever",
 
-    "anna_bri",
-    "bunnydollstella",
-
     // getting to know, 3
     "lisa_marxsss",
     "x_lina",
@@ -156,6 +153,8 @@ let cb0Primary = [
     "mia_gothh",
     "anbarbie",
     "milky__way_",
+    "emilyy_miller",
+    "klttys__pearl",
 
     "monster_high",
     "paaulina",
@@ -170,6 +169,7 @@ let cb0Primary = [
     "curlylolly",
 
     // strictly eye candy, 2
+    "bunnydollstella",
     "babeholly",
     "luckysexydoll",
     "white_lime",
@@ -178,7 +178,6 @@ let cb0Primary = [
     "audreycarvin",
     "_eva_blame_",
     "ab_s",
-    "_june",
 
     // couples, 3
     "viktoranmary",
@@ -188,6 +187,7 @@ let cb0Primary = [
     // slutty appeal
     "lisa_babymetal",
     "ivy_whyte",
+    "_eva_queen",
 
     "fox_alina",
     "cute_shine"
@@ -226,6 +226,7 @@ let cb1Primary = [
     "sophia_lean",
     "firumu",
     "sofiabruno",
+    "_june",
 
     "evasaff",
     "flowercandy33",
@@ -250,6 +251,8 @@ let cb1Primary = [
     "lilicapie",
     "ada_waist",
     "ayla_mark",
+
+    "iris_world",
     "llkadream",
     "moondao",
     "mia_mils",
@@ -358,7 +361,6 @@ let cb1Primary = [
     "tqla",
     "iiivy_",
     "shysaraa",
-    "_eva_queen",
     "miasbakkery_",
     "iam_eli",
     "youreyeshere", // hairy, soft/fake spanks
