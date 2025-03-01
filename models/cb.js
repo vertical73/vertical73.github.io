@@ -69,6 +69,7 @@ let cbSecondary = [
     "charming_angel_",
     "megan_myersss",
     "angel_in_tibet",
+    "willow__love", // 🏓
 
     // strictly eye candy
     "_isiah", // "isia_slay",
@@ -165,6 +166,8 @@ let cb0Primary = [
     "ab_s",
 
     // getting to know, 3
+    "dollymelissa",
+    "hello_vivienne",
     "lisa_marxsss",
     "x_lina",
     "blondyrush",
@@ -180,7 +183,6 @@ let cb0Primary = [
     "monster_high",
     "paaulina",
     "milla_remmy",
-    "tasty_valery",
 
     // couples, 3
     "viktoranmary",
