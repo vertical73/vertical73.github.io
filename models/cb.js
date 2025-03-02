@@ -67,7 +67,6 @@ let cbSecondary = [
     "rodde_schlocer",
     "melani_lesss", // 🏓
     "charming_angel_",
-    "megan_myersss",
     "angel_in_tibet",
     "willow__love", // 🏓
 
@@ -116,8 +115,9 @@ let cb0Primary = [
     "milly____",
 
     "yamaguchi_",
-    "alexiafoxmodel", // 🏓
+    "babe_bucks",
     "anna_bri",
+    "alexiafoxmodel", // 🏓
 
     // idle
     "popsytopsy",
@@ -130,7 +130,6 @@ let cb0Primary = [
 
     // getting to know 2
     "janedaniells",
-    "babe_bucks",
     "_lustica_",
     "baby_bubbless",
     "innocentchurchgirl",
@@ -140,6 +139,7 @@ let cb0Primary = [
     "henriettaheldreth",
     "tollysage",
     "natalie_x",
+    "megan_myersss",
 
     "ecsodia",
     "lastdawn", // 🏓🏓
@@ -162,6 +162,7 @@ let cb0Primary = [
     "lauratanguy",
     "audreycarvin",
     "_eva_blame_",
+    "kathariine",
     "ab_s",
 
     // getting to know, 3
@@ -178,6 +179,7 @@ let cb0Primary = [
     "emilyy_miller",
     "klttys__pearl",
     "plastic_beach",
+    "brielloo",
 
     "monster_high",
     "paaulina",
