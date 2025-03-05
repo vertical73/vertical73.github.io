@@ -70,6 +70,7 @@ let cbSecondary = [
     "charming_angel_",
     "angel_in_tibet",
     "willow__love", // 🏓
+    "keeleyfarro", // 🏓
 
     // strictly eye candy
     "_isiah", // "isia_slay",
@@ -80,8 +81,6 @@ let cbSecondary = [
     "ksensual",
 
     // couples
-    "catanddickxxx",
-    "masqueradeporn",
 
     // idle
     "lovahd",
@@ -114,6 +113,8 @@ let cb0Primary = [
     // couples, 2
     "playwithmil",
     "milly____",
+    "catanddickxxx",
+    "masqueradeporn",
 
     "yamaguchi_",
     "babe_bucks",
@@ -142,6 +143,8 @@ let cb0Primary = [
     "henriettaheldreth",
     "natalie_x",
     "megan_myersss",
+    "ami_sakurami",
+    "crazybabyyy",
 
     "ecsodia",
     "lastdawn", // 🏓🏓
@@ -185,6 +188,7 @@ let cb0Primary = [
     "your_bunnygirl",
     "erelima",
     "naive_love",
+    "kathyclaytons",
 
     "monster_high",
     "paaulina",
@@ -197,7 +201,6 @@ let cb0Primary = [
     "ayshekisskitty",
 
     // slutty appeal
-    "lisa_babymetal",
     "ivy_whyte",
     "_eva_queen",
 
@@ -270,6 +273,7 @@ let cb1Primary = [
     "mia_mils",
     "alice_n_wooderland",
     "tinna_angel",
+    "lisa_babymetal",
 
     "merry_dancers_",
     "cutemia6",
