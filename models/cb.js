@@ -121,6 +121,7 @@ let cb0Primary = [
     "amazon_girl",
 
     // strictly eye candy, 3
+    "audreycarvin",
     "ooxygenlow",
     "love_melody",
     "erelima",
@@ -146,13 +147,16 @@ let cb0Primary = [
     "megan_myersss",
     "ami_sakurami",
     "naive_love",
+    "dollymelissa",
+    "hello_vivienne",
+    "dream_desire_",
+    "mia_gothh",
     "keeleyfarro", // 🏓
     "kathyclaytons",
 
     "ecsodia",
     "lastdawn", // 🏓🏓
     "lovelycaroline_", // 🏓🏓
-    "bestzoeyever",
 
     "jelly_w5", // "jelly_w",
     "alyssa_smitt",
@@ -160,6 +164,7 @@ let cb0Primary = [
     "agata_iris",
     "curlylolly",
     "ivy_whyte",
+    "bestzoeyever",
 
     // strictly eye candy, 2
     "jennytime",
@@ -169,18 +174,13 @@ let cb0Primary = [
     "white_lime",
     "ohbabykelly",
     "lauratanguy",
-    "audreycarvin",
     "_eva_blame_",
     "ab_s",
 
     // getting to know, 3
-    "dollymelissa",
-    "hello_vivienne",
-    "dream_desire_",
     "lisa_marxsss",
     "x_lina",
     "blondyrush",
-    "mia_gothh",
     "anbarbie",
     "milky__way_",
     "miss_sweetdream",
