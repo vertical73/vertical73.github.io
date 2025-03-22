@@ -67,7 +67,6 @@ let cbSecondary = [
     // getting to know
     "rodde_schlocer",
     "melani_lesss", // 🏓
-    "charming_angel_",
     "angel_in_tibet",
 
     // strictly eye candy
@@ -126,13 +125,14 @@ let cb0Primary = [
     "erelima",
 
     "veronikaav",
-    "elizabad",
+    "eva_doll_4u", // "elizabad",
     "myliss",
 
     // getting to know 2
     "willow__love", // 🏓
     "friendlyfire6", // 🏓
-    "janedaniells",
+    "janedaniells", // 🏓; stripchat: janedaniells
+    "libbyshepard", // 🏓; stripchat: IdaJonesy
     "_lustica_",
     "baby_bubbless",
     "innocentchurchgirl",
@@ -152,6 +152,9 @@ let cb0Primary = [
     "mia_gothh",
     "keeleyfarro", // 🏓
     "kathyclaytons",
+    "urbabykam",
+    "kusssecka",
+    "charming_angel_",
 
     "ecsodia",
     "lastdawn", // 🏓🏓
@@ -194,7 +197,8 @@ let cb0Primary = [
     "darina_night",
     "moonnshinee",
     "polusladkoye",
-    "lesaismore",
+    "alisagoddie19",
+    "annie_f0x",
 
     "monster_high",
     "paaulina",
@@ -229,7 +233,7 @@ let cb1Primary = [
 
     "mary_janee__",
     "superior_cat",
-    "alisagoddie19",
+    "lesaismore",
     "the_humble_fox_69",
     "wild_angel777", // 🇺🇦
     "bella_white19",
@@ -289,7 +293,6 @@ let cb1Primary = [
     "lilienblume",
 
     "corni__",
-    "annie_f0x",
     "katy_ethereal", // 🏓
     "christiewells22",
     "agatha137",
