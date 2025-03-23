@@ -132,7 +132,6 @@ let cb0Primary = [
     "willow__love", // 🏓
     "friendlyfire6", // 🏓
     "janedaniells", // 🏓; stripchat: janedaniells
-    "libbyshepard", // 🏓; stripchat: IdaJonesy
     "_lustica_",
     "baby_bubbless",
     "innocentchurchgirl",
@@ -152,7 +151,6 @@ let cb0Primary = [
     "mia_gothh",
     "keeleyfarro", // 🏓
     "kathyclaytons",
-    "urbabykam",
     "kusssecka",
     "charming_angel_",
 
@@ -181,6 +179,7 @@ let cb0Primary = [
     "ab_s",
 
     // getting to know, 3
+    "sunshine_diana_",
     "lisa_marxsss",
     "x_lina",
     "blondyrush",
@@ -230,6 +229,7 @@ let cb1Primary = [
     "alissa_wxw", // 🇺🇦
     "_sunny_mood", // 🇺🇦
     "the_anya", // 🇺🇦
+    "urbabykam",
 
     "mary_janee__",
     "superior_cat",
@@ -388,6 +388,7 @@ let cb1Primary = [
     "youreyeshere", // hairy, soft/fake spanks
 
     // studio
+    "libbyshepard", // 🏓; stripchat: IdaJonesy
     "tessarosse_",
     "fleur_x_x",
     "chatur_babes_",
