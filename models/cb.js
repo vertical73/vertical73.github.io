@@ -50,9 +50,8 @@ let cbSecondary = [
     "ingergirl",
     "pornostorys",
     "nikkibloom_xoxo", // nikkibloomxoxo,
-    "pathos_of_things", // "neko_kimiko",
-    "juicy_angels", // 🏓
 
+    "rodde_schlocer",
     "dearly_emily", // 🏓
     "aurorashiine", // 🏓
 
@@ -61,11 +60,9 @@ let cbSecondary = [
     "sugarbae_haze",
     "frauchocolate", // 🏓🏓🏓 (face slapping on request?)
     "bigorgasm4us", // 🏓
-    "dollyemy", // 🏓🏓
     "kathariine", // 🇺🇦 // 🏓
 
     // getting to know
-    "rodde_schlocer",
     "melani_lesss", // 🏓
     "angel_in_tibet",
 
@@ -76,6 +73,9 @@ let cbSecondary = [
     "mia_elfie",
     "sweet_tinker_bell",
     "ksensual",
+
+    "dollyemy", // 🏓🏓
+    "juicy_angels", // 🏓
 
     // couples
 
@@ -129,13 +129,14 @@ let cb0Primary = [
     "myliss",
 
     // getting to know 2
+    "dollymelissa",
     "willow__love", // 🏓
-    "friendlyfire6", // 🏓
     "janedaniells", // 🏓; stripchat: janedaniells
     "_lustica_",
     "baby_bubbless",
     "innocentchurchgirl",
     "mirai_meow",
+    "maudcouncil",
 
     "sunshine_diana_",
     "mia__amore",
@@ -147,7 +148,6 @@ let cb0Primary = [
     "megan_myersss",
     "ami_sakurami",
     "naive_love",
-    "dollymelissa",
     "hello_vivienne",
     "dream_desire_",
     "mia_gothh",
@@ -161,6 +161,7 @@ let cb0Primary = [
     "lovelycaroline_", // 🏓🏓
     "alisagoddie19",
     "alexiafoxmodel", // 🏓
+    "friendlyfire6", // 🏓
 
     "jelly_w5", // "jelly_w",
     "alyssa_smitt",
@@ -169,6 +170,7 @@ let cb0Primary = [
     "curlylolly",
     "ivy_whyte",
     "bestzoeyever",
+    "pathos_of_things", // "neko_kimiko",
 
     // strictly eye candy, 2
     "jennytime",
@@ -194,12 +196,14 @@ let cb0Primary = [
     "plastic_beach",
     "brielloo",
     "your_bunnygirl",
-    "nicolle_mitchelle",
     "darina_night",
     "moonnshinee",
     "polusladkoye",
-    "annie_f0x",
+    "evamatthews",
+    "shachatte",
+    "gold_blond",
 
+    "annie_f0x",
     "monster_high",
     "paaulina",
     "milla_remmy",
@@ -379,6 +383,7 @@ let cb1Primary = [
     "dovia",
     "eva_j",
     "crazybabyyy",
+    "nicolle_mitchelle",
 
     "poisonn_girll",
     "tqla",
