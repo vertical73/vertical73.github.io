@@ -75,6 +75,7 @@ let cbSecondary = [
     "kathariine", // 🇺🇦 // 🏓
     "dollyemy", // 🏓🏓
     "ingergirl",
+    "babe_bucks",
 
     // couples
 
@@ -109,9 +110,7 @@ let cb0Primary = [
     "masqueradeporn",
 
     "yamaguchi_",
-    "babe_bucks",
     "anna_bri",
-    "juicy_angels", // 🏓
 
     // idle
     "popsytopsy",
@@ -138,6 +137,7 @@ let cb0Primary = [
     "innocentchurchgirl",
     "mirai_meow",
     "maudcouncil",
+    "e_vvv_a", // 🏓
 
     "sunshine_diana_",
     "mia__amore",
@@ -154,7 +154,6 @@ let cb0Primary = [
     "mia_gothh",
     "keeleyfarro", // 🏓
     "kathyclaytons",
-    "kusssecka",
     "charming_angel_",
 
     "ecsodia",
@@ -169,9 +168,9 @@ let cb0Primary = [
     "hornyvillage",
     "agata_iris",
     "curlylolly",
-    "ivy_whyte",
     "bestzoeyever",
     "pathos_of_things", // "neko_kimiko",
+    "juicy_angels", // 🏓
 
     // strictly eye candy, 2
     "jennytime",
@@ -191,8 +190,7 @@ let cb0Primary = [
     "anbarbie",
     "milky__way_",
     "miss_sweetdream",
-    "blondie_muller",
-    "emilyy_miller",
+
     "klttys__pearl",
     "plastic_beach",
     "brielloo",
@@ -202,11 +200,13 @@ let cb0Primary = [
     "evamatthews",
     "shachatte",
     "gold_blond",
+    "hornybunnyss",
+    "seeunexttime",
 
-    "annie_f0x",
     "monster_high",
     "paaulina",
     "milla_remmy",
+    "vi_ana_shi",
 
     // couples, 3
     "viktoranmary",
@@ -226,8 +226,11 @@ let cb1Primary = [
     "shiningdawn",
     "my_lina",
     "joybunny",
-    "vi_ana_shi",
     "taitehambelton",
+    "kusssecka",
+    "blondie_muller",
+    "annie_f0x",
+    "emilyy_miller",
 
     "angel_ocu",
     "minnietammy",
@@ -372,6 +375,7 @@ let cb1Primary = [
     "vvalkyriee", // "sasha_slim", // 🇺🇦
     "_vi_vi_",
     "vina_skybabe",
+    "cold_girl_0",
 
     "tinna_angel",
     "_wowyulia_",
@@ -395,6 +399,7 @@ let cb1Primary = [
 
     // studio
     "libbyshepard", // 🏓; stripchat: IdaJonesy
+    "ivy_whyte",
     "tessarosse_",
     "fleur_x_x",
     "chatur_babes_",
