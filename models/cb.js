@@ -138,6 +138,7 @@ let cb0Primary = [
     "maudcouncil",
     "e_vvv_a", // 🏓
     "veneradi615",
+    "scarlettt_moon",
 
     "sunshine_diana_",
     "mia__amore",
@@ -153,7 +154,6 @@ let cb0Primary = [
     "dream_desire_",
     "mia_gothh",
     "keeleyfarro", // 🏓
-    "kathyclaytons",
     "charming_angel_",
 
     "ecsodia",
@@ -399,6 +399,7 @@ let cb1Primary = [
     "youreyeshere", // hairy, soft/fake spanks
 
     // studio
+    "kathyclaytons",
     "libbyshepard", // 🏓; stripchat: IdaJonesy
     "ivy_whyte",
     "tessarosse_",
