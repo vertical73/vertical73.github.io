@@ -64,6 +64,11 @@ let cbSecondary = [
     "melani_lesss", // 🏓
     "angel_in_tibet",
 
+    "kathariine", // 🇺🇦 // 🏓
+    "dollyemy", // 🏓🏓
+    "ingergirl",
+    "babe_bucks",
+
     // strictly eye candy
     "_isiah", // "isia_slay",
     "xxx_leila", // 🏓
@@ -71,11 +76,7 @@ let cbSecondary = [
     "mia_elfie",
     "sweet_tinker_bell",
     "ksensual",
-
-    "kathariine", // 🇺🇦 // 🏓
-    "dollyemy", // 🏓🏓
-    "ingergirl",
-    "babe_bucks",
+    "audreycarvin",
 
     // couples
 
@@ -118,7 +119,6 @@ let cb0Primary = [
     "amazon_girl",
 
     // strictly eye candy, 3
-    "audreycarvin",
     "ooxygenlow",
     "love_melody",
     "erelima",
@@ -139,6 +139,7 @@ let cb0Primary = [
     "e_vvv_a", // 🏓
     "veneradi615",
     "scarlettt_moon",
+    "cutieeeeva",
 
     "sunshine_diana_",
     "mia__amore",
@@ -164,7 +165,6 @@ let cb0Primary = [
     "friendlyfire6", // 🏓
 
     "jelly_w5", // "jelly_w",
-    "alyssa_smitt",
     "hornyvillage",
     "agata_iris",
     "curlylolly",
@@ -190,11 +190,12 @@ let cb0Primary = [
     "anbarbie",
     "milky__way_",
     "miss_sweetdream",
+    "friend_foryou",
+    "gina_vicious",
 
     "klttys__pearl",
     "plastic_beach",
     "brielloo",
-    "your_bunnygirl",
     "darina_night",
     "polusladkoye",
     "evamatthews",
@@ -208,6 +209,7 @@ let cb0Primary = [
     "hannahlusttt",
     "wladilia",
     "ayshekisskitty",
+    "hot_ho",
 
     "monster_high",
     "paaulina",
@@ -225,6 +227,8 @@ let cb1Primary = [
     "your_bunnygirl", // 🇺🇦
     "vopooo",
     "shiningdawn",
+
+    "alyssa_smitt",
     "my_lina",
     "joybunny",
     "taitehambelton",
@@ -346,7 +350,6 @@ let cb1Primary = [
     "1i1ypa1mer",
 
     // couples, 4
-    "hot_ho",
     "vanilla_lips",
     "shineblue2728",
     "logan_emma1",
