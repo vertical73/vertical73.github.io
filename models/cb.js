@@ -139,6 +139,7 @@ let cb0Primary = [
     "e_vvv_a", // 🏓
     "scarlettt_moon",
     "cutieeeeva",
+    "lolamaythebae",
 
     "sunshine_diana_",
     "mia__amore",
@@ -164,7 +165,8 @@ let cb0Primary = [
     "friendlyfire6", // 🏓
 
     "jelly_w5", // "jelly_w",
-    "hornyvillage",
+    "eva_pixie", // "hornyvillage",
+    "pussylovekate",
     "agata_iris",
     "curlylolly",
     "bestzoeyever",
@@ -192,6 +194,8 @@ let cb0Primary = [
     "milky__way_",
     "miss_sweetdream",
     "veneradi615",
+    "yaraliebe",
+    "lovepilll",
 
     "klttys__pearl",
     "plastic_beach",
@@ -210,6 +214,7 @@ let cb0Primary = [
     "wladilia",
     "ayshekisskitty",
     "hot_ho",
+    "notfallenangel",
 
     "monster_high",
     "paaulina",
