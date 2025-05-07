@@ -66,10 +66,6 @@ let cbSecondary = [
     "angel_in_tibet",
     "mirai_meow",
 
-    "kathariine", // 🇺🇦 // 🏓
-    "ingergirl",
-    "babe_bucks",
-
     // strictly eye candy
     "_isiah", // "isia_slay",
     "xxx_leila", // 🏓
@@ -78,6 +74,10 @@ let cbSecondary = [
     "sweet_tinker_bell",
     "ksensual",
     "audreycarvin",
+
+    "kathariine", // 🇺🇦 // 🏓
+    "ingergirl",
+    "babe_bucks",
 
     // couples
 
@@ -357,7 +357,6 @@ let cb1Primary = [
 
     // couples, 4
     "vanilla_lips",
-    "shineblue2728",
     "logan_emma1",
     "familysexy34",
     "postbaby",
