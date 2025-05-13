@@ -63,6 +63,8 @@ let cbSecondary = [
     "melani_lesss", // 🏓
     "angel_in_tibet",
     "mirai_meow",
+    "loony_moony",
+    "cutieeeeva",
 
     // strictly eye candy
     "_isiah", // "isia_slay",
@@ -111,8 +113,6 @@ let cb0Primary = [
     // couples, 2
     "playwithmil",
     "milly____",
-    "catanddickxxx",
-    "masqueradeporn",
 
     // idle
     "popsytopsy",
@@ -138,7 +138,6 @@ let cb0Primary = [
     "maudcouncil",
     "e_vvv_a", // 🏓
     "scarlettt_moon",
-    "cutieeeeva",
     "lolamaythebae",
 
     "sunshine_diana_",
@@ -196,7 +195,9 @@ let cb0Primary = [
     "yaraliebe",
     "lovepilll",
     "treplady",
-    "snow_flakee",
+    "bellacle",
+    "smile_with_nicole",
+    "angela_whitie",
 
     "klttys__pearl",
     "plastic_beach",
@@ -215,6 +216,8 @@ let cb0Primary = [
     "wladilia",
     "ayshekisskitty",
     "hot_ho",
+    "catanddickxxx",
+    "masqueradeporn",
 
     "monster_high",
     "paaulina",
