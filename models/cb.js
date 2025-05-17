@@ -83,6 +83,7 @@ let cbSecondary = [
     "anna_bri",
 
     // couples
+    "playwithmil",
 
     // idle
     "sugarbae_haze",
@@ -113,7 +114,6 @@ let cb0Primary = [
     "kira_censori", // 🏓
 
     // couples, 2
-    "playwithmil",
     "milly____",
 
     // idle
@@ -143,6 +143,7 @@ let cb0Primary = [
     "lolamaythebae",
     "lucylia_",
     "ariah_is_blonde",
+    "luxureart", // 🏓
 
     "sunshine_diana_",
     "mia__amore",
