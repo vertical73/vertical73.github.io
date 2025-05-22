@@ -72,9 +72,11 @@ let cbSecondary = [
     // getting to know
     "melani_lesss", // 🏓
     "mirai_meow",
+    "rosa_burgess",
     "loony_moony",
     "cutieeeeva",
     "goodg_oddamn",
+    "wild_wet_lovely",
 
     "kathariine", // 🇺🇦 // 🏓
     "ingergirl",
@@ -201,7 +203,6 @@ let cb0Primary = [
     "treplady",
     "bellacle",
     "smile_with_nicole",
-    "angela_whitie",
     "chisamisa",
 
     "blondie_muller",
