@@ -75,8 +75,7 @@ let cbSecondary = [
     "rosa_burgess",
     "loony_moony",
     "cutieeeeva",
-    "goodg_oddamn",
-    "wild_wet_lovely",
+    "gwendolynharkey",
 
     "kathariine", // 🇺🇦 // 🏓
     "ingergirl",
@@ -86,6 +85,7 @@ let cbSecondary = [
 
     // couples
     "playwithmil",
+    "catanddickxxx",
 
     // idle
     "sugarbae_haze",
@@ -146,6 +146,9 @@ let cb0Primary = [
     "lucylia_",
     "ariah_is_blonde",
     "luxureart", // 🏓
+    "slimmaya",
+    "goodg_oddamn",
+    "wild_wet_lovely",
 
     "sunshine_diana_",
     "mia__amore",
@@ -169,6 +172,7 @@ let cb0Primary = [
     "alisagoddie19",
     "alexiafoxmodel", // 🏓
     "friendlyfire6", // 🏓
+    "kawaimay",
 
     "jelly_w5", // "jelly_w",
     "eva_pixie", // "hornyvillage",
@@ -204,6 +208,7 @@ let cb0Primary = [
     "bellacle",
     "smile_with_nicole",
     "chisamisa",
+    "your_nicolett",
 
     "blondie_muller",
     "klttys__pearl",
@@ -222,8 +227,8 @@ let cb0Primary = [
     "wladilia",
     "ayshekisskitty",
     "hot_ho",
-    "catanddickxxx",
     "masqueradeporn",
+    "familysexy34",
 
     "monster_high",
     "paaulina",
