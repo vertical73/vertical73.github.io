@@ -182,7 +182,6 @@ let cb0Primary = [
     "bestzoeyever",
     "pathos_of_things", // "neko_kimiko",
     "juicy_angels", // 🏓
-    "aquilaria_",
 
     // strictly eye candy, 2
     "jennytime",
@@ -209,6 +208,7 @@ let cb0Primary = [
     "bellacle",
     "chisamisa",
     "your_nicolett",
+    "mia_meows",
 
     "blondie_muller",
     "klttys__pearl",
@@ -369,6 +369,8 @@ let cb1Primary = [
     "milla_remmy",
     "jelli_jennifer",
     "1i1ypa1mer",
+    "pickme__",
+    "aquilaria_",
 
     // couples, 4
     "vanilla_lips",
