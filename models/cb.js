@@ -83,10 +83,6 @@ let cbSecondary = [
     "hit_girl_",
     "anna_bri",
 
-    // couples
-    "playwithmil",
-    "catanddickxxx",
-
     // idle
     "sugarbae_haze",
     "lovahd",
@@ -98,7 +94,11 @@ let cbSecondary = [
     "hayley__lee",
     "feelmemore",
     "kristin_mordor",
-    "sweetsnejana"
+    "sweetsnejana",
+
+    // couples
+    "playwithmil",
+    "catanddickxxx"
 ];
 
 let fn__cbPrimary = async () => { cbPrimary.forEach(m => addModel(m, 23)); }
@@ -150,7 +150,6 @@ let cb0Primary = [
     "slimmaya",
     "goodg_oddamn",
     "wild_wet_lovely",
-    "angelaguapisima",
 
     "sunshine_diana_",
     "mia__amore",
@@ -372,6 +371,7 @@ let cb1Primary = [
     "1i1ypa1mer",
     "pickme__",
     "aquilaria_",
+    "angelaguapisima",
     "your_nicolett",
 
     // couples, 4
