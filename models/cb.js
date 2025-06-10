@@ -18,8 +18,10 @@ let cbSecondary = [
     "qeeensgambit",
     "wild_schoolgirl", // 🇷🇴
 
+    "rodde_schlocer",
+    "aurorashiine", // 🏓
+
     "flowerr_powerr", // 🏓🏓🏓
-    "agata_cristy", // 🏓
 
     "lexy_sinn", // 🏓🏓
     "saimashine", // 🏓🏓🏓
@@ -31,26 +33,25 @@ let cbSecondary = [
     "shinyways", // 🏓🏓
     "_taylor_swift", // 🏓
     "jilly_wolly1",
+    "agata_cristy", // 🏓
 
     "yournaughtymiss",
     "evelissa",
-    "neondemon_",
     "whitebanny", // 🏓
-
-    // problematic
-    "bustykatia", // 🇷🇴
-    "freyaeva", // 🇷🇴
 
     "lexi_ridss_", // 🇺🇦
     "marylanex", // 🇺🇦
     "misstics_", // 🇺🇦
 
+    // problematic
+    "bustykatia", // 🇷🇴
+    "freyaeva", // 🇷🇴
+
     "candyfeatcrush",
     "onecuteangel",
 
-    "rodde_schlocer",
     "dearly_emily", // 🏓
-    "aurorashiine", // 🏓
+    "neondemon_",
 
     "mary_delray",
     "frauchocolate", // 🏓🏓🏓 (face slapping on request?)
@@ -76,6 +77,7 @@ let cbSecondary = [
     "loony_moony",
     "cutieeeeva",
     "gwendolynharkey",
+    "catherenee",
 
     "kathariine", // 🇺🇦 // 🏓
     "ingergirl",
@@ -123,10 +125,11 @@ let cb0Primary = [
     "mynameisnikki",
     "amazon_girl",
 
-    // strictly eye candy, 3
+    // strictly eye candy, 2
     "ooxygenlow",
     "love_melody",
     "erelima",
+    "gina_vicious",
 
     "veronikaav",
     "eva_doll_4u", // "elizabad",
@@ -166,6 +169,7 @@ let cb0Primary = [
     "mia_gothh",
     "keeleyfarro", // 🏓
     "charming_angel_",
+    "diroill",
 
     "ecsodia",
     "lastdawn", // 🏓🏓
@@ -182,7 +186,7 @@ let cb0Primary = [
     "pathos_of_things", // "neko_kimiko",
     "juicy_angels", // 🏓
 
-    // strictly eye candy, 2
+    // strictly eye candy, 3
     "jennytime",
     "bunnydollstella",
     "babeholly",
@@ -192,6 +196,7 @@ let cb0Primary = [
     "lauratanguy",
     "_eva_blame_",
     "ab_s",
+    "bellean_blare",
 
     // getting to know, 3
     "friend_foryou",
@@ -204,12 +209,11 @@ let cb0Primary = [
     "miss_sweetdream",
     "veneradi615",
     "yaraliebe",
-    "bellacle",
-    "chisamisa",
     "mia_meows",
     "dollyvega",
     "amilia4u",
 
+    "demmi_foxy",
     "blondie_muller",
     "klttys__pearl",
     "plastic_beach",
@@ -219,6 +223,7 @@ let cb0Primary = [
     "shachatte",
     "gold_blond",
     "hornybunnyss",
+    "annie_f0x",
 
     // couples, 3
     "viktoranmary",
@@ -236,7 +241,6 @@ let cb0Primary = [
     "pussylovekate",
 
     // slutty appeal
-    "_eva_queen",
     "fox_alina",
     "_lustica_",
     "cute_shine"
@@ -252,7 +256,6 @@ let cb1Primary = [
     "joybunny",
     "taitehambelton",
     "kusssecka",
-    "annie_f0x",
     "emilyy_miller",
 
     "angel_ocu",
@@ -372,6 +375,7 @@ let cb1Primary = [
     "pickme__",
     "aquilaria_",
     "angelaguapisima",
+    "bellacle",
     "your_nicolett",
 
     // couples, 4
