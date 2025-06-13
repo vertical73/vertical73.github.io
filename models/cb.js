@@ -78,6 +78,7 @@ let cbSecondary = [
     "cutieeeeva",
     "gwendolynharkey",
     "catherenee",
+    "wynol",
 
     "kathariine", // 🇺🇦 // 🏓
     "ingergirl",
@@ -153,6 +154,7 @@ let cb0Primary = [
     "goodg_oddamn",
     "wild_wet_lovely",
     "cindy_luv",
+    "tinkerdinky",
 
     "sunshine_diana_",
     "mia__amore",
@@ -221,7 +223,7 @@ let cb0Primary = [
     "shachatte",
     "gold_blond",
     "hornybunnyss",
-    "annie_f0x",
+    "mia_riley_online",
 
     // couples, 3
     "viktoranmary",
@@ -265,8 +267,10 @@ let cb1Primary = [
     "my_blonde", // 🇺🇦
 
     "the_anya", // 🇺🇦
-    "kawaimay",
+
+    "annie_f0x",
     "urbabykam",
+    "kawaimay",
 
     "mary_janee__",
     "superior_cat",
