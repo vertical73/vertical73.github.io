@@ -76,7 +76,6 @@ let cbSecondary = [
     "rosa_burgess",
     "loony_moony",
     "cutieeeeva",
-    "gwendolynharkey",
     "catherenee",
     "wynol",
 
@@ -156,6 +155,8 @@ let cb0Primary = [
     "cindy_luv",
     "tinkerdinky",
     "holl1would",
+    "mickeydior",
+    "whisperprincess",
 
     "sunshine_diana_",
     "mia__amore",
@@ -215,6 +216,7 @@ let cb0Primary = [
     "mia_meows",
     "waifu_exe",
     "shy_starlight",
+    "diamond_sydney", // 🇺🇦
 
     "demmi_foxy",
     "blondie_muller",
@@ -227,6 +229,7 @@ let cb0Primary = [
     "gold_blond",
     "hornybunnyss",
     "mia_riley_online",
+    "_your_tessa",
 
     // couples, 3
     "viktoranmary",
