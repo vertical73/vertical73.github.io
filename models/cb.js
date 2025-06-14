@@ -155,6 +155,7 @@ let cb0Primary = [
     "wild_wet_lovely",
     "cindy_luv",
     "tinkerdinky",
+    "holl1would",
 
     "sunshine_diana_",
     "mia__amore",
@@ -212,6 +213,8 @@ let cb0Primary = [
     "veneradi615",
     "yaraliebe",
     "mia_meows",
+    "waifu_exe",
+    "shy_starlight",
 
     "demmi_foxy",
     "blondie_muller",
@@ -265,12 +268,12 @@ let cb1Primary = [
     "alissa_wxw", // 🇺🇦
     "_sunny_mood", // 🇺🇦
     "my_blonde", // 🇺🇦
-
     "the_anya", // 🇺🇦
 
     "annie_f0x",
     "urbabykam",
     "kawaimay",
+    "ass_latte",
 
     "mary_janee__",
     "superior_cat",
