@@ -119,6 +119,7 @@ let cb0Primary = [
 
     // couples, 2
     "milly____",
+    "ayshekisskitty",
 
     // idle
     "popsytopsy",
@@ -126,6 +127,7 @@ let cb0Primary = [
     "amazon_girl",
 
     // strictly eye candy, 2
+    "bellean_blare",
     "ooxygenlow",
     "love_melody",
     "erelima",
@@ -133,7 +135,6 @@ let cb0Primary = [
 
     "veronikaav",
     "eva_doll_4u", // "elizabad",
-    "myliss",
 
     // getting to know 2
     "treplady",
@@ -204,7 +205,7 @@ let cb0Primary = [
     "lauratanguy",
     "_eva_blame_",
     "ab_s",
-    "bellean_blare",
+    "myliss",
 
     // getting to know, 3
     "friend_foryou",
@@ -221,6 +222,7 @@ let cb0Primary = [
     "shelly333",
     "waifu_exe",
     "sarahcarrter",
+    "your_misstress",
 
     "demmi_foxy",
     "blondie_muller",
@@ -239,7 +241,6 @@ let cb0Primary = [
     "viktoranmary",
     "hannahlusttt",
     "wladilia",
-    "ayshekisskitty",
     "hot_ho",
     "masqueradeporn",
     "familysexy34",
