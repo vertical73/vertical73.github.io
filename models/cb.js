@@ -169,7 +169,6 @@ let cb0Primary = [
     "megan_myersss",
     "ami_sakurami",
     "naive_love",
-    "hello_vivienne",
     "dream_desire_",
     "mia_gothh",
     "keeleyfarro", // 🏓
@@ -213,6 +212,7 @@ let cb0Primary = [
     "your_misstress",
     "sirena_princess",
     "3stepsaboveheaven",
+    "_kiki_pie",
 
     // strictly eye candy, 3
     "jennytime",
@@ -250,6 +250,7 @@ let cb0Primary = [
 
     "monster_high",
     "paaulina",
+    "hello_vivienne",
     "milla_remmy",
     "vi_ana_shi",
     "pussylovekate",
