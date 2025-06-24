@@ -150,7 +150,6 @@ let cb0Primary = [
     "luxureart", // 🏓
     "goodg_oddamn",
     "wild_wet_lovely",
-    "cindy_luv",
     "tinkerdinky",
     "whisperprincess",
     "rosa_burgess",
@@ -202,10 +201,10 @@ let cb0Primary = [
     "shelly333",
     "waifu_exe",
     "sirena_princess",
-    "3stepsaboveheaven",
     "_kiki_pie",
     "_fieryflash_",
     "mercy_bloom",
+    "darlingdarinka",
 
     "eva_pixie", // "hornyvillage",
     "agata_iris",
@@ -296,6 +295,7 @@ let cb1Primary = [
     "gwendolynharkey",
     "holl1would",
     "luckyday_",
+    "3stepsaboveheaven",
 
     "kawaimay",
     "annie_f0x",
@@ -306,6 +306,7 @@ let cb1Primary = [
     "the_humble_fox_69",
     "wild_angel777", // 🇺🇦
     "bella_white19",
+    "cindy_luv",
 
     // strictly eye candy, 3
     "beatrice_melton",
