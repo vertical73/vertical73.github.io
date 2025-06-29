@@ -152,6 +152,7 @@ let cb0Primary = [
     "wild_wet_lovely",
     "tinkerdinky",
     "darlingdarinka",
+    "why_____not",
     "whisperprincess",
     "rosa_burgess",
     "your_misstress",
@@ -209,6 +210,8 @@ let cb0Primary = [
     "b4by_emilia",
     "woman_content",
     "en_hi1",
+    "college_girl_",
+    "agent_blonde",
 
     "eva_pixie", // "hornyvillage",
     "agata_iris",
@@ -245,6 +248,7 @@ let cb0Primary = [
     "gold_blond",
     "hornybunnyss",
     "ssscarlett",
+    "cute_shine",
 
     // couples, 3
     "viktoranmary",
@@ -268,7 +272,6 @@ let cb0Primary = [
     "sherry_sandra",
     "fox_alina",
     "_lustica_",
-    "cute_shine",
     "slimmaya"
 ];
 let cb1Primary = [
