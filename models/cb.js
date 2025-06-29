@@ -119,6 +119,7 @@ let cb0Primary = [
     "milly____",
     "familysexy34",
     "ayshekisskitty",
+    "logan_emma1",
 
     // idle
     "popsytopsy",
@@ -163,7 +164,6 @@ let cb0Primary = [
     "tollysage",
     "naive_love",
     "cutieeeeva",
-    "joybunny",
 
     "mia__amore",
     "miolia",
@@ -171,7 +171,6 @@ let cb0Primary = [
     "natalie_x",
     "jasminetoy",
     "megan_myersss",
-    "loony_moony",
     "dream_desire_",
     "mia_gothh",
     "keeleyfarro", // 🏓
@@ -193,6 +192,7 @@ let cb0Primary = [
     "lisa_marxsss",
     "x_lina",
     "blondyrush",
+    "kissing33", // 🇺🇦
     "anbarbie",
     "milky__way_",
     "miss_sweetdream",
@@ -207,6 +207,7 @@ let cb0Primary = [
     "mercy_bloom",
     "sweetgirlandbigcock",
     "lucylia_",
+    "b4by_emilia",
     "woman_content",
     "en_hi1",
 
@@ -299,6 +300,7 @@ let cb1Primary = [
     "holl1would",
     "luckyday_",
     "3stepsaboveheaven",
+    "joybunny",
 
     "kawaimay",
     "annie_f0x",
@@ -310,6 +312,7 @@ let cb1Primary = [
     "wild_angel777", // 🇺🇦
     "bella_white19",
     "cindy_luv",
+    "loony_moony",
 
     // strictly eye candy, 3
     "beatrice_melton",
@@ -418,7 +421,6 @@ let cb1Primary = [
 
     // couples, 4
     "vanilla_lips",
-    "logan_emma1",
     "familysexy34",
     "postbaby",
     "eternal__lovers",
