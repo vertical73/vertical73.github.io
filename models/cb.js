@@ -152,6 +152,7 @@ let cb0Primary = [
     "mia_meows",
     "carrie145",
     "queen_kitty1818",
+    "diana_dii_01",
 
     "veronikaav",
     "jasminetoy",
@@ -178,7 +179,6 @@ let cb0Primary = [
     "_fieryflash_",
     "polynessia", // my_lina
     "truesue",
-    "_kiki_pie",
     "_annybunny_",
     "breeding_material",
     "sincere_shyness", // 🏓🏓
@@ -314,6 +314,7 @@ let cb1Primary = [
     "en_hi1",
     "college_girl_",
     "agent_blonde",
+    "_kiki_pie",
 
     "eva_pixie", // "hornyvillage",
     "agata_iris",
