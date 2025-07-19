@@ -61,17 +61,19 @@ let cbSecondary = [
 
     // strictly eye candy
     "_isiah", // "isia_slay",
-    "star_gazing",
     "mia_elfie",
     "sweet_tinker_bell",
-    "ksensual",
-    "anna_bri",
+    "catherenee",
 
     // getting to know
-    "catherenee",
     "melani_lesss", // 🏓
     "mirai_meow",
     "sweetgirlandbigcock",
+
+    // strictly eye candy, 2
+    "star_gazing",
+    "anna_bri",
+    "ksensual",
 
     "candyfeatcrush",
     "onecuteangel",
@@ -154,6 +156,7 @@ let cb0Primary = [
     "queen_kitty1818",
     "diana_dii_01",
     "second_aid", // 🏓
+    "showmejenny",
 
     "veronikaav",
     "jasminetoy",
