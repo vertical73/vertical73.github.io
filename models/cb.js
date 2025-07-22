@@ -77,10 +77,6 @@ let cbSecondary = [
     "ksensual",
 
     "babe_bucks",
-    "candyfeatcrush",
-    "onecuteangel",
-    "mary_delray",
-
     "dearly_emily", // 🏓
     "neondemon_",
 
@@ -108,6 +104,10 @@ fn__cbSecondary();
 let cb0Primary = [
     "yamaguchi_",
     "xxx_leila", // 🏓
+
+    "candyfeatcrush",
+    "onecuteangel",
+    "mary_delray",
 
     "juliet_bb",
     "vilanelle_1",
@@ -153,7 +153,7 @@ let cb0Primary = [
     "carrie145",
     "queen_kitty1818",
     "diana_dii_01",
-	
+
     "veronikaav",
     "jasminetoy",
     "mia_gothh",
