@@ -187,6 +187,8 @@ let cb0Primary = [
     "luckyday_",
     "carrie145",
     "polynessia", // my_lina
+    "haileybaileybb",
+    "sylvieadorableeeee",
 
     // getting to know, 0-3
     "scarletmore",
@@ -202,7 +204,6 @@ let cb0Primary = [
     "vika54784",
     "slaty_sugar",
     "rachel___mur",
-    "leiavelvet",
     "aleksa_cutie",
     "sofia__home",
 
@@ -333,6 +334,7 @@ let cb1Primary = [
     "whisperlure",
     "valerieh",
     "kissing33", // 🇺🇦
+    "leiavelvet",
 
     "eva_pixie", // "hornyvillage",
     "agata_iris",
