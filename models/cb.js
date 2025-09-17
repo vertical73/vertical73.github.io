@@ -215,6 +215,7 @@ let cb0Primary = [
     "leiavelvet",
     "hard_candy_gang",
     "snow_flakee",
+    "jessie98631",
 
     "bestzoeyever",
     "pathos_of_things", // "neko_kimiko",
@@ -245,7 +246,6 @@ let cb0Primary = [
     "natalinaxxx",
 
     // getting to know, 0-4
-    "avroramy",
     "_mary_chili"
 ];
 
@@ -255,6 +255,7 @@ let cb1Primary = [
     "erelima",
     "dollymelissa",
     "your_misstress",
+    "avroramy",
 
     "sunbeam181",
     "alvuwka",
