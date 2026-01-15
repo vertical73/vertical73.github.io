@@ -172,14 +172,15 @@ let cb0Primary = [
     "cute_shine",
     "naive_love",
 
-    // couples 0-2
+    // couples, 0-2
     "familysexy34",
     "hiddendesire6",
+    "cream_fucks",
     
-    // strictly eye candy 0-2
+    // strictly eye candy, 0-2
     "mist_mia",
 
-    // getting to know 0-2
+    // getting to know, 0-2
     "rosa_burgess",
     "darlingdarinka",
     "miafosterx",
@@ -236,7 +237,7 @@ let cb0Primary = [
     "charming_angel_", // "mia_riley_online"
     "victoriahouston",
 
-    // couples, 0-2
+    // couples, 0-3
     "viktoranmary",
     "hannahlusttt",
     "hot_ho",
