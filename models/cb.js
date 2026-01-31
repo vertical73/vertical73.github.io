@@ -57,9 +57,6 @@ let cbSecondary = [
     "marylanex", // 🇺🇦
     "misstics_", // 🇺🇦
 
-    // token sieves 💸
-    //"agent_blonde",
-
     "nikkibloom_xoxo", // nikkibloomxoxo,
     "pornostorys",
     "dollyemy", // 🏓🏓
@@ -75,7 +72,7 @@ let cbSecondary = [
     "melani_lesss", // 🏓
     "emma_lov2",
 
-    // strictly eye candy, 2
+    // strictly eye candy, 23
     "polynessia", // my_lina
     "inkanuko",
     "anna_bri",
@@ -97,7 +94,7 @@ let cbSecondary = [
     "innocentchurchgirl",
     "cutieeeeva",
 
-    // strictly eye candy, 3
+    // strictly eye candy, 4
     "ingergirl",
     "mickeydior",
 
@@ -177,6 +174,9 @@ let cb0Primary = [
     // strictly eye candy, 0-2
     "mist_mia",
 
+    // token sieves 💸
+    "agent_blonde",
+
     // getting to know, 0-2
     "rosa_burgess",
     "darlingdarinka",
@@ -187,7 +187,6 @@ let cb0Primary = [
 
     // couples, 0-2
     "familysexy34",
-    "hiddendesire6",
 
     // slutty appeal, 0-1
     "allfine_", // "sweetgirlandbigcock",
@@ -295,6 +294,7 @@ let cb1Primary = [
     "_fieryflash_",
     "say_and_kiss",
     "cream_fucks",
+    "hiddendesire6",
 
     // strictly eye candy, 1-1
     "dollymelissa",
