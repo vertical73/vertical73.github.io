@@ -79,8 +79,13 @@ let cbSecondary = [
     "minions_",
 
     "babe_bucks",
+    "hit_girl_",
+
     "neondemon_",
     "lastdawn", // 🏓🏓
+
+    "lili__roze_",
+    "ink_soul",
 
     // couples 2
     "playwithmil",
@@ -133,11 +138,12 @@ let cb0Primary = [
     "juliet_bb",
     "kira_censori", // 🏓
     "vikinamnu",
-    "lili__roze_",
 
     // couples, 0-1
     "milly____",
     "alissgrey",
+
+    "nikkicchu", // "mynameisnikki_", // "mynameisnikki",
 
     // idle
     "popsytopsy",
@@ -155,7 +161,6 @@ let cb0Primary = [
     "gina_vicious",
     "valerieh",
     "star_gazing",
-    "hit_girl_",
 
     // strictly eye candy, 0-2
 
@@ -166,7 +171,6 @@ let cb0Primary = [
     "rosa_burgess",
     "darlingdarinka",
     "miafosterx",
-    "ink_soul",
 
     "cute_shine",
     "naive_love",
@@ -227,7 +231,6 @@ let cb0Primary = [
     "bitehoneyice",
 
     // slutty appeal, 0-2
-    "nikkicchu", // "mynameisnikki_", // "mynameisnikki",
     "ewagreen",
 
     // getting to know, 0-4
