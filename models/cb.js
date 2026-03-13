@@ -206,6 +206,7 @@ let cb0Primary = [
     "lanamaex",
     "little_style",
     "mary_meys",
+    "lisa_mccoy",
 
     "unnabella",
     "bestzoeyever",
@@ -225,6 +226,7 @@ let cb0Primary = [
     "hannahlusttt",
     "hot_ho",
     "masqueradeporn",
+    "_encisseria_",
 
     // strictly eye candy, 0-4
     "bitehoneyice",
