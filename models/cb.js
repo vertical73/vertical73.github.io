@@ -173,6 +173,7 @@ let cb0Primary = [
     "jelli_jennifer",
     "eva_mp3",
     "takanasin",
+    "mika_reid",
 
     "cute_shine",
     "naive_love",
@@ -230,6 +231,7 @@ let cb0Primary = [
     "hannahlusttt",
     "hot_ho",
     "masqueradeporn",
+    "cream_fucks",
 
     // slutty appeal, 0-2
     "ewagreen",
