@@ -183,7 +183,6 @@ let cb0Primary = [
     "maribett",
     "milinamarvelous",
     "mollybabyx",
-    "polly_milles",
 
     "cute_shine",
     "naive_love",
@@ -238,6 +237,7 @@ let cb0Primary = [
     "mist_mia",
     "charming_angel_", // "mia_riley_online"
     "slimmaya",
+    "song_about_you",
 
     // couples, 0-3
     "_encisseria_",
@@ -345,6 +345,7 @@ let cb1Primary = [
     "dallass_and_vegas",
     "valenora1",
     "deandrasankowski",
+    "polly_milles",
 
     // couples, 1-1
     "marylou2000",
