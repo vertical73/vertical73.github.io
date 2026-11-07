@@ -68,6 +68,15 @@
     visibility: visible;
 }
 
+/* Show label while pressed */
+.model:active::after,
+
+/* Show label while focused */
+.model:focus-within::after {
+    opacity: 1;
+    visibility: visible;
+}
+
 /* Hover behavior: mouse/trackpad */
 @media (hover: hover) and (pointer: fine) {
     .model:hover::after {
