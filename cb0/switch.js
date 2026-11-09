@@ -23,3 +23,41 @@ if (main) {
         }
     });
 }
+
+// Display a temporary label
+let activeModel = null;
+let hideTimer = null;
+
+function showInfo(channel) {
+    if (hideTimer) {
+        clearTimeout(hideTimer);
+    }
+
+    if (activeModel) {
+        activeModel.classList.remove('show-info');
+    }
+
+    channel.classList.remove('intro-label');
+    channel.classList.remove('show-info');
+
+    // Restart the CSS animation
+    void channel.offsetWidth;
+
+    channel.classList.add('show-info');
+    activeModel = channel;
+
+    hideTimer = setTimeout(function() {
+        channel.classList.remove('show-info');
+        activeModel = null;
+        hideTimer = null;
+    }, 2600);
+}
+
+
+// Original click/tap handling, with timed labels
+main.addEventListener('click', function(e) {
+    const channel = e.target.closest('.model');
+    if (!channel) return;
+
+    showInfo(channel);
+});

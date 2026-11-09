@@ -12,31 +12,7 @@
     pointer-events: none;
 }
 
-/*
-.model:hover::after,
-.model.show-info::after {
-    content: attr(data-label);
-    position: absolute;
-    bottom: 5px;
-    right: 5px;
-    padding: 6px 10px;
-    z-index: 100;
-    pointer-events: none;
-
-    background: rgba(0, 0, 0, 0.9);
-    color: #b0b0b0;
-    font-family: Inter, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    font-size: 13px;
-    font-weight: 500;
-    letter-spacing: 0.2px;
-    line-height: 1.4;
-    padding: 6px 10px;
-    border-radius: 4px;
-    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.8);
-}
-*/
-
-/* Base label styling (hidden by default) */
+/** Base label styling (hidden by default) **/
 .model::after {
     content: attr(data-label);
     position: absolute;
@@ -45,7 +21,7 @@
     z-index: 100;
     pointer-events: none;
 
-    /* Label appearance */
+    /** Label appearance **/
     background: rgba(0, 0, 0, 0.9);
     color: #b0b0b0;
     font-family: -apple-system, BlinkMacSystemFont, sans-serif;
@@ -57,30 +33,47 @@
     border-radius: 4px;
     text-shadow: 0 1px 2px rgba(0, 0, 0, 0.8);
 
-    /* Hidden until activated */
+    /** Hidden until activated **/
     opacity: 0;
     visibility: hidden;
 }
 
-/* Click or tap */
+/** Click or tap **/
 .model.show-info::after {
-    opacity: 1;
     visibility: visible;
+    /* opacity: 1; */
+    animation: label-click 4.75s ease forwards;
 }
 
-/* Show label while pressed */
+@keyframes label-click {
+    0% {
+        opacity: 0;
+    }
+    10% {
+        opacity: 1;
+    }
+    85% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+/** Show label while pressed **/
 .model:active::after,
 
-/* Show label while focused */
+/** Show label while focused **/
 .model:focus-within::after {
     opacity: 1;
     visibility: visible;
 }
 
-/* Hover behavior: mouse/trackpad */
+/** Hover behavior: mouse/trackpad **/
 @media (hover: hover) and (pointer: fine) {
     .model:hover::after {
-        opacity: 1;
         visibility: visible;
+        /* opacity: 1; */
+        animation: label-click 4.75s ease forwards;
     }
 }

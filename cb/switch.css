@@ -31,7 +31,7 @@
 /* Label fade in and out */
 .model.intro-label::after {
     visibility: visible;
-    animation: label-intro 20s linear forwards;
+    animation: label-intro 9.5s linear forwards;
 }
 
 @keyframes label-intro {
@@ -41,5 +41,26 @@
     100% {
         opacity: 0;
         visibility: hidden;
+    }
+}
+
+/* Click/tap label */
+.model.show-info::after {
+    visibility: visible;
+    animation: label-click 4.75s ease forwards;
+}
+
+@keyframes label-click {
+    0% {
+        opacity: 0;
+    }
+    10% {
+        opacity: 1;
+    }
+    85% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
     }
 }
