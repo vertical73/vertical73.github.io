@@ -42,7 +42,7 @@
 .model.show-info::after {
     visibility: visible;
     /* opacity: 1; */
-    animation: label-click 4.75s ease forwards;
+    animation: label-click 8.75s ease forwards;
 }
 
 @keyframes label-click {
@@ -74,6 +74,6 @@
     .model:hover::after {
         visibility: visible;
         /* opacity: 1; */
-        animation: label-click 4.75s ease forwards;
+        animation: label-click 8.75s ease forwards;
     }
 }
