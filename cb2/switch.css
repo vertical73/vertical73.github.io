@@ -1,16 +1,13 @@
-/*
-.model a {
-    pointer-events: none !important;
-}
-*/
 
 .model {
     position: relative;
 }
 
+/** Disable navigation through image links **/
 .model a {
     pointer-events: none;
 }
+
 
 /** Base label styling (hidden by default) **/
 .model::after {
@@ -33,15 +30,37 @@
     border-radius: 4px;
     text-shadow: 0 1px 2px rgba(0, 0, 0, 0.8);
 
-    /** Hidden until activated **/
+    /** Hidden by default **/
     opacity: 0;
     visibility: hidden;
 }
 
-/** Click or tap **/
+
+/** Introductory labels **/
+.model.intro-label::after {
+    visibility: visible;
+    animation: label-intro 10s linear forwards;
+}
+
+@keyframes label-intro {
+    0%, 1.25% {
+        opacity: 0;
+    }
+
+    10%, 90% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+        visibility: hidden;
+    }
+}
+
+
+/** Click/tap labels **/
 .model.show-info::after {
     visibility: visible;
-    /* opacity: 1; */
     animation: label-click 8.75s ease forwards;
 }
 
@@ -49,31 +68,26 @@
     0% {
         opacity: 0;
     }
+
     10% {
         opacity: 1;
     }
+
     85% {
         opacity: 1;
     }
+
     100% {
         opacity: 0;
     }
 }
 
-/** Show label while pressed **/
-.model:active::after,
 
-/** Show label while focused **/
-.model:focus-within::after {
-    opacity: 1;
-    visibility: visible;
-}
-
-/** Hover behavior: mouse/trackpad **/
+/** Desktop hover **/
 @media (hover: hover) and (pointer: fine) {
     .model:hover::after {
         visibility: visible;
-        /* opacity: 1; */
-        animation: label-click 8.75s ease forwards;
+        opacity: 1;
+        animation: none;
     }
 }
